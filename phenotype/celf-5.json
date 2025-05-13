@@ -1,0 +1,23 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Clinical Evaluation of Language Fundamentals (CELF-5)",
+        "TermURL": "https://www.pearsonclinical.com/language/products/100000705/clinical-evaluation-of-language-fundamentals-fifth-edition-celf-5.html#tab-details",
+        "Citation": "Wiig, E. H., Semel, E., Secord, W. A. (2013). Clinical Evaluation of Language Fundamentals (CELF-5). Bloomington, MN: PsychCorp."
+    },
+    "CELF_SC_Raw": {
+        "LongName": "CELF-5 Sentence Comprehension Raw Score",
+        "Description": "Sentence comprehension subtest raw score"
+    },
+    "CELF_SC_SS": {
+        "LongName": "CELF-5 Sentence Comprehension Standard Score",
+        "Description": "Sentence comprehension subtest standard score"
+    },
+    "CELF_RS_Raw": {
+        "LongName": "CELF-5 Recalling Sentences Raw Score",
+        "Description": "Recalling sentences subtest raw score"
+    },
+    "CELF_RS_SS": {
+        "LongName": "CELF-5 Recalling Sentences Standard Score",
+        "Description": "Recalling sentences subtest standard score"
+    }
+}
