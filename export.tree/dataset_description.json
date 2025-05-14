@@ -1,0 +1,26 @@
+{
+    "Name": "A fMRI neuroimaging dataset of word reading with semantic and phonological localizers in children and adolescents",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Jiuru Wang",
+        "Avery Vess",
+        "Avantika Mathur",
+        "Neelima Wagley",
+        "David Quinto-Pozos",
+        "James R. Booth"
+    ],
+    "Acknowledgements": "This project was supported by National Institute of Deafness and other Communication Disorders (grant numbers R01 DC018171) awarded to James R Booth. We thank Rachel Banik (Watkins), Angela Scruggs, Chris Brozdowski, Daniel Devor, Clara Plutzer, Rachael Rice, Anna Banaszkiewicz, and Carly Leannah.",
+    "HowToAcknowledge": "Please cite this paper: URL placeholder",
+    "Funding": [
+        "R01 DC018171 from National Institute of Deafness and other Communication Disorders (NIDCD)"
+    ],
+    "EthicsApprovals": [
+        "placeholder"
+    ],
+    "ReferencesAndLinks": [
+        "placeholder"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006239.v1.0.0"
+}
