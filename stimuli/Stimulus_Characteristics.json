@@ -1,13 +1,4 @@
 {
-  "MeasurementToolMetadata": {
-    "Description": "Experimental Measures",
-    "TermURL": "XX",
-    "Citation": "XX"
-  },
-  "EXAMP_LE": {
-    "LongName": "Example",
-    "Description": "Descriptive info"
-  },
   "ID": {
     "LongName": "ID Number",
     "Description": "Sequential numbers to organize the current dataset"
