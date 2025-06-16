@@ -1,0 +1,15 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Peabody Individual Achievement Test (PIAT)- Reading Comprehension",
+    "TermURL": "https://doi.org/10.1037/t15139-000",
+    "Citation": "Markwardt Jr, F. C. (1997). Peabody Individual Achievement Test--Revised--Normative Update."
+  },
+  "PIAT_Raw": {
+    "LongName": "PIAT Raw Score",
+    "Description": "PIAT raw score"
+  },
+  "PIAT_StS": {
+    "LongName": "PIAT Standard Score",
+    "Description": "PIAT standard score"
+  }
+}
