@@ -19,6 +19,8 @@
     "EthicsApprovals": [
         "placeholder"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "Wagley N, Banaszkiewicz A, Rice R, Plutzer C, Booth JR. Investigating the role of dIFG and vIFG in top-down and bottom-up influences during phonological and orthographic processing: an effective connectivity study of fMRI in children. OSF 2023. https://osf.io/eh7t9/"
+    ],
     "DatasetDOI": "doi:10.18112/openneuro.ds006239.v1.0.1"
 }
