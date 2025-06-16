@@ -13,14 +13,14 @@
     },
     "ses-date_MRI_D1": {
         "LongName": "Date at session 1 and day 1 acquisition of Standardized tests data",
-        "Description": "Date for ST at ses-1 day 1"
+        "Description": "Date for MRI at ses-1 day 1"
     },
     "ses-date_MRI_D2": {
         "LongName": "Date at session 1 and day 2 acquisition of Standardized tests data",
-        "Description": "Date for ST at ses-1 day 2"
+        "Description": "Date for MRI at ses-1 day 2"
     },
     "ses-date_MRI_D3": {
         "LongName": "Date at session 1 and day 3 acquisition of Standardized tests data",
-        "Description": "Date for ST at ses-1 day 3"
+        "Description": "Date for MRI at ses-1 day 3"
     }
 }
