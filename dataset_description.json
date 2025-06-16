@@ -19,8 +19,6 @@
     "EthicsApprovals": [
         "placeholder"
     ],
-    "ReferencesAndLinks": [
-        "Banaszkiewicz A, Wagley N, Plutzer C, Rice R, Booth J. The role of speech reading in skilled visual word processing in hearing children. OSF 2023. https://osf.io/zx2y9/"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds006239.v1.0.1"
 }
