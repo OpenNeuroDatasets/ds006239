@@ -1,8 +1,0 @@
-1.0.3 2025-10-13
-  - added 6 typical hearing participants, change phenotype accordingly; update all the files in derivatives, add task_count_per_subject
-1.0.2 2025-06-16
-  - update participants.json; upload derivatives/acc_rt folder; edit references and links, and ethics approvals
-1.0.1 2025-06-13
-  - update stimuli_characteristics.tsv and .json; upload /derivatives and /code folder
-1.0.0 2025-05-14
-  - initial upload of major part
