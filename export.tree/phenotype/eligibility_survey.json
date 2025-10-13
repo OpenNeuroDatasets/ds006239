@@ -1,0 +1,391 @@
+{
+    "record_id": {
+        "LongName": "Record ID",
+        "Description": "Identification number for participant"
+    },
+    "child_biological_sex": {
+        "LongName": "Biological Sex",
+        "Description": "Biological sex of participants",
+        "Levels": {
+            "1": "Male",
+            "2": "Female",
+            "3": "Other (Please describe)"
+        }
+    },
+    "child_gender": {
+        "LongName": "Child gender identity",
+        "Description": "What is your child's gender?",
+        "Levels": {
+            "1": "Male",
+            "2": "Female",
+            "3": "Non-Binary",
+            "4": "Other (Please describe)"
+        }
+    },
+    "child_race___1": {
+        "LongName": "American Indian or Alaska Native",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___2": {
+        "LongName": "Asian",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___3": {
+        "LongName": "Black or African American",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___4": {
+        "LongName": "Native Hawaiian or Other Pacific Islander",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___5": {
+        "LongName": "Two or More Races",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___6": {
+        "LongName": "White or Caucasian",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_race___7": {
+        "LongName": "Unknown or choose not to report",
+        "Description": "What is your child's race? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_ethnicity": {
+        "LongName": "Child ethnicity",
+        "Description": "What is your child's ethnicity? (Select all that apply)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_best_identifier___1": {
+        "LongName": "Identifies as Deaf",
+        "Description": "Participant is best identified as Deaf",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_best_identifier___2": {
+        "LongName": "Identifies as hard-of-hearing",
+        "Description": "Participant is best identified as hard-of-hearing",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_best_identifier___3": {
+        "LongName": "Identifies as hearing",
+        "Description": "Participant is best identified as hearing (e.g. no diagnosed or significant hearing loss)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "child_best_identifier___4": {
+        "LongName": "Does not identify with categories",
+        "Description": "Participant is best identified with a category not listed",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "other_child_best_identifier": {
+        "LongName": "Other hearing status",
+        "Description": "Explanation of hearing status"
+    },
+    "eng_access": {
+        "LongName": "English access",
+        "Description": "If your child uses English, at what age, did your child first have access to this language?",
+        "Levels": {
+            "1": "At Birth",
+            "2": "Birth to 6 months",
+            "3": "7 months to 12 months",
+            "4": "13 months to 24 months",
+            "5": "25 months to 36 months",
+            "6": "37 months to 48 months",
+            "7": "49 months to 60 months",
+            "8": "After 60 months",
+            "9": "My child does not use English"
+        }
+    },
+    "nicu_stay": {
+        "LongName": "NICU Stay",
+        "Description": "At birth, was your child admitted into neonatal intensive care?",
+        "Levels": {
+            "1": "Yes (Please describe)",
+            "2": "No",
+            "3": "Not Sure (Please describe)"
+        }
+    },
+    "yes_nicu_explanation": {
+        "LongName": "Explanation of NICU stay",
+        "Description": "Explanation of NICU stay"
+    },
+    "not_sure_nicu_explanation": {
+        "LongName": "Explanation of NICU stay",
+        "Description": "Explanation of NICU stay"
+    },
+    "head_injury": {
+        "LongName": "Head injury",
+        "Description": "Has your child ever experienced a head injury requiring emergency medical evaluation?",
+        "Levels": {
+            "1": "Yes (Please describe)",
+            "2": "No",
+            "3": "Not Sure"
+        }
+    },
+    "yes_head_injury": {
+        "LongName": "Explanation of head injury",
+        "Description": "Explanation of head injury"
+    },
+    "premature": {
+        "LongName": "Premature",
+        "Description": "Was your child premature at birth?",
+        "Levels": {
+            "1": "Yes (Please describe)",
+            "2": "No",
+            "3": "Not Sure (Please describe)"
+        }
+    },
+    "yes_premature": {
+        "LongName": "Explanation of premature birth",
+        "Description": "Explanation of premature birth"
+    },
+    "not_sure_premature": {
+        "LongName": "Explanation of premature birth",
+        "Description": "Explanation of premature birth"
+    },
+    "child_meds": {
+        "LongName": "Child medication",
+        "Description": "Does your child currently take any prescribed medications?",
+        "Levels": {
+            "1": "Yes (Please describe)",
+            "2": "No"
+        }
+    },
+    "yes_child_meds": {
+        "LongName": "Description of child medication use",
+        "Description": "Description of child medication use"
+    },
+    "child_vision": {
+        "LongName": "Child vision",
+        "Description": "Which of the statements below best describe your child's vision?",
+        "Levels": {
+            "1": "My child does not need glasses or contact lenses for normal vision.",
+            "2": "With glasses or contact lenses, my child's vision is corrected to normal levels.",
+            "3": "With glasses or contact lenses, my child's vision is still below normal levels."
+        }
+    },
+    "eye_wear": {
+        "LongName": "Eyewear",
+        "Description": "Does your child prefer to use glasses or contacts?",
+        "Levels": {
+            "1": "Glasses",
+            "2": "Contacts",
+            "3": "Both"
+        }
+    },
+    "type_of_corrective_lenses": {
+        "LongName": "Corrective lenses use",
+        "Description": "Describe the type of corrective lenses your child uses.",
+        "Levels": {
+            "1": "Far Sighted (needs for reading and focusing on close distances)",
+            "2": "Near Sighted (needs for focusing on objects at far distances)",
+            "3": "Both Close and Far Distances"
+        }
+    },
+    "neuro_disease": {
+        "LongName": "Neurological disease",
+        "Description": "Does your child have a neurological disease or epilepsy? If yes, please describe the type of neurological disease or epilepsy, and when it was first identified.",
+        "Levels": {
+            "1": "Yes (Please describe)",
+            "2": "No",
+            "3": "Not Sure"
+        }
+    },
+    "yes_neuro_disease": {
+        "LongName": "Description of neurological disease",
+        "Description": "Description of neurological disease"
+    },
+    "prev_diagnosed_conditions___1": {
+        "LongName": "Intellectual Disability",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___2": {
+        "LongName": "Developmental Delay",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___3": {
+        "LongName": "Communication Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+         "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___4": {
+        "LongName": "Autism Spectrum Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___5": {
+        "LongName": "Attention-Deficit/Hyperactivity Disorder",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___6": {
+        "LongName": "Specific Learning Disorder",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___7": {
+        "LongName": "Motor Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___8": {
+        "LongName": "Schizophrenia Spectrum and Other Psychotic Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___9": {
+        "LongName": "Bipolar and Related Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___10": {
+        "LongName": "Depressive Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___11": {
+        "LongName": "Anxiety Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___12": {
+        "LongName": "Obsessive-Compulsive and Related Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___13": {
+        "LongName": "Trauma- and Stressor-Related Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___14": {
+        "LongName": "Disruptive, Impulse-Control, and Conduct Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___15": {
+        "LongName": "Substance-Related and Addictive Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___16": {
+        "LongName": "Sleep Disorders",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___17": {
+        "LongName": "None",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___18": {
+        "LongName": "Other",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_diagnosed_conditions___19": {
+        "LongName": "Language Delay",
+        "Description": "Has your child been identified or diagnosed with any of the following conditions? (Please select all that apply.)",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    }
+}
