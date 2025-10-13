@@ -1,84 +1,90 @@
-participant_ID	Otoscopy	PT_screening_passed	SIN-List	SNR_A	SNR_B	AVG_SNR
-sub-1002	n/a	yes	n/a	n/a	n/a	n/a
-sub-1076	clear	yes	1A&1B	0.5	-1.5	-0.5
-sub-1077	clear	yes	1A&1B	-0.5	-2.5	-1.5
-sub-1078	clear	yes	1A&1B	0.5	1.5	1
-sub-1079	clear	yes	1A&1B	0.5	1.5	1
-sub-1080	clear	yes	1A&1B	1.5	1.5	1.5
-sub-1081	clear	yes	1A&1B	n/a	n/a	n/a
-sub-1082	clear	yes	1A&1B	2.5	3.5	3
-sub-1083	clear	yes	1A&1B	-1.5	-0.5	-1
-sub-1084	clear	yes	1A&1B	2.5	1.5	2
-sub-1086	clear	yes	1A&1B	3.5	0.5	2
-sub-1089	n/a	yes	n/a	n/a	n/a	n/a
-sub-1090	clear	yes	1A&1B	n/a	n/a	n/a
-sub-1091	clear	yes	1A&1B	3.5	2.5	3
-sub-1101	not clear	yes	1A&1B	-1.5	0.5	-0.5
-sub-1102	clear	yes	1A&1B	2.5	-0.5	1
-sub-1103	clear	yes	1A&1B	1.5	-1.5	0
-sub-1105	clear	yes	1A&1B	2.5	-0.5	1
-sub-1107	clear	yes	1A&1B	0.5	1.5	1
-sub-1110	clear	yes	1A&1B	1.5	4.5	3
-sub-1111	n/a	yes	n/a	n/a	n/a	n/a
-sub-1116	clear	yes	2A&2B	0.5	-1.5	-0.5
-sub-1117	clear	yes	2A&2B	1.5	1.5	1.5
-sub-1118	clear	yes	2A&2B	-0.5	-1.5	-1
-sub-1119	not clear	yes	3A&3B	2.5	0.5	1.5
-sub-1122	clear	yes	2A&2B	1.5	0.5	-0.5
-sub-1129	clear	yes	n/a	n/a	n/a	n/a
-sub-1130	clear	yes	1A&1B	2.5	1.5	2
-sub-1131	not clear	yes	3A&3B	1.5	1.5	1.5
-sub-1148	clear	yes	1A&1B	-1.5	0.5	-0.5
-sub-1156	not clear	yes	2A&2B	-0.5	-0.5	-0.5
-sub-1160	clear	yes	1A&1B	-1.5	0.5	-0.5
-sub-1161	not clear	yes	1A&1B	-1.5	-0.5	-1
-sub-1169	clear	yes	2A&2B	2.5	1.5	2
-sub-1178	clear	yes	3A&3B	0.5	0.5	0.5
-sub-1180	not clear	yes	2A&2B	-0.5	1.5	0.5
-sub-1181	clear	yes	1A&1B	0.5	2.5	1.5
-sub-1184	not clear	yes	3A&3B	4.5	-1.5	1.5
-sub-1185	clear	yes	1A&1B	-1.5	-0.5	-1
-sub-1187	clear	yes	1A&1B	-1.5	-0.5	-1
-sub-1190	clear	yes	1A&1B	-3.5	-0.5	-2
-sub-1191	clear	yes	1A&1B	-1.5	1.5	0
-sub-1192	clear	yes	2A&2B	2.5	1.5	2
-sub-1193	clear	yes	1A&1B	0.5	-2.5	-1.5
-sub-1194	clear	yes	1A&1B	-2.5	-4.5	-3.5
-sub-1195	clear	yes	2A&2B	2.5	0.5	1.5
-sub-1196	clear	yes	2A&2B	0.5	-1.5	-0.5
-sub-1197	clear	yes	2A&2B	0.5	1.5	1
-sub-1198	clear	yes	1A&1B	2.5	1.5	2
-sub-1199	clear	yes	2A&2B	0.5	-0.5	0
-sub-1203	clear	yes	1A&1B	-1.5	2.5	0.5
-sub-1204	n/a	yes	n/a	n/a	n/a	n/a
-sub-1205	clear	yes	2A&2B	0.5	-1.5	-0.5
-sub-1206	clear	yes	2A&2B	0.5	-3.5	-1.5
-sub-1208	n/a	yes	n/a	n/a	n/a	n/a
-sub-1209	clear	yes	2A&2B	4.5	-1.5	1.5
-sub-1210	clear	yes	1A&1B	-1.5	1.5	0
-sub-1211	clear	yes	2A&2B	0.5	-0.5	0
-sub-1213	n/a	yes	n/a	n/a	n/a	n/a
-sub-1219	clear	yes	2A&2B	2.5	1.5	2
-sub-1220	n/a	yes	n/a	n/a	n/a	n/a
-sub-1223	n/a	yes	n/a	n/a	n/a	n/a
-sub-1225	not clear	yes	2A&2B	3.5	1.5	2.5
-sub-1228	clear	yes	2A&2B	5.5	3.5	4.5
-sub-1229	clear	yes	2A&2B	-1.5	-1.5	-1.5
-sub-1231	not clear	yes	2A&2B	0.5	0.5	0.5
-sub-1240	clear	yes	2A&2B	0.5	-1.5	-0.5
-sub-1246	clear	yes	2A&2B	0.5	-2.5	-1
-sub-1247	clear	yes	2A&2B	-1.5	2.5	0.5
-sub-1248	clear	yes	2A&2B	-0.5	-1.5	-1
-sub-1250	clear	yes	2A&2B	-1.5	-0.5	-1
-sub-1251	not clear	yes	2A&2B	1.5	2.5	2
-sub-1252	n/a	yes	n/a	n/a	n/a	n/a
-sub-1255	clear	yes	2A&2B	-1.5	1.5	0
-sub-1257	clear	yes	2A&2B	-0.5	0.5	0
-sub-1265	n/a	yes	2A&2B	-0.5	0.5	0
-sub-1268	clear	yes	2A&2B	4.5	-0.5	2
-sub-1269	clear	yes	2a&b	1.5	1.5	1.5
-sub-1276	clear	yes	2A&2B	2.5	0.5	1.5
-sub-1277	clear	yes	2A&2B	-1.5	-2.5	-2
-sub-1278	clear	yes	2A&2B	1.5	1.5	1.5
-sub-1283	n/a	yes	n/a	n/a	n/a	n/a
-sub-1284	n/a	yes	n/a	n/a	n/a	n/a
+record_id	Otoscopy	PT_screening_passed	SIN-List	SNR_A	SNR_B	AVG_SNR
+1002	Clear	yes				
+1076	Clear	yes	1A&1B	0.5	-1.5	-0.5
+1077	Clear	yes	1A&1B	-0.5	-2.5	-1.5
+1078	Clear	yes	1A&1B	0.5	1.5	1
+1079	Clear	yes	1A&1B	0.5	1.5	1
+1080	Clear	yes	1A&1B	1.5	1.5	1.5
+1081	Clear	yes	1A&1B	1.5	0.5	1
+1082	Clear	yes	1A&1B	2.5	3.5	3
+1083	Clear	yes	2A&2B	-1.5	-0.5	-1
+1084	Clear	yes	1A&1B	2.5	1.5	2
+1086	Clear	yes	1A&1B	20	23	2
+1089	Not Clear	yes				
+1090	Clear	yes	1A&1B			-0.5
+1091	Clear	yes	1A&1B	3.5	2.5	3
+1101	Not Clear	yes	1A&1B	-1.5	0.5	-0.5
+1102	Not Clear	yes	1A&1B	2.5	-0.5	1
+1103	Clear	yes	1A&1B	1.5	-1.5	0
+1105	Clear	yes	1A&1B	2.5	-0.5	1
+1107	Clear	yes	1A&1B	0.5	1.5	1
+1110	Clear	yes	1A&1B	1.5	4.5	3
+1111	Clear	yes				
+1116	Clear	yes	2A&2B	0.5	-1.5	-0.5
+1117	Clear	yes	2A&2B	0.5	3	1.5
+1118	Clear	yes	2A&2B	-1.5	-2	-1
+1119	Not Clear	yes	3A&3B	2.5	0.5	1.5
+1122	Clear	yes	2A&2B	0.5	2	0.5
+1129	Clear	yes				
+1130	Clear	yes	2A&2B	2.5	1.5	2
+1131	Not Clear	yes	3A&3B	1.5	1.5	1.5
+1148	Clear	yes	1A&1B	-1.5	0.5	-0.5
+1156	Not Clear	yes	2A&2B	-0.5	-0.5	-0.5
+1160	Clear	yes	1A&1B	-1.5	0.5	-0.5
+1161	Not Clear	yes	1A&1B	-1.5	-0.5	-1
+1169	Clear	yes	2A&2B	2.5	1.5	2
+1178	Clear	yes	3A&3B	0.5	0.5	0.5
+1180	Not Clear	yes	2A&2B	-0.5	1.5	0.5
+1181	Clear	yes	1A&1B	0.5	2.5	1.5
+1184	Not Clear	yes	3A&3B	4.5	-1.5	1.5
+1185	Clear	yes	1A&1B	-1.5	-0.5	-1
+1187	Clear	yes	1A&1B	-1.5	-0.5	-1
+1190	Clear	yes	1A&1B	-3.5	-0.5	-2
+1191	Clear	yes	1A&1B	-1.5	1.5	0
+1192	Not Clear	yes	2A&2B	2.5	1.5	2
+1193	Clear	yes	1A&1B	0.5	-2.5	-1
+1194	Clear	yes	1A&1B	-2.5	-4.5	-3.5
+1195	Clear	yes	2A&2B	2.5	0.5	1.5
+1196	Clear	yes	2A&2B	0.5	-1.5	-0.5
+1197	Clear	yes	2A&2B	0.5	1.5	1
+1198	Clear	yes	1A&1B	2.5	1.5	2
+1199	Clear	yes	2A&2B	0.5	-0.5	0
+1203	Clear	yes	1A&1B	-1.5	0.5	0.5
+1204	Clear	yes				
+1205	Clear	yes	2A&2B	0.5	-1.5	-0.5
+1206	Clear	yes	2A&2B	0.5	-3.5	-1.5
+1208	Clear	yes				
+1209	Clear	yes	2A&2B	4.5	-1.5	1.5
+1210	Clear	yes	1A&1B	-1.5	1.5	0
+1211	Clear	yes				
+1213	Clear	yes				
+1219	Clear	yes				
+1220	Clear	yes	2A&2B	0.5	-3.5	-1.5
+1223	Clear	yes				
+1225	Not Clear	yes	2A&2B	3.5	1.5	2.5
+1228	Clear	yes	2A&2B	5.5	3.5	4.5
+1229	Clear	yes				
+1231	Not Clear	yes	2A&2B	0.5	0.5	0.5
+1240	Clear	yes	2A&2B	0.5	-1.5	-0.5
+1246	Clear	yes	2A&2B	0.5	-2.5	-1
+1247	Clear	yes	2A&2B	-1.5	2.5	0.5
+1248	Clear	yes	2A&2B	-0.5	-1.5	-1
+1250	Clear	yes	2A&2B	-1.5	-0.5	-1
+1251	Not Clear	yes	2A&2B	1.5	2.5	2
+1252	Clear	yes				
+1255	Clear	yes				
+1257	Clear	yes				
+1265	Clear	yes	2A&2B			
+1268	Clear	yes	2A&2B	4.5	-0.5	2
+1269	Clear	yes	2A&2B	1.5	1.5	1.5
+1276	Clear	yes	2A&2B	2.5	0.5	1.5
+1277	Clear	yes	2A&2B	-1.5	-2.5	-2
+1278	Clear	yes	2A&2B	1.5	1.5	1.5
+1283	Clear	yes				
+1284	Clear	yes				
+1285	Clear	yes	2A&2B	0.5	-3.5	-1.5
+1287	Clear	yes				
+1288	Clear	yes	2A&2B	0.5	3.5	2
+1289	Clear	yes	2A&2B	0.5	1.5	1
+1290	Clear	yes	2A&2B	2.5	-0.5	1
+1291	Clear	yes				

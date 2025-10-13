@@ -1,4 +1,8 @@
 {
+    "record_id": {
+        "LongName": "Record ID",
+        "Description": "Identification number for participant"
+    },
     "gaurdian_live_with___1": {
         "LongName": "Biological Father",
         "Description": "Participant lives with biological father",
@@ -374,7 +378,7 @@
     },
     "grandmom_status": {
         "LongName": "Hearing status",
-        "Description": "Gaurdian hearing status",
+        "Description": "Grandmother hearing status",
         "Levels": {
             "1": "Deaf",
             "2": "Hard-of-Hearing",
@@ -383,8 +387,8 @@
         }
     },
     "granddad_with": {
-        "LongName": "Days participant lives with grandmother",
-        "Description": "Estimated average number of days that participant lives with grandmother",
+        "LongName": "Days participant lives with grandfather",
+        "Description": "Estimated average number of days that participant lives with grandfather",
         "Levels": {
             "1": "1",
             "2": "2",
@@ -398,11 +402,11 @@
     },
     "granddad_age": {
         "LongName": "Age",
-        "Description": "Age of grandmother"
+        "Description": "Age of grandfather"
     },
     "granddad_educ": {
         "LongName": "Education level",
-        "Description": "Highest education of grandmother",
+        "Description": "Highest education of grandfather",
         "Levels": {
             "1": "Less than High School",
             "2": "High School Graduate",
@@ -415,7 +419,7 @@
     },
     "granddad_status": {
         "LongName": "Hearing status",
-        "Description": "Gaurdian hearing status",
+        "Description": "Grandfather hearing status",
         "Levels": {
             "1": "Deaf",
             "2": "Hard-of-Hearing",
@@ -465,8 +469,8 @@
         }
     },
     "other_gaurdian_2_live_with": {
-        "LongName": "Days participant lives with Other_Gaurdian_1",
-        "Description": "Estimated average number of days that participant lives with Other_Gaurdian_1",
+        "LongName": "Days participant lives with Other_Gaurdian_2",
+        "Description": "Estimated average number of days that participant lives with Other_Gaurdian_2",
         "Levels": {
             "1": "1",
             "2": "2",
@@ -480,11 +484,11 @@
     },
     "other_gaurdian_2_age": {
         "LongName": "Age",
-        "Description": "Age of Other_Gaurdian_1"
+        "Description": "Age of Other_Gaurdian_2"
     },
     "other_gaurdian_2_educ": {
         "LongName": "Education level",
-        "Description": "Highest education of Other_Gaurdian_1",
+        "Description": "Highest education of Other_Gaurdian_2",
         "Levels": {
             "1": "Less than High School",
             "2": "High School Graduate",
@@ -622,8 +626,8 @@
         }
     },
     "brush_handedness": {
-        "LongName": "Hand participant brushes hair with",
-        "Description": "Which hand particpant would use to brush hair with",
+        "LongName": "Hand participant uses a tootbrush with",
+        "Description": "Which hand particpant would use to brush their teeth with",
         "Levels": {
             "1": "Right",
             "2": "Left",

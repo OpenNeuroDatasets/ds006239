@@ -1,4 +1,8 @@
 {
+    "record_id": {
+        "LongName": "Record ID",
+        "Description": "Identification number for participant"
+    },
     "name": {
         "LongName": "Clearly and correctly spell first and last name",
         "Description": "Participant's answer to what their name is",

@@ -8,10 +8,6 @@
         "LongName": "CELF-5 Sentence Comprehension Raw Score",
         "Description": "Sentence comprehension subtest raw score"
     },
-    "CELF_SC_SS": {
-        "LongName": "CELF-5 Sentence Comprehension Standard Score",
-        "Description": "Sentence comprehension subtest standard score"
-    },
     "CELF_RS_Raw": {
         "LongName": "CELF-5 Recalling Sentences Raw Score",
         "Description": "Recalling sentences subtest raw score"
@@ -19,5 +15,9 @@
     "CELF_RS_SS": {
         "LongName": "CELF-5 Recalling Sentences Standard Score",
         "Description": "Recalling sentences subtest standard score"
+    },
+    "CELF_RS_ScS": {
+        "LongName": "CELF-5 Recalling Sentences Scaled Score",
+        "Description": "Recalling sentences subtest scaled score"
     }
 }
