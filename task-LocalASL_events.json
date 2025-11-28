@@ -41,9 +41,10 @@
     "Units": "ms"},
   
   "resp": {"LongName": "Response key",
-    "Description": "Subject input response with button box", 
+    "Description": "Subject input response with button box",
+    "DataType": "string",
     "Levels": {
-        "7": "similar",   "8": "dissimilar"}},
+        "7": "similar",   "8": "dissimilar",   "NA": "no response"}},
   
   "cresp": {"LongName": "Correct response key",
     "Description": "Correct response for the trial given stimulus characteristics", 
@@ -52,5 +53,5 @@
   
   "acc": {"LongName": "Trial accuracy",
     "Description": "Indicates if participant made correct or incorrect response",
-      "levels": {   "0": "incorrect",   "1": "correct"}}
+      "levels": {   "0": "incorrect",   "1": "correct",   "NA": "not applicable"}}
 }
