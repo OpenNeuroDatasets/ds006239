@@ -37,8 +37,8 @@
     "Description": "Location and name of second presented stimulus"},
   
   "response_time": {"LongName": "Response Time",
-    "Description": "Subject response time measured from beginning of presentation of second stimulus", 
-    "Units": "ms"},
+    "Description": "Subject response time measured from beginning of presentation of second stimulus (numeric string or 'NA')",
+    "DataType": "string"},
   
   "resp": {"LongName": "Response key",
     "Description": "Subject input response with button box",
