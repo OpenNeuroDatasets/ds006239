@@ -30,9 +30,9 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 171.662	6.599	2	Loc	houston.mpg	uncle.mpg	2082	8	7	0
 178.261	6.6	3	Diff	tired2.mpg	charge-card2.mpg	2051	8	8	1
 184.861	6.599	6	PercN	hair2.mpg	nose2.mpg	1660	8	8	1
-191.46	6.582	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	NA	8	NA
+191.46	6.582	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	n/a	8	n/a
 198.042	6.116	5	PercY	nose.mpg	nose.mpg	1798	7	7	1
-204.158	6.099	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	4198	NA	7	NA
+204.158	6.099	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	4198	n/a	7	n/a
 210.257	6.083	5	PercY	nose2.mpg	nose2.mpg	2031	7	7	1
 216.34	5.582	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1196	8	8	1
 221.922	6.1	6	PercN	nose2.mpg	shoulders2.mpg	1934	8	8	1
@@ -41,9 +41,9 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 239.22	5.583	5	PercY	shoulders.mpg	shoulders.mpg	1996	7	7	1
 244.803	6.599	6	PercN	hair.mpg	shoulders.mpg	2629	8	8	1
 251.402	6.099	1	HS	thank.mpg	tell.mpg	1846	7	7	1
-257.501	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	NA	8	NA
-263.6	6.583	3	Diff	europe2.mpg	grass2.mpg	4698	NA	8	NA
+257.501	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	n/a	8	n/a
+263.6	6.583	3	Diff	europe2.mpg	grass2.mpg	4698	n/a	8	n/a
 270.183	6.599	1	HS	last2.mpg	can't2.mpg	4129	8	7	0
-276.782	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	NA	7	NA
-282.381	6.1	1	HS	spider2.mpg	slave2.mpg	4198	NA	7	NA
-288.481	5.116	2	Loc	not-know.mpg	bad.mpg	NA	NA	7	NA
+276.782	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	n/a	7	n/a
+282.381	6.1	1	HS	spider2.mpg	slave2.mpg	4198	n/a	7	n/a
+288.481	5.116	2	Loc	not-know.mpg	bad.mpg	n/a	n/a	7	n/a

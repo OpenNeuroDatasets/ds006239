@@ -26,7 +26,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 143.536	6.599	6	PercN	TeethM1.mpg	TongueM2.mpg	2551	8	8	1
 150.135	6.599	3	Diff	PutM2.mpg	LogM2.mpg	2808	8	8	1
 156.734	6.599	5	PercY	TongueF1.mpg	TongueF1.mpg	2017	7	7	1
-163.333	6.616	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	4704		8	0
+163.333	6.616	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	4704	n/a	8	n/a
 169.949	5.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	756	7	7	1
 175.548	6.1	3	Diff	HatM2.mpg	PubM2.mpg	1475	8	8	1
 181.648	5.599	6	PercN	TongueM2.mpg	CheeksM1.mpg	2224	8	8	1

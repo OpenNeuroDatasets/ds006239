@@ -10,10 +10,10 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 50.766	6.099	6	PercN	nose2.mpg	shoulders2.mpg	979	8	8	1
 56.865	6.099	1	HS	challenge2.mpg	meet2.mpg	1535	7	7	1
 62.964	6.099	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	884	7	7	1
-69.063	5.583	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	3698	NA	8	NA
-74.646	6.099	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4198	NA	7	NA
-80.745	6.599	3	Diff	bored.mpg	experience.mpg	4698	NA	8	NA
-87.344	5.583	5	PercY	shoulders.mpg	shoulders.mpg	3698	NA	7	NA
+69.063	5.583	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	3698	n/a	8	n/a
+74.646	6.099	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4198	n/a	7	n/a
+80.745	6.599	3	Diff	bored.mpg	experience.mpg	4698	n/a	8	n/a
+87.344	5.583	5	PercY	shoulders.mpg	shoulders.mpg	3698	n/a	7	n/a
 92.927	6.099	3	Diff	hour2.mpg	cracker2.mpg	1769	8	8	1
 99.026	6.099	3	Diff	snob.mpg	aunt.mpg	2990	8	8	1
 105.125	5.6	6	PercN	shoulders2.mpg	hair2.mpg	1635	8	8	1

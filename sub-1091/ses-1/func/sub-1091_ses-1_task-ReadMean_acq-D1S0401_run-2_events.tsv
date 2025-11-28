@@ -17,11 +17,11 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 80.498	4.8	2	LowY	T3_glue.bmp	T2_sticky.bmp	2254	7	7	1
 85.298	5.799	1	HighY	T3_yell.bmp	T0_scream.bmp	1406	7	7	1
 91.097	5.299	2	LowY	T3_temper.bmp	T0_tantrum.bmp	2031	7	7	1
-96.396	5.8	2	LowY	T3_cheese.bmp	T2_cracker.bmp	4299	NA	7	NA
+96.396	5.8	2	LowY	T3_cheese.bmp	T2_cracker.bmp	4299	n/a	7	n/a
 102.196	5.299	3	UnrN	T3_rubber.bmp	T2_straw.bmp	2812	8	8	1
 107.495	5.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1289	7	7	1
 113.294	4.8	5	PercY	_F3_o6.bmp	_F1_o6.bmp	1210	7	7	1
-118.094	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3799	NA	7	NA
+118.094	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3799	n/a	7	n/a
 123.393	5.299	1	HighY	T3_winner.bmp	T1_loser.bmp	1399	7	7	1
 128.692	4.8	1	HighY	T3_start.bmp	T2_finish.bmp	1900	7	7	1
 133.492	4.799	2	LowY	T3_children.bmp	T2_kids.bmp	1365	7	7	1
@@ -53,7 +53,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 272.257	4.799	2	LowY	T3_finish.bmp	T1_end.bmp	1302	7	7	1
 277.056	4.8	6	PercN	_F3_s6.bmp	_F2_e6.bmp	903	8	8	1
 281.856	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1879	8	8	1
-286.655	5.299	5	PercY	_F3_s6.bmp	_F0_s6.bmp	3799	NA	7	NA
+286.655	5.299	5	PercY	_F3_s6.bmp	_F0_s6.bmp	3799	n/a	7	n/a
 291.954	5.783	5	PercY	_F3_b4.bmp	_F1_b4.bmp	1317	7	7	1
 297.737	4.799	5	PercY	_F3_e4.bmp	_F2_e4.bmp	1398	7	7	1
 302.536	5.3	3	UnrN	T3_map.bmp	T2_hut.bmp	1687	8	8	1

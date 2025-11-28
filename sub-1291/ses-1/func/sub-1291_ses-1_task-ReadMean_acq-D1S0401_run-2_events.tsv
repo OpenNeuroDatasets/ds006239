@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-2.869	3.45	3	UnrN	T3_able.bmp	T1_party.bmp	3299		8	0
+2.869	3.45	3	UnrN	T3_able.bmp	T1_party.bmp	3299	n/a	8	n/a
 6.319	5.299	6	PercN	_F3_e6.bmp	_F2_s6.bmp	1921	8	8	1
 11.618	4.8	2	LowY	T3_seafood.bmp	T2_shrimp.bmp	1830	7	7	1
 16.418	4.799	6	PercN	_F3_d6.bmp	_F0_o6.bmp	1127	8	8	1

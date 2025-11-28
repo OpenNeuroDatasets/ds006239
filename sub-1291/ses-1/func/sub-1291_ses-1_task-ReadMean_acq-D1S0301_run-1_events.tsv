@@ -3,7 +3,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 6.807	5.8	2	LowY	T3_speak.bmp	T0_talk.bmp	1849	7	7	1
 12.607	5.799	3	UnrN	T3_cobra.bmp	T1_slipper.bmp	1409	8	8	1
 18.406	5.299	2	LowY	T3_distance.bmp	T2_mile.bmp	1810	7	7	1
-23.705	5.3	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3799		8	0
+23.705	5.3	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3799	n/a	8	n/a
 29.005	5.299	5	PercY	_F3_s4.bmp	_F2_s4.bmp	1331	7	7	1
 34.304	5.299	3	UnrN	T3_chill.bmp	T0_hawk.bmp	2536	8	8	1
 39.603	5.3	1	HighY	T3_thin.bmp	T0_fat.bmp	1909	7	7	1

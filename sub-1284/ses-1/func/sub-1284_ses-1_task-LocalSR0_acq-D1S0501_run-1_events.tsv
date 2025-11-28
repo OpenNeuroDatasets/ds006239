@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.507	5.616	3	Diff	TopF1.mpg	MadF1.mpg	3703	NA	8	NA
+1.507	5.616	3	Diff	TopF1.mpg	MadF1.mpg	3703	n/a	8	n/a
 7.123	5.616	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1397	8	8	1
 12.739	5.599	3	Diff	PadM1.mpg	TicM2.mpg	1733	8	8	1
 18.338	6.083	2	Offset	BinF1.mpg	FinF1.mpg	1918	7	7	1

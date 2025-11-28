@@ -34,7 +34,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 198.044	6.116	5	PercY	nose.mpg	nose.mpg	2284	7	7	1
 204.16	6.099	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	2032	7	7	1
 210.259	6.083	5	PercY	nose2.mpg	nose2.mpg	2613	7	7	1
-216.342	5.583	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	3698	NA	8	NA
+216.342	5.583	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	3698	n/a	8	n/a
 221.925	6.099	6	PercN	nose2.mpg	shoulders2.mpg	2628	8	8	1
 228.024	5.599	6	PercN	shoulders.mpg	nose.mpg	3320	8	8	1
 233.623	5.599	3	Diff	hearing2.mpg	puzzled2.mpg	2273	8	8	1
@@ -46,4 +46,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 270.185	6.599	1	HS	last2.mpg	can't2.mpg	3607	8	7	0
 276.784	5.599	2	Loc	boss2.mpg	complain2.mpg	3256	8	7	0
 282.383	6.1	1	HS	spider2.mpg	slave2.mpg	3321	7	7	1
-288.483	5.116	2	Loc	not-know.mpg	bad.mpg	NA	NA	7	NA
+288.483	5.116	2	Loc	not-know.mpg	bad.mpg	n/a	n/a	7	n/a

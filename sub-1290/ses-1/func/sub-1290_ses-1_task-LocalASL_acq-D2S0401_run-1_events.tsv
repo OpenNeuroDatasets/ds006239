@@ -44,6 +44,6 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 257.498	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	2151	8	8	1
 263.597	6.599	3	Diff	europe2.mpg	grass2.mpg	3011	8	8	1
 270.196	6.582	1	HS	last2.mpg	can't2.mpg	2556	7	7	1
-276.778	5.6	2	Loc	boss2.mpg	complain2.mpg	3698		7	0
+276.778	5.6	2	Loc	boss2.mpg	complain2.mpg	3698	n/a	7	n/a
 282.378	6.099	1	HS	spider2.mpg	slave2.mpg	2039	7	7	1
 288.477	5.133	2	Loc	not-know.mpg	bad.mpg	2003	8	7	0

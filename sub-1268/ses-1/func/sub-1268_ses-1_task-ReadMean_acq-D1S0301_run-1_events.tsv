@@ -29,7 +29,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 145.088	5.3	3	UnrN	T3_trust.bmp	T2_dozen.bmp	3027	8	8	1
 150.388	4.799	3	UnrN	T3_sailing.bmp	T2_nest.bmp	1487	8	8	1
 155.187	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1256	8	8	1
-159.986	4.8	3	UnrN	T3_pigeon.bmp	T1_gamble.bmp	3299	NA	8	NA
+159.986	4.8	3	UnrN	T3_pigeon.bmp	T1_gamble.bmp	3299	n/a	8	n/a
 164.786	4.799	2	LowY	T3_maple.bmp	T2_syrup.bmp	993	7	7	1
 169.585	5.799	2	LowY	T3_hop.bmp	T0_skip.bmp	1962	7	7	1
 175.384	5.3	6	PercN	_F3_f6.bmp	_F1_d6.bmp	1643	8	8	1
@@ -56,6 +56,6 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 287.153	5.8	1	HighY	T3_lend.bmp	T1_borrow.bmp	2954	8	7	0
 292.953	4.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1194	7	7	1
 297.752	5.299	1	HighY	T3_silver.bmp	T2_gold.bmp	1243	7	7	1
-303.051	5.8	5	PercY	_F3_d6.bmp	_F1_d6.bmp	4299	NA	7	NA
+303.051	5.8	5	PercY	_F3_d6.bmp	_F1_d6.bmp	4299	n/a	7	n/a
 308.851	5.799	6	PercN	_F3_o6.bmp	_F2_b6.bmp	1672	8	8	1
 314.65	4.333	5	PercY	_F3_d4.bmp	_F0_d4.bmp	2649	7	7	1

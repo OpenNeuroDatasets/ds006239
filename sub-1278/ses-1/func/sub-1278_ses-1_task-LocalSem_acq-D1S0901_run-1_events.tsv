@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.519	6.199	1	PicY	Sem/train.bmp	Sem/track.bmp	4504	NA	7	NA
+1.519	6.199	1	PicY	Sem/train.bmp	Sem/track.bmp	4504	n/a	7	n/a
 7.718	5.199	1	PicY	Sem/key.bmp	Sem/lock.bmp	1578	7	7	1
 12.917	5.716	3	PicN	Sem/harp.bmp	Sem/corn.bmp	1435	8	8	1
 18.633	5.2	5	PercY	Sem/perc_shoe_brown.bmp	Sem/perc_shoe_brown.bmp	1383	7	7	1
@@ -38,7 +38,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 206.376	6.215	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1441	7	7	1
 212.591	5.2	6	PercN	Sem/perc_cup_brown.bmp	Sem/perc_book_white.bmp	1569	8	8	1
 217.791	5.199	1	PicY	Sem/truck.bmp	Sem/car.bmp	1681	7	7	1
-222.99	5.716	3	PicN	Sem/sweat.bmp	Sem/book.bmp	4004	NA	8	NA
+222.99	5.716	3	PicN	Sem/sweat.bmp	Sem/book.bmp	4004	n/a	8	n/a
 228.706	5.699	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1870	7	7	1
 234.405	6.2	3	PicN	Sem/hatch.bmp	Sem/deer.bmp	2123	8	8	1
 240.605	5.715	1	PicY	Sem/mop.bmp	Sem/broom.bmp	1444	7	7	1

@@ -66,7 +66,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 338.355	5.8	2	OnPy	T3_bride.bmp	T0_dried.bmp	1877	7	7	1
 344.155	5.816	4	OnPn	T3_thief.bmp	T0_plead.bmp	1797	8	8	1
 349.971	5.316	1	OyPy	T3_bluff.bmp	T2_puff.bmp	1342	8	7	0
-355.287	5.799	5	PercY	_F3_b4.bmp	_F1_b4.bmp	4303	NA	7	NA
+355.287	5.799	5	PercY	_F3_b4.bmp	_F1_b4.bmp	4303	n/a	7	n/a
 361.086	5.782	1	OyPy	T3_shove.bmp	T1_glove.bmp	1114	7	7	1
 366.868	5.3	6	PercN	_F3_d4.bmp	_F1_o4.bmp	1772	8	8	1
 372.168	5.816	3	OyPn	T3_stamp.bmp	T2_swamp.bmp	1440	8	8	1

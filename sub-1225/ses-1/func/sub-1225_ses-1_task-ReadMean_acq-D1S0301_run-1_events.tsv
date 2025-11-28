@@ -13,7 +13,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 60.302	4.8	2	LowY	T3_guide.bmp	T1_tour.bmp	1482	7	7	1
 65.102	4.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1154	8	8	1
 69.901	5.799	3	UnrN	T3_adult.bmp	T0_pond.bmp	1659	8	8	1
-75.7	5.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4299	NA	7	NA
+75.7	5.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4299	n/a	7	n/a
 81.5	5.799	2	LowY	T3_reef.bmp	T0_coral.bmp	1524	7	7	1
 87.299	5.799	5	PercY	_F3_e6.bmp	_F1_e6.bmp	1308	7	7	1
 93.098	5.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1205	8	8	1

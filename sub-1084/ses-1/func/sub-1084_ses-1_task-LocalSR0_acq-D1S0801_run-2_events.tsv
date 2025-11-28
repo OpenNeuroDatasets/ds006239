@@ -37,7 +37,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 211.677	6.099	1	Onset	BigM2.mpg	BidM2.mpg	1290	7	7	1
 217.776	6.1	5	PercY	CheeksF1.mpg	CheeksF1.mpg	1623	7	7	1
 223.876	5.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	827	8	8	1
-229.475	6.599	2	Offset	GapM2.mpg	LapM2.mpg	4704	NA	7	NA
+229.475	6.599	2	Offset	GapM2.mpg	LapM2.mpg	4704	n/a	7	n/a
 236.074	6.599	2	Offset	CanF1.mpg	PanF1.mpg	1829	7	7	1
 242.673	6.116	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1389	8	8	1
 248.789	6.099	3	Diff	MenF1.mpg	CupF2.mpg	1330	8	8	1

@@ -37,7 +37,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 216.336	5.6	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1320	8	8	1
 221.936	6.082	6	PercN	nose2.mpg	shoulders2.mpg	1585	8	8	1
 228.018	5.599	6	PercN	shoulders.mpg	nose.mpg	1790	8	8	1
-233.617	5.6	3	Diff	hearing2.mpg	puzzled2.mpg	3698	NA	8	NA
+233.617	5.6	3	Diff	hearing2.mpg	puzzled2.mpg	3698	n/a	8	n/a
 239.217	5.599	5	PercY	shoulders.mpg	shoulders.mpg	1543	7	7	1
 244.816	6.582	6	PercN	hair.mpg	shoulders.mpg	1616	8	8	1
 251.398	6.1	1	HS	thank.mpg	tell.mpg	1618	7	7	1

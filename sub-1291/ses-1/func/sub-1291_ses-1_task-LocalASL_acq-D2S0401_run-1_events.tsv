@@ -11,7 +11,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 57.343	5.605	6	PercN	shoulders2.mpg	hair2.mpg	2048	8	8	1
 62.948	6.09	2	Loc	wolf2.mpg	white2.mpg	3635	8	7	0
 69.038	6.089	3	Diff	gang.mpg	religion.mpg	2969	8	8	1
-75.127	5.606	3	Diff	believe2.mpg	rock2.mpg	3698		8	0
+75.127	5.606	3	Diff	believe2.mpg	rock2.mpg	3698	n/a	8	n/a
 80.733	6.089	3	Diff	cat2.mpg	clown2.mpg	2010	8	8	1
 86.822	6.59	1	HS	potato.mpg	church.mpg	2000	7	7	1
 93.412	6.106	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	1482	7	7	1
@@ -42,7 +42,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 244.797	6.59	6	PercN	hair.mpg	shoulders.mpg	1882	8	8	1
 251.387	6.089	1	HS	thank.mpg	tell.mpg	2228	7	7	1
 257.476	6.106	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	2210	8	8	1
-263.582	6.59	3	Diff	europe2.mpg	grass2.mpg	4698		8	0
+263.582	6.59	3	Diff	europe2.mpg	grass2.mpg	4698	n/a	8	n/a
 270.172	6.59	1	HS	last2.mpg	can't2.mpg	2490	7	7	1
 276.762	5.606	2	Loc	boss2.mpg	complain2.mpg	4190	8	7	0
 282.368	6.089	1	HS	spider2.mpg	slave2.mpg	4143	7	7	1

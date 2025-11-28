@@ -27,7 +27,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 152.379	6.599	1	HS	dry2.mpg	experienced2.mpg	1358	8	7	0
 158.978	6.099	2	Loc	mad.mpg	tiger.mpg	1718	8	7	0
 165.077	6.099	5	PercY	nose2.mpg	nose2.mpg	1603	8	7	0
-171.176	5.583	5	PercY	shoulders2.mpg	shoulders2.mpg	3698	NA	7	NA
+171.176	5.583	5	PercY	shoulders2.mpg	shoulders2.mpg	3698	n/a	7	n/a
 176.759	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1953	8	8	1
 182.858	5.599	2	Loc	sock2.mpg	star2.mpg	3222	7	7	1
 188.457	5.6	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1112	8	8	1

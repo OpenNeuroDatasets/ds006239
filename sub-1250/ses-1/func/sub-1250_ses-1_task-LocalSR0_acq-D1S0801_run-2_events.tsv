@@ -1,7 +1,7 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
 1.52	6.599	1	Onset	GemM2.mpg	JetM1.mpg	2409	7	7	1
 8.119	6.099	2	Offset	DimF2.mpg	HimF1.mpg	2586	8	7	0
-14.218	5.616	3	Diff	TapM2.mpg	HisM2.mpg	3703	NA	8	NA
+14.218	5.616	3	Diff	TapM2.mpg	HisM2.mpg	3703	n/a	8	n/a
 19.834	5.599	3	Diff	HotF1.mpg	RagF1.mpg	3030	7	8	0
 25.433	5.616	3	Diff	FatM2.mpg	JobM2.mpg	2743	8	8	1
 31.049	6.116	5	PercY	CheeksM1.mpg	CheeksM1.mpg	2495	7	7	1

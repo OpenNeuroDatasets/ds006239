@@ -42,7 +42,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 246.315	6.082	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1598	8	8	1
 252.397	5.599	1	HS	contact.mpg	game.mpg	1891	7	7	1
 257.996	5.6	3	Diff	newspaper.mpg	wood.mpg	2019	8	8	1
-263.596	5.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	3698	NA	7	NA
+263.596	5.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	3698	n/a	7	n/a
 269.195	5.583	3	Diff	know2.mpg	look-for2.mpg	2077	8	8	1
 274.778	6.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1935	8	8	1
 281.377	6.599	6	PercN	hair.mpg	shoulders.mpg	2231	8	8	1

@@ -8,14 +8,14 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 36.24	5.199	1	PicY	Eng/whip.bmp	Eng/trip.bmp	2704	7	7	1
 41.439	5.716	6	PercN	Eng/perc_box_brown.bmp	Eng/perc_cork_pink.bmp	1817	8	8	1
 47.155	5.199	3	PicN	Eng/wing.bmp	Eng/roof.bmp	2141	8	8	1
-52.354	5.7	3	PicN	Eng/climb.bmp	Eng/hay.bmp	NA	NA	8	NA
+52.354	5.7	3	PicN	Eng/climb.bmp	Eng/hay.bmp	n/a	n/a	8	n/a
 58.054	5.716	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	2170	8	8	1
 63.77	5.699	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1871	8	8	1
 69.469	5.699	1	PicY	Eng/pet.bmp	Eng/net.bmp	2435	7	7	1
 75.168	5.716	1	PicY	Eng/kick.bmp	Eng/lick.bmp	3272	8	7	0
 80.884	5.199	5	PercY	Eng/perc_squeeze_pink.bmp	Eng/perc_squeeze_pink.bmp	2580	7	7	1
 86.083	6.2	6	PercN	Eng/perc_bridge_white.bmp	Eng/perc_climb_brown.bmp	1989	8	8	1
-92.283	5.216	3	PicN	Eng/whale.bmp	Eng/rake.bmp	NA	NA	8	NA
+92.283	5.216	3	PicN	Eng/whale.bmp	Eng/rake.bmp	n/a	n/a	8	n/a
 97.499	5.199	1	PicY	Eng/bear.bmp	Eng/pear.bmp	2798	8	7	0
 102.698	6.199	5	PercY	Eng/perc_jar_brown.bmp	Eng/perc_jar_brown.bmp	1950	7	7	1
 108.897	6.233	3	PicN	Eng/squeeze.bmp	Eng/bread.bmp	2983	8	8	1

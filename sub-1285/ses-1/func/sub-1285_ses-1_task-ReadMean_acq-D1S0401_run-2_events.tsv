@@ -9,16 +9,16 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 38.102	5.299	2	LowY	T3_throw.bmp	T1_catch.bmp	2417	7	7	1
 43.401	5.8	2	LowY	T3_save.bmp	T0_keep.bmp	2158	8	7	0
 49.201	4.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1240	7	7	1
-54.0	5.799	3	UnrN	T3_jewel.bmp	T0_moan.bmp	1263	8	8	1
+54	5.799	3	UnrN	T3_jewel.bmp	T0_moan.bmp	1263	8	8	1
 59.799	4.8	1	HighY	T3_washer.bmp	T1_dryer.bmp	1329	7	7	1
 64.599	4.799	1	HighY	T3_sock.bmp	T0_shoe.bmp	1146	7	7	1
 69.398	5.799	1	HighY	T3_touch.bmp	T2_feel.bmp	2722	7	7	1
 75.197	5.3	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1003	7	7	1
 80.497	4.799	2	LowY	T3_glue.bmp	T2_sticky.bmp	2472	7	7	1
-85.296	5.816	1	HighY	T3_yell.bmp	T0_scream.bmp	4299		7	0
+85.296	5.816	1	HighY	T3_yell.bmp	T0_scream.bmp	4299	n/a	7	n/a
 91.112	5.299	2	LowY	T3_temper.bmp	T0_tantrum.bmp	1088	7	7	1
 96.411	5.783	2	LowY	T3_cheese.bmp	T2_cracker.bmp	1949	8	7	0
-102.194	5.299	3	UnrN	T3_rubber.bmp	T2_straw.bmp	3799		8	0
+102.194	5.299	3	UnrN	T3_rubber.bmp	T2_straw.bmp	3799	n/a	8	n/a
 107.493	5.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2067	7	7	1
 113.292	4.8	5	PercY	_F3_o6.bmp	_F1_o6.bmp	924	7	7	1
 118.092	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	828	7	7	1
@@ -40,7 +40,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 202.881	5.799	2	LowY	T3_silent.bmp	T1_quiet.bmp	2199	7	7	1
 208.68	4.8	3	UnrN	T3_towel.bmp	T1_puppet.bmp	3702	8	8	1
 213.48	5.299	1	HighY	T3_syrup.bmp	T0_pancakes.bmp	1360	7	7	1
-218.779	5.316	3	UnrN	T3_upper.bmp	T1_broke.bmp	3799		8	0
+218.779	5.316	3	UnrN	T3_upper.bmp	T1_broke.bmp	3799	n/a	8	n/a
 224.095	5.299	2	LowY	T3_lobster.bmp	T0_crab.bmp	1361	7	7	1
 229.394	5.783	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1158	8	8	1
 235.177	5.799	3	UnrN	T3_ranch.bmp	T0_chin.bmp	1327	8	8	1

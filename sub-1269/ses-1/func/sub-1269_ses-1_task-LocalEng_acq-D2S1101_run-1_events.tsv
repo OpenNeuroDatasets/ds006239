@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.509	6.216	1	PicY	Eng/belt.bmp	Eng/melt.bmp	4504	NA	7	NA
+1.509	6.216	1	PicY	Eng/belt.bmp	Eng/melt.bmp	4504	n/a	7	n/a
 7.725	6.199	1	PicY	Eng/fall.bmp	Eng/ball.bmp	1970	8	7	0
 13.924	6.216	3	PicN	Eng/point.bmp	Eng/bridge.bmp	1987	8	8	1
 20.14	5.716	5	PercY	Eng/perc_whale_white.bmp	Eng/perc_whale_white.bmp	1299	7	7	1

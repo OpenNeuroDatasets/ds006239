@@ -20,8 +20,8 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 102.199	5.199	5	PercY	Sem/perc_cow_white.bmp	Sem/perc_cow_white.bmp	937	8	7	0
 107.398	6.199	3	PicN	Sem/cloud.bmp	Sem/blimp.bmp	2746	8	8	1
 113.597	6.216	6	PercN	Sem/perc_sun_pink.bmp	Sem/perc_ride_white.bmp	1187	8	8	1
-119.813	5.699	3	PicN	Sem/type.bmp	Sem/tank.bmp	4004	NA	8	NA
-125.512	6.2	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4504	NA	8	NA
+119.813	5.699	3	PicN	Sem/type.bmp	Sem/tank.bmp	4004	n/a	8	n/a
+125.512	6.2	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4504	n/a	8	n/a
 131.712	5.716	1	PicY	Sem/cheese.bmp	Sem/mouse.bmp	2296	8	7	0
 137.428	5.199	3	PicN	Sem/hoof.bmp	Sem/church.bmp	2653	8	8	1
 142.627	5.699	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1357	7	7	1

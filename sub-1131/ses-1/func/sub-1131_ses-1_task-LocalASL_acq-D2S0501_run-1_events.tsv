@@ -22,9 +22,9 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 123.908	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	2509	7	7	1
 130.507	5.599	1	HS	long2.mpg	sheep2.mpg	2269	7	7	1
 136.106	5.583	3	Diff	kid.mpg	wonder.mpg	2350	8	8	1
-141.689	6.099	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	4198	NA	8	NA
+141.689	6.099	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	4198	n/a	8	n/a
 147.788	6.599	5	PercY	hair2.mpg	hair2.mpg	1668	8	7	0
-154.387	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	3698	NA	7	NA
+154.387	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	3698	n/a	7	n/a
 159.986	5.583	5	PercY	shoulders2.mpg	shoulders2.mpg	1294	7	7	1
 165.569	6.099	3	Diff	understand.mpg	guess.mpg	2087	7	8	0
 171.668	6.599	2	Loc	houston.mpg	uncle.mpg	1948	7	7	1
@@ -38,7 +38,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 221.945	6.083	6	PercN	nose2.mpg	shoulders2.mpg	1832	8	8	1
 228.028	5.599	6	PercN	shoulders.mpg	nose.mpg	1621	8	8	1
 233.627	5.582	3	Diff	hearing2.mpg	puzzled2.mpg	1958	7	8	0
-239.209	5.6	5	PercY	shoulders.mpg	shoulders.mpg	3698	NA	7	NA
+239.209	5.6	5	PercY	shoulders.mpg	shoulders.mpg	3698	n/a	7	n/a
 244.809	6.599	6	PercN	hair.mpg	shoulders.mpg	2111	8	8	1
 251.408	6.099	1	HS	thank.mpg	tell.mpg	2552	7	7	1
 257.507	6.083	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	918	8	8	1

@@ -15,35 +15,35 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 75.679	5.199	1	PicY	Sem/shoe.bmp	Sem/sock.bmp	1046	7	7	1
 80.878	6.199	5	PercY	Sem/perc_light_white.bmp	Sem/perc_light_white.bmp	1366	8	7	0
 87.077	5.216	6	PercN	Sem/perc_pour_white.bmp	Sem/perc_mop_pink.bmp	1471	8	8	1
-92.293	5.2	3	PicN	Sem/pour.bmp	Sem/crab.bmp	3503		8	0
-97.493	5.699	1	PicY	Sem/break.bmp	Sem/fix.bmp	4004		7	0
-103.192	5.716	5	PercY	Sem/perc_rope_pink.bmp	Sem/perc_rope_pink.bmp	4004		7	0
-108.908	5.199	3	PicN	Sem/bomb.bmp	Sem/nail.bmp	3503		8	0
-114.107	6.199	6	PercN	Sem/perc_boy_white.bmp	Sem/perc_king_brown.bmp	4504		8	0
-120.306	6.233	3	PicN	Sem/hat.bmp	Sem/fire.bmp	4504		8	0
-126.539	5.199	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3503		8	0
-131.738	6.183	1	PicY	Sem/leaf.bmp	Sem/tree.bmp	4504		7	0
-137.921	5.699	3	PicN	Sem/safe.bmp	Sem/drip.bmp	4004		8	0
-143.62	5.716	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4004		7	0
-149.336	6.199	5	PercY	Sem/perc_scoop_brown.bmp	Sem/perc_scoop_brown.bmp	4504		7	0
-155.535	5.716	6	PercN	Sem/perc_queen_pink.bmp	Sem/perc_key_brown.bmp	4004		8	0
-161.251	5.699	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	4004		8	0
-166.95	5.2	1	PicY	Sem/shirt.bmp	Sem/tie.bmp	3503		7	0
-172.15	5.716	1	PicY	Sem/light.bmp	Sem/bulb.bmp	4004		7	0
-177.866	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3503		7	0
-183.065	6.199	6	PercN	Sem/perc_pants_pink.bmp	Sem/perc_priest_white.bmp	4504		8	0
-189.264	5.2	3	PicN	Sem/priest.bmp	Sem/float.bmp	3503		8	0
-194.464	5.715	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4004		8	0
-200.179	6.2	1	PicY	Sem/girl.bmp	Sem/boy.bmp	4504		7	0
-206.379	6.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504		7	0
-212.578	5.216	6	PercN	Sem/perc_cup_brown.bmp	Sem/perc_book_white.bmp	3503		8	0
-217.794	5.199	1	PicY	Sem/truck.bmp	Sem/car.bmp	3503		7	0
-222.993	5.7	3	PicN	Sem/sweat.bmp	Sem/book.bmp	4004		8	0
-228.693	5.715	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	4004		7	0
-234.408	6.2	3	PicN	Sem/hatch.bmp	Sem/deer.bmp	4504		8	0
-240.608	5.699	1	PicY	Sem/mop.bmp	Sem/broom.bmp	4004		7	0
-246.307	5.733	5	PercY	Sem/perc_truck_pink.bmp	Sem/perc_truck_pink.bmp	4004		7	0
-252.04	6.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504		7	0
-258.239	5.182	5	PercY	Sem/perc_deer_white.bmp	Sem/perc_deer_white.bmp	3503		7	0
-263.421	6.216	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	4504		8	0
+92.293	5.2	3	PicN	Sem/pour.bmp	Sem/crab.bmp	3503	n/a	8	n/a
+97.493	5.699	1	PicY	Sem/break.bmp	Sem/fix.bmp	4004	n/a	7	n/a
+103.192	5.716	5	PercY	Sem/perc_rope_pink.bmp	Sem/perc_rope_pink.bmp	4004	n/a	7	n/a
+108.908	5.199	3	PicN	Sem/bomb.bmp	Sem/nail.bmp	3503	n/a	8	n/a
+114.107	6.199	6	PercN	Sem/perc_boy_white.bmp	Sem/perc_king_brown.bmp	4504	n/a	8	n/a
+120.306	6.233	3	PicN	Sem/hat.bmp	Sem/fire.bmp	4504	n/a	8	n/a
+126.539	5.199	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3503	n/a	8	n/a
+131.738	6.183	1	PicY	Sem/leaf.bmp	Sem/tree.bmp	4504	n/a	7	n/a
+137.921	5.699	3	PicN	Sem/safe.bmp	Sem/drip.bmp	4004	n/a	8	n/a
+143.62	5.716	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4004	n/a	7	n/a
+149.336	6.199	5	PercY	Sem/perc_scoop_brown.bmp	Sem/perc_scoop_brown.bmp	4504	n/a	7	n/a
+155.535	5.716	6	PercN	Sem/perc_queen_pink.bmp	Sem/perc_key_brown.bmp	4004	n/a	8	n/a
+161.251	5.699	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	4004	n/a	8	n/a
+166.95	5.2	1	PicY	Sem/shirt.bmp	Sem/tie.bmp	3503	n/a	7	n/a
+172.15	5.716	1	PicY	Sem/light.bmp	Sem/bulb.bmp	4004	n/a	7	n/a
+177.866	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3503	n/a	7	n/a
+183.065	6.199	6	PercN	Sem/perc_pants_pink.bmp	Sem/perc_priest_white.bmp	4504	n/a	8	n/a
+189.264	5.2	3	PicN	Sem/priest.bmp	Sem/float.bmp	3503	n/a	8	n/a
+194.464	5.715	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4004	n/a	8	n/a
+200.179	6.2	1	PicY	Sem/girl.bmp	Sem/boy.bmp	4504	n/a	7	n/a
+206.379	6.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504	n/a	7	n/a
+212.578	5.216	6	PercN	Sem/perc_cup_brown.bmp	Sem/perc_book_white.bmp	3503	n/a	8	n/a
+217.794	5.199	1	PicY	Sem/truck.bmp	Sem/car.bmp	3503	n/a	7	n/a
+222.993	5.7	3	PicN	Sem/sweat.bmp	Sem/book.bmp	4004	n/a	8	n/a
+228.693	5.715	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	4004	n/a	7	n/a
+234.408	6.2	3	PicN	Sem/hatch.bmp	Sem/deer.bmp	4504	n/a	8	n/a
+240.608	5.699	1	PicY	Sem/mop.bmp	Sem/broom.bmp	4004	n/a	7	n/a
+246.307	5.733	5	PercY	Sem/perc_truck_pink.bmp	Sem/perc_truck_pink.bmp	4004	n/a	7	n/a
+252.04	6.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504	n/a	7	n/a
+258.239	5.182	5	PercY	Sem/perc_deer_white.bmp	Sem/perc_deer_white.bmp	3503	n/a	7	n/a
+263.421	6.216	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	4504	n/a	8	n/a
 269.637	5.233	3	PicN	Sem/pants.bmp	Sem/rope.bmp	4004	0	8	0

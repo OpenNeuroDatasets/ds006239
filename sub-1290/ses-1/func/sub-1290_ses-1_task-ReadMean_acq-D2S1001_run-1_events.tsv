@@ -22,14 +22,14 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 108.492	4.8	3	UnrN	T3_hoof.bmp	T0_stitch.bmp	1524	8	8	1
 113.292	5.799	2	LowY	T3_salad.bmp	T0_lettuce.bmp	1373	8	7	0
 119.091	5.299	2	LowY	T3_lip.bmp	T1_kiss.bmp	1397	7	7	1
-124.39	5.299	2	LowY	T3_shout.bmp	T1_yell.bmp	3799		7	0
+124.39	5.299	2	LowY	T3_shout.bmp	T1_yell.bmp	3799	n/a	7	n/a
 129.689	5.316	1	HighY	T3_dime.bmp	T0_nickel.bmp	1543	8	7	0
 135.005	5.3	5	PercY	_F3_o4.bmp	_F2_o4.bmp	1955	8	7	0
-140.305	4.783	3	UnrN	T3_cream.bmp	T2_grip.bmp	3299		8	0
+140.305	4.783	3	UnrN	T3_cream.bmp	T2_grip.bmp	3299	n/a	8	n/a
 145.088	5.299	3	UnrN	T3_trust.bmp	T2_dozen.bmp	2121	8	8	1
-150.387	4.799	3	UnrN	T3_sailing.bmp	T2_nest.bmp	3299		8	0
+150.387	4.799	3	UnrN	T3_sailing.bmp	T2_nest.bmp	3299	n/a	8	n/a
 155.186	4.8	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1790	8	8	1
-159.986	4.799	3	UnrN	T3_pigeon.bmp	T1_gamble.bmp	3299		8	0
+159.986	4.799	3	UnrN	T3_pigeon.bmp	T1_gamble.bmp	3299	n/a	8	n/a
 164.785	4.799	2	LowY	T3_maple.bmp	T2_syrup.bmp	2943	7	7	1
 169.584	5.8	2	LowY	T3_hop.bmp	T0_skip.bmp	1680	7	7	1
 175.384	5.299	6	PercN	_F3_f6.bmp	_F1_d6.bmp	1320	8	8	1
@@ -48,7 +48,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 244.275	5.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	2309	7	7	1
 250.074	4.783	1	HighY	T3_table.bmp	T0_chair.bmp	2750	7	7	1
 254.857	5.299	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	2687	8	8	1
-260.156	5.816	1	HighY	T3_vine.bmp	T2_grape.bmp	4299		7	0
+260.156	5.816	1	HighY	T3_vine.bmp	T2_grape.bmp	4299	n/a	7	n/a
 265.972	5.799	1	HighY	T3_noun.bmp	T1_verb.bmp	1972	8	7	0
 271.771	5.783	6	PercN	_F3_o4.bmp	_F2_b4.bmp	1565	8	8	1
 277.554	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1958	7	7	1

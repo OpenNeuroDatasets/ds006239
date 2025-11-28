@@ -6,7 +6,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 26.388	6.6	3	Diff	war.mpg	family.mpg	1996	7	8	0
 32.988	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1733	8	8	1
 39.587	5.582	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	1302	7	7	1
-45.169	5.6	1	HS	chocolate.mpg	island.mpg	3698	NA	7	NA
+45.169	5.6	1	HS	chocolate.mpg	island.mpg	3698	n/a	7	n/a
 50.769	6.599	3	Diff	improve.mpg	help.mpg	368	7	8	0
 57.368	5.599	6	PercN	shoulders2.mpg	hair2.mpg	1808	8	8	1
 62.967	6.083	2	Loc	wolf2.mpg	white2.mpg	2994	8	7	0

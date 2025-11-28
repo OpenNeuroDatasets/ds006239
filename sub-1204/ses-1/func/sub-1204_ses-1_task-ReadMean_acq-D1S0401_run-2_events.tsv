@@ -18,7 +18,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 85.29	5.8	1	HighY	T3_yell.bmp	T0_scream.bmp	1750	7	7	1
 91.09	5.299	2	LowY	T3_temper.bmp	T0_tantrum.bmp	1550	7	7	1
 96.389	5.799	2	LowY	T3_cheese.bmp	T2_cracker.bmp	1795	7	7	1
-102.188	5.3	3	UnrN	T3_rubber.bmp	T2_straw.bmp	3799	NA	8	NA
+102.188	5.3	3	UnrN	T3_rubber.bmp	T2_straw.bmp	3799	n/a	8	n/a
 107.488	5.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2081	7	7	1
 113.287	4.799	5	PercY	_F3_o6.bmp	_F1_o6.bmp	1745	7	7	1
 118.086	5.316	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2610	7	7	1

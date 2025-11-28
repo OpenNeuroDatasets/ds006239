@@ -36,7 +36,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 181.295	4.816	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1473	7	7	1
 186.111	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1673	7	7	1
 190.91	5.8	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1722	8	8	1
-196.71	4.799	3	OyPn	T3_breath.bmp	T0_wreath.bmp	3302	NA	8	NA
+196.71	4.799	3	OyPn	T3_breath.bmp	T0_wreath.bmp	3302	n/a	8	n/a
 201.509	5.299	1	OyPy	T3_neat.bmp	T2_wheat.bmp	2363	7	7	1
 206.808	5.816	3	OyPn	T3_mouth.bmp	T1_youth.bmp	2008	8	8	1
 212.624	5.799	1	OyPy	T3_toss.bmp	T0_moss.bmp	1296	7	7	1

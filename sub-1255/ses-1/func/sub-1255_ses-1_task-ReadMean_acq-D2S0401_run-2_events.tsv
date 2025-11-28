@@ -29,7 +29,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 143.583	4.799	3	UnrN	T3_stream.bmp	T0_rear.bmp	1233	7	8	0
 148.382	4.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1042	7	7	1
 153.182	5.299	3	UnrN	T3_hearing.bmp	T0_bottle.bmp	1842	8	8	1
-158.481	5.299	1	HighY	T3_above.bmp	T2_below.bmp	3799	NA	7	NA
+158.481	5.299	1	HighY	T3_above.bmp	T2_below.bmp	3799	n/a	7	n/a
 163.78	5.3	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	2900	8	8	1
 169.08	5.799	1	HighY	T3_circus.bmp	T2_clown.bmp	1032	7	7	1
 174.879	5.299	5	PercY	_F3_f4.bmp	_F2_f4.bmp	1529	8	7	0
@@ -52,7 +52,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 267.467	4.799	3	UnrN	T3_clerk.bmp	T2_bent.bmp	1293	8	8	1
 272.266	4.8	2	LowY	T3_finish.bmp	T1_end.bmp	837	7	7	1
 277.066	4.799	6	PercN	_F3_s6.bmp	_F2_e6.bmp	861	8	8	1
-281.865	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3299	NA	8	NA
+281.865	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3299	n/a	8	n/a
 286.664	5.3	5	PercY	_F3_s6.bmp	_F0_s6.bmp	2535	8	7	0
 291.964	5.799	5	PercY	_F3_b4.bmp	_F1_b4.bmp	2611	8	7	0
 297.763	4.799	5	PercY	_F3_e4.bmp	_F2_e4.bmp	1532	7	7	1

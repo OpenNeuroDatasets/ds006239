@@ -18,7 +18,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 99.549	6.099	2	Loc	fine.mpg	mother.mpg	3444	7	7	1
 105.648	6.566	5	PercY	hair.mpg	hair.mpg	1328	7	7	1
 112.214	5.599	3	Diff	shy.mpg	twin.mpg	2179	8	8	1
-117.813	6.099	6	PercN	nose.mpg	hair.mpg	4198	NA	8	NA
+117.813	6.099	6	PercN	nose.mpg	hair.mpg	4198	n/a	8	n/a
 123.912	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	784	7	7	1
 130.511	5.583	1	HS	long2.mpg	sheep2.mpg	1729	8	7	0
 136.094	5.599	3	Diff	kid.mpg	wonder.mpg	2322	8	8	1
@@ -44,6 +44,6 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 257.495	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1601	8	8	1
 263.594	6.599	3	Diff	europe2.mpg	grass2.mpg	2534	8	8	1
 270.193	6.599	1	HS	last2.mpg	can't2.mpg	2591	7	7	1
-276.792	5.583	2	Loc	boss2.mpg	complain2.mpg	3698	NA	7	NA
+276.792	5.583	2	Loc	boss2.mpg	complain2.mpg	3698	n/a	7	n/a
 282.375	6.099	1	HS	spider2.mpg	slave2.mpg	2417	7	7	1
 288.474	5.133	2	Loc	not-know.mpg	bad.mpg	2198	8	7	0

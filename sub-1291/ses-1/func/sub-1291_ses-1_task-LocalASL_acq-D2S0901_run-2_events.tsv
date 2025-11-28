@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.488	6.607	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698		8	0
+1.488	6.607	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	n/a	8	n/a
 8.095	6.089	1	HS	home.mpg	deaf.mpg	2137	8	7	0
 14.184	6.089	5	PercY	nose.mpg	nose.mpg	2039	7	7	1
 20.273	6.607	3	Diff	hear.mpg	because.mpg	3629	7	8	0
@@ -29,7 +29,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 165.051	6.107	5	PercY	nose2.mpg	nose2.mpg	1771	7	7	1
 171.158	5.589	5	PercY	shoulders2.mpg	shoulders2.mpg	1641	7	7	1
 176.747	6.089	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1964	8	8	1
-182.836	5.606	2	Loc	sock2.mpg	star2.mpg	3698		7	0
+182.836	5.606	2	Loc	sock2.mpg	star2.mpg	3698	n/a	7	n/a
 188.442	5.588	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1021	8	8	1
 194.03	6.59	1	HS	convince.mpg	hit.mpg	1800	7	7	1
 200.62	6.106	6	PercN	nose.mpg	hair.mpg	1754	8	8	1

@@ -24,12 +24,12 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 133.599	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	1608	7	7	1
 140.198	6.599	5	PercY	hair2.mpg	hair2.mpg	4782	7	7	1
 146.797	5.583	1	HS	meat2.mpg	earth2.mpg	1699	8	7	0
-152.38	6.599	1	HS	dry2.mpg	experienced2.mpg	4698	NA	7	NA
+152.38	6.599	1	HS	dry2.mpg	experienced2.mpg	4698	n/a	7	n/a
 158.979	6.099	2	Loc	mad.mpg	tiger.mpg	2804	7	7	1
 165.078	6.099	5	PercY	nose2.mpg	nose2.mpg	1888	7	7	1
 171.177	5.583	5	PercY	shoulders2.mpg	shoulders2.mpg	1622	7	7	1
 176.76	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1391	8	8	1
-182.859	5.6	2	Loc	sock2.mpg	star2.mpg	3698	NA	7	NA
+182.859	5.6	2	Loc	sock2.mpg	star2.mpg	3698	n/a	7	n/a
 188.459	5.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	2269	8	8	1
 194.058	6.566	1	HS	convince.mpg	hit.mpg	1646	7	7	1
 200.624	6.099	6	PercN	nose.mpg	hair.mpg	1776	8	8	1
@@ -46,4 +46,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 269.198	5.583	3	Diff	know2.mpg	look-for2.mpg	2130	8	8	1
 274.781	6.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1570	8	8	1
 281.38	6.599	6	PercN	hair.mpg	shoulders.mpg	1531	8	8	1
-287.979	5.633	2	Loc	summer2.mpg	ugly2.mpg	NA	NA	7	NA
+287.979	5.633	2	Loc	summer2.mpg	ugly2.mpg	n/a	n/a	7	n/a

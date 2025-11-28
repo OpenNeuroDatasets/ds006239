@@ -39,7 +39,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 197.088	4.8	1	HighY	T3_yours.bmp	T1_mine.bmp	1352	7	7	1
 201.888	5.782	3	UnrN	T3_corn.bmp	T1_blame.bmp	1888	8	8	1
 207.67	5.3	3	UnrN	T3_hunter.bmp	T2_lemon.bmp	1938	8	8	1
-212.97	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3799		7	0
+212.97	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3799	n/a	7	n/a
 218.269	4.799	6	PercN	_F3_b6.bmp	_F1_f6.bmp	995	8	8	1
 223.068	5.8	1	HighY	T3_prison.bmp	T2_jail.bmp	1108	7	7	1
 228.868	4.799	2	LowY	T3_hoot.bmp	T2_owl.bmp	1301	7	7	1

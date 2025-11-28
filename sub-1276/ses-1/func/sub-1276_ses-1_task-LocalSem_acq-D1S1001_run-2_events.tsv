@@ -46,4 +46,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 251.523	6.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	853	7	7	1
 257.722	5.699	5	PercY	Sem/perc_cloud_brown.bmp	Sem/perc_cloud_brown.bmp	277	8	7	0
 263.421	5.716	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	730	8	8	1
-269.137	5.733	3	PicN	Sem/doll.bmp	Sem/witch.bmp	NA	NA	8	NA
+269.137	5.733	3	PicN	Sem/doll.bmp	Sem/witch.bmp	n/a	n/a	8	n/a

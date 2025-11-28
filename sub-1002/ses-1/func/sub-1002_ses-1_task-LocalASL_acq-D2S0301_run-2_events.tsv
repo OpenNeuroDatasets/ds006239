@@ -4,7 +4,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 14.204	6.099	5	PercY	nose.mpg	nose.mpg	1628	7	7	1
 20.303	6.583	3	Diff	hear.mpg	because.mpg	1922	8	8	1
 26.886	5.599	2	Loc	nut.mpg	not.mpg	2050	7	7	1
-32.485	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	3698	NA	7	NA
+32.485	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	3698	n/a	7	n/a
 38.084	6.083	3	Diff	address2.mpg	bone2.mpg	1572	8	8	1
 44.167	6.582	2	Loc	funny.mpg	cute.mpg	1761	7	7	1
 50.749	6.1	6	PercN	nose2.mpg	shoulders2.mpg	1467	8	8	1

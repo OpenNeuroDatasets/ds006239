@@ -42,7 +42,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 244.816	6.599	6	PercN	hair.mpg	shoulders.mpg	2545	8	8	1
 251.415	6.099	1	HS	thank.mpg	tell.mpg	1882	7	7	1
 257.514	6.082	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1862	8	8	1
-263.596	6.6	3	Diff	europe2.mpg	grass2.mpg	4698	NA	8	NA
+263.596	6.6	3	Diff	europe2.mpg	grass2.mpg	4698	n/a	8	n/a
 270.196	6.582	1	HS	last2.mpg	can't2.mpg	1565	7	7	1
 276.778	5.599	2	Loc	boss2.mpg	complain2.mpg	1926	7	7	1
 282.377	6.1	1	HS	spider2.mpg	slave2.mpg	1831	7	7	1

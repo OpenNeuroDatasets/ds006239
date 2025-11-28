@@ -44,7 +44,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 222.204	5.316	5	PercY	_F3_s4.bmp	_F1_s4.bmp	1624	7	7	1
 227.52	5.8	4	OnPn	T3_smart.bmp	T1_drought.bmp	1540	8	8	1
 233.32	5.299	2	OnPy	T3_stir.bmp	T2_blur.bmp	1715	8	7	0
-238.619	5.299	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3802	NA	8	NA
+238.619	5.299	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3802	n/a	8	n/a
 243.918	5.3	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1357	7	7	1
 249.218	5.815	3	OyPn	T3_pool.bmp	T0_wool.bmp	1746	8	8	1
 255.033	5.316	3	OyPn	T3_fought.bmp	T2_drought.bmp	1225	8	8	1

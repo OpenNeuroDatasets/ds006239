@@ -43,7 +43,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 234.413	6.216	3	PicN	Sem/hatch.bmp	Sem/deer.bmp	2354	8	8	1
 240.629	5.682	1	PicY	Sem/mop.bmp	Sem/broom.bmp	2515	7	7	1
 246.311	5.699	5	PercY	Sem/perc_truck_pink.bmp	Sem/perc_truck_pink.bmp	2048	7	7	1
-252.01	6.216	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504	NA	7	NA
+252.01	6.216	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4504	n/a	7	n/a
 258.226	5.2	5	PercY	Sem/perc_deer_white.bmp	Sem/perc_deer_white.bmp	1749	7	7	1
 263.426	6.199	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1462	8	8	1
 269.625	5.249	3	PicN	Sem/pants.bmp	Sem/rope.bmp	2198	8	8	1

@@ -4,7 +4,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 11.611	4.816	2	OnPy	T3_rum.bmp	T1_numb.bmp	1693	7	7	1
 16.427	5.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1397	7	7	1
 22.226	4.8	6	PercN	_F3_s6.bmp	_F0_e6.bmp	1598	8	8	1
-27.026	4.799	1	OyPy	T3_fought.bmp	T1_sought.bmp	3302	NA	7	NA
+27.026	4.799	1	OyPy	T3_fought.bmp	T1_sought.bmp	3302	n/a	7	n/a
 31.825	4.799	1	OyPy	T3_scheme.bmp	T2_theme.bmp	2351	7	7	1
 36.624	4.816	5	PercY	_F3_f4.bmp	_F0_f4.bmp	1424	7	7	1
 41.44	5.316	1	OyPy	T3_stool.bmp	T0_fool.bmp	2216	7	7	1
@@ -23,7 +23,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 111.865	5.299	4	OnPn	T3_trial.bmp	T0_fall.bmp	1639	8	8	1
 117.164	5.799	5	PercY	_F3_s6.bmp	_F0_s6.bmp	1548	7	7	1
 122.963	4.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1397	7	7	1
-127.763	4.816	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3302	NA	8	NA
+127.763	4.816	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3302	n/a	8	n/a
 132.579	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1509	7	7	1
 137.878	4.799	1	OyPy	T3_beef.bmp	T1_reef.bmp	1522	7	7	1
 142.677	5.8	3	OyPn	T3_wart.bmp	T1_smart.bmp	2059	8	8	1
@@ -32,7 +32,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 159.075	4.816	6	PercN	_F3_e6.bmp	_F0_s6.bmp	1477	8	8	1
 163.891	5.816	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1405	8	8	1
 169.707	5.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	2757	7	7	1
-175.507	5.282	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3802	NA	8	NA
+175.507	5.282	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	3802	n/a	8	n/a
 180.789	4.8	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2035	7	7	1
 185.589	5.316	4	OnPn	T3_port.bmp	T1_warm.bmp	1748	8	8	1
 190.905	5.799	2	OnPy	T3_june.bmp	T2_noon.bmp	1688	7	7	1
@@ -70,4 +70,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 361.066	5.816	1	OyPy	T3_shove.bmp	T1_glove.bmp	2046	7	7	1
 366.882	5.299	6	PercN	_F3_d4.bmp	_F1_o4.bmp	1742	8	8	1
 372.181	5.8	3	OyPn	T3_stamp.bmp	T2_swamp.bmp	1643	8	8	1
-377.981	4.832	3	OyPn	T3_pint.bmp	T0_hint.bmp	NA	NA	8	NA
+377.981	4.832	3	OyPn	T3_pint.bmp	T0_hint.bmp	n/a	n/a	8	n/a

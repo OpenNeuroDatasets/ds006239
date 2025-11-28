@@ -21,7 +21,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 109.395	5.216	3	PicN	Eng/smoke.bmp	Eng/frog.bmp	2172	8	8	1
 114.611	5.216	6	PercN	Eng/perc_frog_brown.bmp	Eng/perc_beard_white.bmp	1516	8	8	1
 119.827	5.699	3	PicN	Eng/beard.bmp	Eng/sleep.bmp	2044	8	8	1
-125.526	5.216	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3503	NA	8	NA
+125.526	5.216	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3503	n/a	8	n/a
 130.742	6.183	1	PicY	Eng/purse.bmp	Eng/nurse.bmp	1553	7	7	1
 136.925	6.199	3	PicN	Eng/peel.bmp	Eng/smell.bmp	3867	8	8	1
 143.124	5.716	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	2059	7	7	1
@@ -40,10 +40,10 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 217.298	5.199	1	PicY	Eng/suck.bmp	Eng/duck.bmp	1742	8	7	0
 222.497	5.699	3	PicN	Eng/bed.bmp	Eng/sweep.bmp	2118	8	8	1
 228.196	6.216	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1723	7	7	1
-234.412	6.199	3	PicN	Eng/saw.bmp	Eng/drum.bmp	4504	NA	8	NA
+234.412	6.199	3	PicN	Eng/saw.bmp	Eng/drum.bmp	4504	n/a	8	n/a
 240.611	6.199	1	PicY	Eng/pig.bmp	Eng/wig.bmp	1636	7	7	1
 246.81	5.733	5	PercY	Eng/perc_well_brown.bmp	Eng/perc_well_brown.bmp	1517	7	7	1
-252.543	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3503	NA	7	NA
+252.543	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3503	n/a	7	n/a
 257.742	5.2	5	PercY	Eng/perc_look_brown.bmp	Eng/perc_look_brown.bmp	1617	7	7	1
 262.942	6.182	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1482	8	8	1
-269.124	5.75	3	PicN	Eng/paint.bmp	Eng/look.bmp	NA	NA	8	NA
+269.124	5.75	3	PicN	Eng/paint.bmp	Eng/look.bmp	n/a	n/a	8	n/a

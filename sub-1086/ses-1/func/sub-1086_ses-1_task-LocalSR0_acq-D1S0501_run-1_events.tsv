@@ -44,6 +44,6 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 257.822	6.6	1	Onset	RubM2.mpg	RunM2.mpg	2866	7	7	1
 264.422	6.115	5	PercY	CheeksM1.mpg	CheeksM1.mpg	1683	7	7	1
 270.537	6.1	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	1927	7	7	1
-276.637	5.599	2	Offset	CabM2.mpg	TabM1.mpg	3703	NA	7	NA
+276.637	5.599	2	Offset	CabM2.mpg	TabM1.mpg	3703	n/a	7	n/a
 282.236	6.099	5	PercY	CheeksF1.mpg	CheeksF1.mpg	1940	7	7	1
 288.335	5.633	6	PercN	CheeksF1.mpg	TongueF1.mpg	1841	8	8	1

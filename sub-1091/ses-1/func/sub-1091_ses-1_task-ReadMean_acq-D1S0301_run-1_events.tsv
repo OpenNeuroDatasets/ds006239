@@ -1,6 +1,6 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.509	5.3	3	UnrN	T3_system.bmp	T0_head.bmp	3799	NA	8	NA
-6.809	5.799	2	LowY	T3_speak.bmp	T0_talk.bmp	4299	NA	7	NA
+1.509	5.3	3	UnrN	T3_system.bmp	T0_head.bmp	3799	n/a	8	n/a
+6.809	5.799	2	LowY	T3_speak.bmp	T0_talk.bmp	4299	n/a	7	n/a
 12.608	5.799	3	UnrN	T3_cobra.bmp	T1_slipper.bmp	3719	8	8	1
 18.407	5.3	2	LowY	T3_distance.bmp	T2_mile.bmp	1464	7	7	1
 23.707	5.282	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1645	8	8	1
@@ -51,7 +51,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 260.159	5.799	1	HighY	T3_vine.bmp	T2_grape.bmp	4749	8	7	0
 265.958	5.8	1	HighY	T3_noun.bmp	T1_verb.bmp	1840	7	7	1
 271.758	5.799	6	PercN	_F3_o4.bmp	_F2_b4.bmp	1584	8	8	1
-277.557	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3299	NA	7	NA
+277.557	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3299	n/a	7	n/a
 282.356	4.783	5	PercY	_F3_b6.bmp	_F0_b6.bmp	1658	7	7	1
 287.139	5.799	1	HighY	T3_lend.bmp	T1_borrow.bmp	2019	7	7	1
 292.938	4.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1500	7	7	1

@@ -6,7 +6,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 25.84	5.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1679	7	7	1
 31.039	5.2	3	PicN	Eng/screw.bmp	Eng/globe.bmp	3264	8	8	1
 36.239	5.199	1	PicY	Eng/whip.bmp	Eng/trip.bmp	3289	7	7	1
-41.438	5.716	6	PercN	Eng/perc_box_brown.bmp	Eng/perc_cork_pink.bmp	930	NA	8	NA
+41.438	5.716	6	PercN	Eng/perc_box_brown.bmp	Eng/perc_cork_pink.bmp	930	n/a	8	n/a
 47.154	5.199	3	PicN	Eng/wing.bmp	Eng/roof.bmp	3477	8	8	1
 52.353	5.7	3	PicN	Eng/climb.bmp	Eng/hay.bmp	2974	8	8	1
 58.053	5.716	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1962	8	8	1
@@ -15,7 +15,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 75.167	5.733	1	PicY	Eng/kick.bmp	Eng/lick.bmp	2913	7	7	1
 80.9	5.199	5	PercY	Eng/perc_squeeze_pink.bmp	Eng/perc_squeeze_pink.bmp	1331	7	7	1
 86.099	6.199	6	PercN	Eng/perc_bridge_white.bmp	Eng/perc_climb_brown.bmp	1244	8	8	1
-92.298	5.2	3	PicN	Eng/whale.bmp	Eng/rake.bmp	NA	NA	8	NA
+92.298	5.2	3	PicN	Eng/whale.bmp	Eng/rake.bmp	n/a	n/a	8	n/a
 97.498	5.199	1	PicY	Eng/bear.bmp	Eng/pear.bmp	1637	7	7	1
 102.697	6.199	5	PercY	Eng/perc_jar_brown.bmp	Eng/perc_jar_brown.bmp	1327	7	7	1
 108.896	6.216	3	PicN	Eng/squeeze.bmp	Eng/bread.bmp	2311	8	8	1
@@ -26,7 +26,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 138.926	5.699	3	PicN	Eng/read.bmp	Eng/drive.bmp	2698	8	8	1
 144.625	5.716	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1495	7	7	1
 150.341	5.699	5	PercY	Eng/perc_shark_brown.bmp	Eng/perc_shark_brown.bmp	2531	8	7	0
-156.04	5.2	6	PercN	Eng/perc_bite_white.bmp	Eng/perc_bride_pink.bmp	871	NA	8	NA
+156.04	5.2	6	PercN	Eng/perc_bite_white.bmp	Eng/perc_bride_pink.bmp	871	n/a	8	n/a
 161.24	6.215	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	2104	8	8	1
 167.455	6.2	1	PicY	Eng/bark.bmp	Eng/shark.bmp	2440	7	7	1
 173.655	5.199	1	PicY	Eng/box.bmp	Eng/fox.bmp	2129	7	7	1
@@ -39,7 +39,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 213.1	5.715	6	PercN	Eng/perc_kick_pink.bmp	Eng/perc_bench_white.bmp	1445	8	8	1
 218.815	5.183	1	PicY	Eng/slide.bmp	Eng/bride.bmp	1808	7	7	1
 223.998	5.699	3	PicN	Eng/cork.bmp	Eng/hair.bmp	2330	8	8	1
-229.697	5.2	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	895	NA	7	NA
+229.697	5.2	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	895	n/a	7	n/a
 234.897	5.716	3	PicN	Eng/jar.bmp	Eng/dress.bmp	2231	8	8	1
 240.613	5.699	1	PicY	Eng/bite.bmp	Eng/kite.bmp	2635	7	7	1
 246.312	5.199	5	PercY	Eng/perc_net_white.bmp	Eng/perc_net_white.bmp	1487	7	7	1

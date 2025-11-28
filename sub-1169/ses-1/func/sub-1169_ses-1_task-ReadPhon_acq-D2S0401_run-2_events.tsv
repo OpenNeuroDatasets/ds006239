@@ -5,7 +5,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 17.918	4.799	2	OnPy	T3_tense.bmp	T0_fence.bmp	1138	7	7	1
 22.717	5.316	2	OnPy	T3_soup.bmp	T1_loop.bmp	1059	7	7	1
 28.033	5.3	6	PercN	_F3_e4.bmp	_F0_s4.bmp	1535	7	8	0
-33.333	4.799	6	PercN	_F3_b4.bmp	_F0_f4.bmp	3302	NA	8	NA
+33.333	4.799	6	PercN	_F3_b4.bmp	_F0_f4.bmp	3302	n/a	8	n/a
 38.132	5.299	4	OnPn	T3_pool.bmp	T2_tooth.bmp	1340	8	8	1
 43.431	5.8	4	OnPn	T3_both.bmp	T2_stroke.bmp	2281	8	8	1
 49.231	4.816	1	OyPy	T3_quart.bmp	T1_wart.bmp	1138	7	7	1
@@ -48,7 +48,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 245.439	5.299	2	OnPy	T3_warm.bmp	T2_form.bmp	2105	7	7	1
 250.738	5.299	4	OnPn	T3_rum.bmp	T2_touch.bmp	1766	8	8	1
 256.037	4.8	3	OyPn	T3_gross.bmp	T1_moss.bmp	1475	8	8	1
-260.837	4.799	4	OnPn	T3_glow.bmp	T0_stove.bmp	3302	NA	8	NA
+260.837	4.799	4	OnPn	T3_glow.bmp	T0_stove.bmp	3302	n/a	8	n/a
 265.636	5.816	4	OnPn	T3_wheel.bmp	T2_sneak.bmp	1180	8	8	1
 271.452	5.299	3	OyPn	T3_cow.bmp	T0_glow.bmp	2980	8	8	1
 276.751	5.3	1	OyPy	T3_pile.bmp	T1_mile.bmp	1761	7	7	1

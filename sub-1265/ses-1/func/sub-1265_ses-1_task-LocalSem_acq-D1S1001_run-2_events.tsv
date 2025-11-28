@@ -2,7 +2,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 1.522	6.199	1	PicY	Sem/pole.bmp	Sem/fish.bmp	1445	7	7	1
 7.721	5.2	1	PicY	Sem/horse.bmp	Sem/cow.bmp	1279	7	7	1
 12.921	6.199	3	PicN	Sem/heel.bmp	Sem/chain.bmp	1247	8	8	1
-19.12	6.216	5	PercY	Sem/perc_shave_pink.bmp	Sem/perc_shave_pink.bmp	4504	NA	7	NA
+19.12	6.216	5	PercY	Sem/perc_shave_pink.bmp	Sem/perc_shave_pink.bmp	4504	n/a	7	n/a
 25.336	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1623	7	7	1
 30.535	5.2	3	PicN	Sem/tow.bmp	Sem/fold.bmp	3193	8	8	1
 35.735	5.216	1	PicY	Sem/sword.bmp	Sem/knife.bmp	1314	7	7	1
@@ -40,7 +40,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 217.295	5.699	1	PicY	Sem/nest.bmp	Sem/bird.bmp	3561	7	7	1
 222.994	6.199	3	PicN	Sem/pinch.bmp	Sem/bowl.bmp	1317	8	8	1
 229.193	5.216	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	3704	7	7	1
-234.409	5.699	3	PicN	Sem/glove.bmp	Sem/crib.bmp	4004	NA	8	NA
+234.409	5.699	3	PicN	Sem/glove.bmp	Sem/crib.bmp	4004	n/a	8	n/a
 240.108	6.199	1	PicY	Sem/fly.bmp	Sem/bug.bmp	1572	7	7	1
 246.307	5.216	5	PercY	Sem/perc_horse_pink.bmp	Sem/perc_horse_pink.bmp	1772	8	7	0
 251.523	6.216	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	3324	7	7	1

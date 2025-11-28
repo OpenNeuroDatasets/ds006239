@@ -11,11 +11,11 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 53.357	5.199	3	PicN	Sem/wave.bmp	Sem/boot.bmp	2539	8	8	1
 58.556	6.216	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1068	8	8	1
 64.772	5.199	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1603	8	8	1
-69.971	5.7	1	PicY	Sem/king.bmp	Sem/queen.bmp	4004	NA	7	NA
+69.971	5.7	1	PicY	Sem/king.bmp	Sem/queen.bmp	4004	n/a	7	n/a
 75.671	5.199	1	PicY	Sem/shoe.bmp	Sem/sock.bmp	2922	7	7	1
 80.87	6.216	5	PercY	Sem/perc_light_white.bmp	Sem/perc_light_white.bmp	1578	7	7	1
 87.086	5.199	6	PercN	Sem/perc_pour_white.bmp	Sem/perc_mop_pink.bmp	3042	8	8	1
-92.285	5.199	3	PicN	Sem/pour.bmp	Sem/crab.bmp	3503	NA	8	NA
+92.285	5.199	3	PicN	Sem/pour.bmp	Sem/crab.bmp	3503	n/a	8	n/a
 97.484	5.716	1	PicY	Sem/break.bmp	Sem/fix.bmp	3044	8	7	0
 103.2	5.7	5	PercY	Sem/perc_rope_pink.bmp	Sem/perc_rope_pink.bmp	1487	7	7	1
 108.9	5.199	3	PicN	Sem/bomb.bmp	Sem/nail.bmp	1684	8	8	1

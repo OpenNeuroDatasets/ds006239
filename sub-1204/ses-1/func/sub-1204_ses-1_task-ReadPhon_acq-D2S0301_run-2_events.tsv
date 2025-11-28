@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.513	5.799	6	PercN	_F3_f4.bmp	_F2_d4.bmp	4303	NA	8	NA
+1.513	5.799	6	PercN	_F3_f4.bmp	_F2_d4.bmp	4303	n/a	8	n/a
 7.312	5.799	2	OnPy	T3_fall.bmp	T1_crawl.bmp	2176	7	7	1
 13.111	4.816	4	OnPn	T3_gross.bmp	T1_post.bmp	1353	8	8	1
 17.927	4.8	2	OnPy	T3_tense.bmp	T0_fence.bmp	1433	7	7	1
@@ -36,7 +36,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 181.306	4.8	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1998	7	7	1
 186.106	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1670	7	7	1
 190.905	5.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1495	8	8	1
-196.704	4.8	3	OyPn	T3_breath.bmp	T0_wreath.bmp	3302	NA	8	NA
+196.704	4.8	3	OyPn	T3_breath.bmp	T0_wreath.bmp	3302	n/a	8	n/a
 201.504	5.316	1	OyPy	T3_neat.bmp	T2_wheat.bmp	1656	7	7	1
 206.82	5.799	3	OyPn	T3_mouth.bmp	T1_youth.bmp	1636	8	8	1
 212.619	5.799	1	OyPy	T3_toss.bmp	T0_moss.bmp	2205	7	7	1

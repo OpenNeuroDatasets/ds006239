@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.51	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	NA	8	NA
+1.51	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	n/a	8	n/a
 8.109	6.099	1	HS	home.mpg	deaf.mpg	2083	8	7	0
 14.208	6.099	5	PercY	nose.mpg	nose.mpg	1817	7	7	1
 20.307	6.583	3	Diff	hear.mpg	because.mpg	2021	8	8	1
@@ -7,7 +7,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 32.489	5.583	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	2119	7	7	1
 38.072	6.099	3	Diff	address2.mpg	bone2.mpg	1648	8	8	1
 44.171	6.599	2	Loc	funny.mpg	cute.mpg	1893	8	7	0
-50.77	6.099	6	PercN	nose2.mpg	shoulders2.mpg	4198	NA	8	NA
+50.77	6.099	6	PercN	nose2.mpg	shoulders2.mpg	4198	n/a	8	n/a
 56.869	6.083	1	HS	challenge2.mpg	meet2.mpg	2491	7	7	1
 62.952	6.099	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	1680	7	7	1
 69.051	5.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1597	8	8	1

@@ -36,7 +36,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 196.479	5.199	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1978	8	8	1
 201.678	5.699	1	PicY	Eng/match.bmp	Eng/catch.bmp	2482	7	7	1
 207.377	5.716	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	2335	7	7	1
-213.093	5.699	6	PercN	Eng/perc_kick_pink.bmp	Eng/perc_bench_white.bmp	NA	NA	8	NA
+213.093	5.699	6	PercN	Eng/perc_kick_pink.bmp	Eng/perc_bench_white.bmp	n/a	n/a	8	n/a
 218.792	5.2	1	PicY	Eng/slide.bmp	Eng/bride.bmp	1440	7	7	1
 223.992	5.716	3	PicN	Eng/cork.bmp	Eng/hair.bmp	1984	8	8	1
 229.708	5.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1515	7	7	1

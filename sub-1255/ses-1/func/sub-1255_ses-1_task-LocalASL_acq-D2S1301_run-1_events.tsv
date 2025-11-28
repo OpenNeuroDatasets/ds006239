@@ -21,7 +21,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 117.808	6.1	6	PercN	nose.mpg	hair.mpg	1735	8	8	1
 123.908	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	2300	7	7	1
 130.507	5.599	1	HS	long2.mpg	sheep2.mpg	2053	7	7	1
-136.106	5.583	3	Diff	kid.mpg	wonder.mpg	3698	NA	8	NA
+136.106	5.583	3	Diff	kid.mpg	wonder.mpg	3698	n/a	8	n/a
 141.689	6.099	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1999	8	8	1
 147.788	6.599	5	PercY	hair2.mpg	hair2.mpg	2275	7	7	1
 154.387	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	1852	7	7	1
@@ -41,9 +41,9 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 239.226	5.582	5	PercY	shoulders.mpg	shoulders.mpg	1965	7	7	1
 244.808	6.6	6	PercN	hair.mpg	shoulders.mpg	1839	8	8	1
 251.408	6.099	1	HS	thank.mpg	tell.mpg	3248	8	7	0
-257.507	6.082	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	NA	8	NA
+257.507	6.082	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	n/a	8	n/a
 263.589	6.599	3	Diff	europe2.mpg	grass2.mpg	2010	7	8	0
 270.188	6.6	1	HS	last2.mpg	can't2.mpg	1347	8	7	0
-276.788	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	NA	7	NA
+276.788	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	n/a	7	n/a
 282.387	6.082	1	HS	spider2.mpg	slave2.mpg	1789	8	7	0
 288.469	5.133	2	Loc	not-know.mpg	bad.mpg	3346	8	7	0

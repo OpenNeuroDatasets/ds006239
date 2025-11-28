@@ -41,7 +41,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 206.301	5.299	3	OyPn	T3_glove.bmp	T0_stove.bmp	1195	8	8	1
 211.6	5.816	1	OyPy	T3_numb.bmp	T1_crumb.bmp	1120	7	7	1
 217.416	4.799	3	OyPn	T3_stood.bmp	T2_flood.bmp	1032	8	8	1
-222.215	5.3	5	PercY	_F3_s4.bmp	_F1_s4.bmp	3802	NA	7	NA
+222.215	5.3	5	PercY	_F3_s4.bmp	_F1_s4.bmp	3802	n/a	7	n/a
 227.515	5.799	4	OnPn	T3_smart.bmp	T1_drought.bmp	1885	7	8	0
 233.314	5.299	2	OnPy	T3_stir.bmp	T2_blur.bmp	1798	7	7	1
 238.613	5.316	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1019	8	8	1
@@ -70,4 +70,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 361.064	5.816	1	OyPy	T3_shove.bmp	T1_glove.bmp	1176	7	7	1
 366.88	5.3	6	PercN	_F3_d4.bmp	_F1_o4.bmp	1016	8	8	1
 372.18	5.815	3	OyPn	T3_stamp.bmp	T2_swamp.bmp	1100	8	8	1
-377.995	4.85	3	OyPn	T3_pint.bmp	T0_hint.bmp	NA	NA	8	NA
+377.995	4.85	3	OyPn	T3_pint.bmp	T0_hint.bmp	n/a	n/a	8	n/a

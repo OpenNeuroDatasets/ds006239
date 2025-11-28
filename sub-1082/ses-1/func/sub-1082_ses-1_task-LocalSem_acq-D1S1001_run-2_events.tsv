@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.519	6.199	1	PicY	Sem/pole.bmp	Sem/fish.bmp	4504	NA	7	NA
+1.519	6.199	1	PicY	Sem/pole.bmp	Sem/fish.bmp	4504	n/a	7	n/a
 7.718	5.199	1	PicY	Sem/horse.bmp	Sem/cow.bmp	3684	8	7	0
 12.917	6.216	3	PicN	Sem/heel.bmp	Sem/chain.bmp	1483	8	8	1
 19.133	6.199	5	PercY	Sem/perc_shave_pink.bmp	Sem/perc_shave_pink.bmp	1427	7	7	1

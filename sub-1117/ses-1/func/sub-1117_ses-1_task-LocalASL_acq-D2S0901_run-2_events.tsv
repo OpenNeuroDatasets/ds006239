@@ -1,5 +1,5 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.503	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	NA	8	NA
+1.503	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	n/a	8	n/a
 8.102	6.099	1	HS	home.mpg	deaf.mpg	2186	7	7	1
 14.201	6.1	5	PercY	nose.mpg	nose.mpg	1031	7	7	1
 20.301	6.582	3	Diff	hear.mpg	because.mpg	2460	8	8	1

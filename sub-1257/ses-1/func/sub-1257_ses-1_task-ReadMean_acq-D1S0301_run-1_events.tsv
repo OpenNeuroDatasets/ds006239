@@ -13,7 +13,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 60.309	4.8	2	LowY	T3_guide.bmp	T1_tour.bmp	2506	7	7	1
 65.109	4.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1314	8	8	1
 69.908	5.783	3	UnrN	T3_adult.bmp	T0_pond.bmp	1667	8	8	1
-75.691	5.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4299	NA	7	NA
+75.691	5.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	4299	n/a	7	n/a
 81.49	5.799	2	LowY	T3_reef.bmp	T0_coral.bmp	3526	7	7	1
 87.289	5.8	5	PercY	_F3_e6.bmp	_F1_e6.bmp	2894	8	7	0
 93.089	5.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1975	8	8	1
@@ -34,9 +34,9 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 169.595	5.783	2	LowY	T3_hop.bmp	T0_skip.bmp	2868	7	7	1
 175.378	5.299	6	PercN	_F3_f6.bmp	_F1_d6.bmp	2414	8	8	1
 180.677	4.8	6	PercN	_F3_d4.bmp	_F0_o4.bmp	1490	8	8	1
-185.477	5.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4299	NA	8	NA
-191.276	5.799	3	UnrN	T3_blanket.bmp	T1_split.bmp	4299	NA	8	NA
-197.075	4.8	1	HighY	T3_yours.bmp	T1_mine.bmp	3299	NA	7	NA
+185.477	5.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4299	n/a	8	n/a
+191.276	5.799	3	UnrN	T3_blanket.bmp	T1_split.bmp	4299	n/a	8	n/a
+197.075	4.8	1	HighY	T3_yours.bmp	T1_mine.bmp	3299	n/a	7	n/a
 201.875	5.799	3	UnrN	T3_corn.bmp	T1_blame.bmp	2117	8	8	1
 207.674	5.299	3	UnrN	T3_hunter.bmp	T2_lemon.bmp	973	8	8	1
 212.973	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2170	7	7	1
@@ -54,8 +54,8 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 277.565	4.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1755	8	7	0
 282.364	4.8	5	PercY	_F3_b6.bmp	_F0_b6.bmp	2123	7	7	1
 287.164	5.816	1	HighY	T3_lend.bmp	T1_borrow.bmp	1859	8	7	0
-292.98	4.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	3299	NA	7	NA
-297.779	5.283	1	HighY	T3_silver.bmp	T2_gold.bmp	3799	NA	7	NA
+292.98	4.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	3299	n/a	7	n/a
+297.779	5.283	1	HighY	T3_silver.bmp	T2_gold.bmp	3799	n/a	7	n/a
 303.062	5.799	5	PercY	_F3_d6.bmp	_F1_d6.bmp	1490	7	7	1
 308.861	5.799	6	PercN	_F3_o6.bmp	_F2_b6.bmp	1402	8	8	1
 314.66	4.333	5	PercY	_F3_d4.bmp	_F0_d4.bmp	1387	7	7	1

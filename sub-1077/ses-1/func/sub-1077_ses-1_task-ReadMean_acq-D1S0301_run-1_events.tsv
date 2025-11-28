@@ -28,7 +28,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 140.293	4.799	3	UnrN	T3_cream.bmp	T2_grip.bmp	1835	8	8	1
 145.092	5.3	3	UnrN	T3_trust.bmp	T2_dozen.bmp	1092	8	8	1
 150.392	4.799	3	UnrN	T3_sailing.bmp	T2_nest.bmp	992	8	8	1
-155.191	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3299	NA	8	NA
+155.191	4.799	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	3299	n/a	8	n/a
 159.99	4.8	3	UnrN	T3_pigeon.bmp	T1_gamble.bmp	1058	8	8	1
 164.79	4.799	2	LowY	T3_maple.bmp	T2_syrup.bmp	1426	7	7	1
 169.589	5.799	2	LowY	T3_hop.bmp	T0_skip.bmp	1411	7	7	1

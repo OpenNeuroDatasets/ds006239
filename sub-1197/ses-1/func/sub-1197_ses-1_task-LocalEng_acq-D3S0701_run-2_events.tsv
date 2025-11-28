@@ -35,10 +35,10 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 190.268	5.199	3	PicN	Eng/stool.bmp	Eng/pan.bmp	1068	8	8	1
 195.467	5.216	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	2253	8	8	1
 200.683	5.2	1	PicY	Eng/ring.bmp	Eng/sing.bmp	1125	8	7	0
-205.883	6.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	4504	NA	7	NA
-212.082	5.216	6	PercN	Eng/perc_man_pink.bmp	Eng/perc_saw_brown.bmp	3503	NA	8	NA
-217.298	5.199	1	PicY	Eng/suck.bmp	Eng/duck.bmp	3503	NA	7	NA
-222.497	5.7	3	PicN	Eng/bed.bmp	Eng/sweep.bmp	4004	NA	8	NA
+205.883	6.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	4504	n/a	7	n/a
+212.082	5.216	6	PercN	Eng/perc_man_pink.bmp	Eng/perc_saw_brown.bmp	3503	n/a	8	n/a
+217.298	5.199	1	PicY	Eng/suck.bmp	Eng/duck.bmp	3503	n/a	7	n/a
+222.497	5.7	3	PicN	Eng/bed.bmp	Eng/sweep.bmp	4004	n/a	8	n/a
 228.197	6.199	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1948	7	7	1
 234.396	6.216	3	PicN	Eng/saw.bmp	Eng/drum.bmp	1012	8	8	1
 240.612	6.199	1	PicY	Eng/pig.bmp	Eng/wig.bmp	2333	7	7	1

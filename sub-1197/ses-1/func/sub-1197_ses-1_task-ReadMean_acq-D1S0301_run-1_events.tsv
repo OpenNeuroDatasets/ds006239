@@ -42,7 +42,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 212.972	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1484	7	7	1
 218.271	4.8	6	PercN	_F3_b6.bmp	_F1_f6.bmp	1537	8	8	1
 223.071	5.799	1	HighY	T3_prison.bmp	T2_jail.bmp	1626	7	7	1
-228.87	4.816	2	LowY	T3_hoot.bmp	T2_owl.bmp	3299	NA	7	NA
+228.87	4.816	2	LowY	T3_hoot.bmp	T2_owl.bmp	3299	n/a	7	n/a
 233.686	5.299	6	PercN	_F3_f4.bmp	_F0_d4.bmp	2474	8	8	1
 238.985	5.299	2	LowY	T3_water.bmp	T2_drink.bmp	1535	7	7	1
 244.284	5.783	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1316	7	7	1

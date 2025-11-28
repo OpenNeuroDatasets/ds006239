@@ -16,7 +16,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 75.193	5.299	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1167	7	7	1
 80.492	4.8	2	LowY	T3_glue.bmp	T2_sticky.bmp	3132	7	7	1
 85.292	5.799	1	HighY	T3_yell.bmp	T0_scream.bmp	2956	7	7	1
-91.091	5.299	2	LowY	T3_temper.bmp	T0_tantrum.bmp	3799	NA	7	NA
+91.091	5.299	2	LowY	T3_temper.bmp	T0_tantrum.bmp	3799	n/a	7	n/a
 96.39	5.799	2	LowY	T3_cheese.bmp	T2_cracker.bmp	1810	7	7	1
 102.189	5.3	3	UnrN	T3_rubber.bmp	T2_straw.bmp	1971	8	8	1
 107.489	5.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1111	7	7	1
@@ -43,7 +43,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 218.772	5.299	3	UnrN	T3_upper.bmp	T1_broke.bmp	1756	8	8	1
 224.071	5.3	2	LowY	T3_lobster.bmp	T0_crab.bmp	1081	7	7	1
 229.371	5.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	1221	8	8	1
-235.17	5.816	3	UnrN	T3_ranch.bmp	T0_chin.bmp	4299	NA	8	NA
+235.17	5.816	3	UnrN	T3_ranch.bmp	T0_chin.bmp	4299	n/a	8	n/a
 240.986	5.799	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2830	7	7	1
 246.785	5.283	2	LowY	T3_razor.bmp	T0_blade.bmp	1327	7	7	1
 252.068	4.799	8	FixN	Gen/_Fix_Red.bmp	Gen/_Fix_Green.bmp	956	8	8	1

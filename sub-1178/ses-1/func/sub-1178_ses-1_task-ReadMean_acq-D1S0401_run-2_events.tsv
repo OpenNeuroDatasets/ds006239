@@ -24,7 +24,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 118.09	5.299	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1198	7	7	1
 123.389	5.299	1	HighY	T3_winner.bmp	T1_loser.bmp	1603	7	7	1
 128.688	4.8	1	HighY	T3_start.bmp	T2_finish.bmp	2064	7	7	1
-133.488	4.799	2	LowY	T3_children.bmp	T2_kids.bmp	3299	NA	7	NA
+133.488	4.799	2	LowY	T3_children.bmp	T2_kids.bmp	3299	n/a	7	n/a
 138.287	5.299	1	HighY	T3_question.bmp	T0_answer.bmp	1385	7	7	1
 143.586	4.8	3	UnrN	T3_stream.bmp	T0_rear.bmp	1822	8	8	1
 148.386	4.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1070	7	7	1

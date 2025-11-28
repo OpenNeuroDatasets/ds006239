@@ -32,7 +32,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 182.852	5.6	2	Loc	sock2.mpg	star2.mpg	1924	7	7	1
 188.452	5.599	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1653	8	8	1
 194.051	6.599	1	HS	convince.mpg	hit.mpg	1933	7	7	1
-200.65	6.082	6	PercN	nose.mpg	hair.mpg	4198	NA	8	NA
+200.65	6.082	6	PercN	nose.mpg	hair.mpg	4198	n/a	8	n/a
 206.732	6.6	2	Loc	general2.mpg	open-minded2.mpg	1932	7	7	1
 213.332	6.599	3	Diff	upset2.mpg	angry-mad2.mpg	2589	8	8	1
 219.931	6.599	3	Diff	surprise2.mpg	flower2.mpg	2365	8	8	1

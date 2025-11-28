@@ -70,4 +70,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 361.089	4.799	1	OyPy	T3_frost.bmp	T0_cost.bmp	1272	7	7	1
 365.888	5.816	1	OyPy	T3_harm.bmp	T0_farm.bmp	1080	7	7	1
 371.704	5.799	3	OyPn	T3_scratch.bmp	T2_watch.bmp	1688	8	8	1
-377.503	5.333	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	NA	NA	7	NA
+377.503	5.333	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	n/a	n/a	7	n/a

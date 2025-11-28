@@ -16,7 +16,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 73.738	5.816	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1158	8	8	1
 79.554	5.3	4	OnPn	T3_tough.bmp	T1_dull.bmp	1270	8	8	1
 84.854	5.799	6	PercN	_F3_o4.bmp	_F2_b4.bmp	2219	7	8	0
-90.653	5.799	1	OyPy	T3_sweep.bmp	T0_creep.bmp	4303	NA	7	NA
+90.653	5.799	1	OyPy	T3_sweep.bmp	T0_creep.bmp	4303	n/a	7	n/a
 96.452	5.799	6	PercN	_F3_d6.bmp	_F1_o6.bmp	1244	8	8	1
 102.251	4.8	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	1285	8	8	1
 107.051	4.799	2	OnPy	T3_stroke.bmp	T1_soak.bmp	2109	7	7	1
@@ -28,7 +28,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 137.863	4.8	1	OyPy	T3_beef.bmp	T1_reef.bmp	1161	7	7	1
 142.663	5.799	3	OyPn	T3_wart.bmp	T1_smart.bmp	1753	7	8	0
 148.462	5.816	3	OyPn	T3_dose.bmp	T0_pose.bmp	3282	7	8	0
-154.278	4.799	3	OyPn	T3_touch.bmp	T1_couch.bmp	3302	NA	8	NA
+154.278	4.799	3	OyPn	T3_touch.bmp	T1_couch.bmp	3302	n/a	8	n/a
 159.077	4.816	6	PercN	_F3_e6.bmp	_F0_s6.bmp	1171	8	8	1
 163.893	5.8	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	2411	8	8	1
 169.693	5.799	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1532	7	7	1
@@ -63,11 +63,11 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 321.956	5.799	1	OyPy	T3_bull.bmp	T2_full.bmp	2228	8	7	0
 327.755	5.8	2	OnPy	T3_chase.bmp	T2_grace.bmp	1773	7	7	1
 333.555	4.799	2	OnPy	T3_float.bmp	T0_note.bmp	965	7	7	1
-338.354	5.816	2	OnPy	T3_bride.bmp	T0_dried.bmp	4303	NA	7	NA
+338.354	5.816	2	OnPy	T3_bride.bmp	T0_dried.bmp	4303	n/a	7	n/a
 344.17	5.799	4	OnPn	T3_thief.bmp	T0_plead.bmp	2222	8	8	1
 349.969	5.3	1	OyPy	T3_bluff.bmp	T2_puff.bmp	1303	7	7	1
-355.269	5.799	5	PercY	_F3_b4.bmp	_F1_b4.bmp	4303	NA	7	NA
-361.068	5.799	1	OyPy	T3_shove.bmp	T1_glove.bmp	4303	NA	7	NA
+355.269	5.799	5	PercY	_F3_b4.bmp	_F1_b4.bmp	4303	n/a	7	n/a
+361.068	5.799	1	OyPy	T3_shove.bmp	T1_glove.bmp	4303	n/a	7	n/a
 366.867	5.299	6	PercN	_F3_d4.bmp	_F1_o4.bmp	1118	8	8	1
 372.166	5.799	3	OyPn	T3_stamp.bmp	T2_swamp.bmp	4549	8	8	1
 377.965	4.85	3	OyPn	T3_pint.bmp	T0_hint.bmp	2019	7	8	0

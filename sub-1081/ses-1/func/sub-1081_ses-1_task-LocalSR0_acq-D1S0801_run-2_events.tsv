@@ -22,7 +22,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 119.595	6.116	3	Diff	SetM2.mpg	JamM2.mpg	2157	8	8	1
 125.711	6.1	6	PercN	CheeksM1.mpg	TeethM1.mpg	2105	8	8	1
 131.811	5.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1622	8	8	1
-137.41	6.116	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4204	NA	7	NA
+137.41	6.116	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4204	n/a	7	n/a
 143.526	6.599	6	PercN	TeethM1.mpg	TongueM2.mpg	1594	8	8	1
 150.125	6.599	3	Diff	PutM2.mpg	LogM2.mpg	2435	8	8	1
 156.724	6.599	5	PercY	TongueF1.mpg	TongueF1.mpg	1780	7	7	1
@@ -41,7 +41,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 236.097	6.599	2	Offset	CanF1.mpg	PanF1.mpg	2063	7	7	1
 242.696	6.099	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1552	8	8	1
 248.795	6.116	3	Diff	MenF1.mpg	CupF2.mpg	1892	8	8	1
-254.911	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	4704	NA	7	NA
+254.911	6.599	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	4704	n/a	7	n/a
 261.51	6.6	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	1810	8	8	1
 268.11	6.615	3	Diff	LogF1.mpg	HatF1.mpg	2105	7	8	0
 274.725	6.599	1	Onset	SumF1.mpg	SonF1.mpg	2034	7	7	1

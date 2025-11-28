@@ -23,7 +23,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 113.295	5.8	2	LowY	T3_salad.bmp	T0_lettuce.bmp	1569	8	7	0
 119.095	5.316	2	LowY	T3_lip.bmp	T1_kiss.bmp	3049	8	7	0
 124.411	5.299	2	LowY	T3_shout.bmp	T1_yell.bmp	1301	7	7	1
-129.71	5.299	1	HighY	T3_dime.bmp	T0_nickel.bmp	3799	NA	7	NA
+129.71	5.299	1	HighY	T3_dime.bmp	T0_nickel.bmp	3799	n/a	7	n/a
 135.009	5.283	5	PercY	_F3_o4.bmp	_F2_o4.bmp	1551	7	7	1
 140.292	4.799	3	UnrN	T3_cream.bmp	T2_grip.bmp	1260	8	8	1
 145.091	5.3	3	UnrN	T3_trust.bmp	T2_dozen.bmp	1981	8	8	1

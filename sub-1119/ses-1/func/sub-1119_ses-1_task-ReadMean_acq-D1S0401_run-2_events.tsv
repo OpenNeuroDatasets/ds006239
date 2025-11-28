@@ -33,7 +33,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 163.777	5.3	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	847	8	8	1
 169.077	5.799	1	HighY	T3_circus.bmp	T2_clown.bmp	1123	7	7	1
 174.876	5.299	5	PercY	_F3_f4.bmp	_F2_f4.bmp	1140	7	7	1
-180.175	5.8	3	UnrN	T3_rich.bmp	T2_pointed.bmp	4299	NA	8	NA
+180.175	5.8	3	UnrN	T3_rich.bmp	T2_pointed.bmp	4299	n/a	8	n/a
 185.975	5.799	6	PercN	_F3_s4.bmp	_F1_e4.bmp	1066	8	8	1
 191.774	5.299	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	874	8	8	1
 197.073	5.799	1	HighY	T3_mitten.bmp	T1_glove.bmp	1055	7	7	1

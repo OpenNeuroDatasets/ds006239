@@ -38,12 +38,12 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 221.925	6.116	6	PercN	nose2.mpg	shoulders2.mpg	2987	8	8	1
 228.041	5.599	6	PercN	shoulders.mpg	nose.mpg	1911	8	8	1
 233.64	5.583	3	Diff	hearing2.mpg	puzzled2.mpg	3008	8	8	1
-239.223	5.583	5	PercY	shoulders.mpg	shoulders.mpg	3698	NA	7	NA
+239.223	5.583	5	PercY	shoulders.mpg	shoulders.mpg	3698	n/a	7	n/a
 244.806	6.599	6	PercN	hair.mpg	shoulders.mpg	2122	8	8	1
 251.405	6.099	1	HS	thank.mpg	tell.mpg	2067	7	7	1
 257.504	6.099	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	2688	8	8	1
-263.603	6.583	3	Diff	europe2.mpg	grass2.mpg	4698	NA	8	NA
+263.603	6.583	3	Diff	europe2.mpg	grass2.mpg	4698	n/a	8	n/a
 270.186	6.599	1	HS	last2.mpg	can't2.mpg	1862	7	7	1
-276.785	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	NA	7	NA
+276.785	5.599	2	Loc	boss2.mpg	complain2.mpg	3698	n/a	7	n/a
 282.384	6.099	1	HS	spider2.mpg	slave2.mpg	1600	7	7	1
-288.483	5.116	2	Loc	not-know.mpg	bad.mpg	NA	NA	7	NA
+288.483	5.116	2	Loc	not-know.mpg	bad.mpg	n/a	n/a	7	n/a

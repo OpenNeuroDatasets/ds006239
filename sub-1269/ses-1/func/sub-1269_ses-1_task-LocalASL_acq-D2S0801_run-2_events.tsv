@@ -1,8 +1,8 @@
 onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cresp	acc
-1.504	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	NA	8	NA
-8.103	6.099	1	HS	home.mpg	deaf.mpg	4198	NA	7	NA
-14.202	6.099	5	PercY	nose.mpg	nose.mpg	4198	NA	7	NA
-20.301	6.599	3	Diff	hear.mpg	because.mpg	4698	NA	8	NA
+1.504	6.599	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4698	n/a	8	n/a
+8.103	6.099	1	HS	home.mpg	deaf.mpg	4198	n/a	7	n/a
+14.202	6.099	5	PercY	nose.mpg	nose.mpg	4198	n/a	7	n/a
+20.301	6.599	3	Diff	hear.mpg	because.mpg	4698	n/a	8	n/a
 26.9	5.6	2	Loc	nut.mpg	not.mpg	2212	7	7	1
 32.5	5.599	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	1812	7	7	1
 38.099	6.082	3	Diff	address2.mpg	bone2.mpg	1734	8	8	1
@@ -11,7 +11,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 56.863	6.099	1	HS	challenge2.mpg	meet2.mpg	1801	7	7	1
 62.962	6.1	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	1742	7	7	1
 69.062	5.582	8	FixN	Gen/_Fix_Red.mpg	Gen/_Fix_Green.mpg	1330	8	8	1
-74.644	6.099	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4198	NA	7	NA
+74.644	6.099	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	4198	n/a	7	n/a
 80.743	6.6	3	Diff	bored.mpg	experience.mpg	2000	8	8	1
 87.343	5.599	5	PercY	shoulders.mpg	shoulders.mpg	1873	7	7	1
 92.942	6.082	3	Diff	hour2.mpg	cracker2.mpg	1954	8	8	1
@@ -39,7 +39,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 226.525	6.599	5	PercY	hair.mpg	hair.mpg	1707	7	7	1
 233.124	6.599	6	PercN	hair2.mpg	nose2.mpg	1235	8	8	1
 239.723	6.582	7	FixY	Gen/_Fix_Red.mpg	Gen/_Fix_Red.mpg	1781	7	7	1
-246.305	6.1	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	NA	8	NA
+246.305	6.1	8	FixN	Gen/_Fix_Green.mpg	Gen/_Fix_Red.mpg	4198	n/a	8	n/a
 252.405	5.599	1	HS	contact.mpg	game.mpg	1779	7	7	1
 258.004	5.599	3	Diff	newspaper.mpg	wood.mpg	1931	8	8	1
 263.603	5.583	7	FixY	Gen/_Fix_Green.mpg	Gen/_Fix_Green.mpg	1645	7	7	1

@@ -15,7 +15,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 74.67	6.215	1	PicY	Sem/dive.bmp	Sem/swim.bmp	1611	7	7	1
 80.885	5.7	5	PercY	Sem/perc_bowl_brown.bmp	Sem/perc_bowl_brown.bmp	1291	7	7	1
 86.585	5.199	6	PercN	Sem/perc_ghost_white.bmp	Sem/perc_bone_brown.bmp	1527	8	8	1
-91.784	5.199	3	PicN	Sem/ghost.bmp	Sem/shave.bmp	3503	NA	8	NA
+91.784	5.199	3	PicN	Sem/ghost.bmp	Sem/shave.bmp	3503	n/a	8	n/a
 96.983	5.216	1	PicY	Sem/tire.bmp	Sem/wheel.bmp	2121	7	7	1
 102.199	5.2	5	PercY	Sem/perc_cow_white.bmp	Sem/perc_cow_white.bmp	2385	7	7	1
 107.399	6.182	3	PicN	Sem/cloud.bmp	Sem/blimp.bmp	1801	8	8	1
@@ -33,7 +33,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 176.857	6.199	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	2776	7	7	1
 183.056	6.216	6	PercN	Sem/perc_pole_brown.bmp	Sem/perc_church_pink.bmp	2144	8	8	1
 189.272	5.699	3	PicN	Sem/cut.bmp	Sem/lamp.bmp	2113	8	8	1
-194.971	5.699	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4004	NA	8	NA
+194.971	5.699	8	FixN	Gen/_Fix_Green.bmp	Gen/_Fix_Red.bmp	4004	n/a	8	n/a
 200.67	5.716	1	PicY	Sem/fork.bmp	Sem/spoon.bmp	1362	7	7	1
 206.386	5.699	7	FixY	Gen/_Fix_Green.bmp	Gen/_Fix_Green.bmp	1302	7	7	1
 212.085	5.2	6	PercN	Sem/perc_tank_white.bmp	Sem/perc_fork_pink.bmp	2211	8	8	1

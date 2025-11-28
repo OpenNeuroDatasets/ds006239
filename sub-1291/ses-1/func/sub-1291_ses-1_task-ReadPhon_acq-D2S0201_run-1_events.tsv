@@ -48,7 +48,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 243.902	5.306	7	FixY	Gen/_Fix_Red.bmp	Gen/_Fix_Red.bmp	1400	7	7	1
 249.208	5.805	3	OyPn	T3_pool.bmp	T0_wool.bmp	4182	7	8	0
 255.013	5.306	3	OyPn	T3_fought.bmp	T2_drought.bmp	1529	8	8	1
-260.319	4.788	2	OnPy	T3_flight.bmp	T1_spite.bmp	3302		7	0
+260.319	4.788	2	OnPy	T3_flight.bmp	T1_spite.bmp	3302	n/a	7	n/a
 265.107	5.305	2	OnPy	T3_scheme.bmp	T0_cream.bmp	3003	8	7	0
 270.412	5.305	6	PercN	_F3_b6.bmp	_F2_f6.bmp	1394	8	8	1
 275.717	5.806	4	OnPn	T3_ghost.bmp	T0_pose.bmp	1641	8	8	1
@@ -62,7 +62,7 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 317.125	4.805	4	OnPn	T3_fault.bmp	T2_note.bmp	1545	8	8	1
 321.93	5.806	1	OyPy	T3_bull.bmp	T2_full.bmp	3436	8	7	0
 327.736	5.806	2	OnPy	T3_chase.bmp	T2_grace.bmp	830	7	7	1
-333.542	4.805	2	OnPy	T3_float.bmp	T0_note.bmp	3302		7	0
+333.542	4.805	2	OnPy	T3_float.bmp	T0_note.bmp	3302	n/a	7	n/a
 338.347	5.805	2	OnPy	T3_bride.bmp	T0_dried.bmp	2091	8	7	0
 344.152	5.79	4	OnPn	T3_thief.bmp	T0_plead.bmp	1350	8	8	1
 349.942	5.305	1	OyPy	T3_bluff.bmp	T2_puff.bmp	1912	7	7	1
