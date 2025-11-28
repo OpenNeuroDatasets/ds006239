@@ -46,4 +46,4 @@ onset	duration	trial_type	trial_name	prime_stim	targ_stim	response_time	resp	cre
 270.172	6.59	1	HS	last2.mpg	can't2.mpg	2490	7	7	1
 276.762	5.606	2	Loc	boss2.mpg	complain2.mpg	4190	8	7	0
 282.368	6.089	1	HS	spider2.mpg	slave2.mpg	4143	7	7	1
-288.457	5.122	2	Loc	not-know.mpg	bad.mpg	3698	0	7	0
+288.457	5.122	2	Loc	not-know.mpg	bad.mpg	3698	n/a	7	n/a
