@@ -1,0 +1,35 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Comprehensive Test of Phonological Processing--Second Edition (CTOPP-2)",
+    "TermURL": "https://journals.sagepub.com/doi/abs/10.1177/0734282914525028",
+    "Citation": "Wagner, R. K., Torgesen, J. K., Rashotte, C. A., & N.A. Pearson (2013). Comprehensive test of phonological processing--Second Edition (CTOPP-2). Austin, TX: PRO-ED"
+  },
+    "CTOPP-2_EL_Raw": {
+    "LongName": "CTOPP-2 Elision Raw Score",
+    "Description": "Elision subtest raw score"
+  },
+    "CTOPP-2_EL_ScS": {
+    "LongName": "CTOPP-2 Elision Scaled Score",
+    "Description": "Elision subtest scaled score"  
+  },
+    "CTOPP-2_BW_Raw": {
+    "LongName": "CTOPP-2 Blending Words Raw Score",
+    "Description": "Blending words subtest raw score"
+  },
+    "CTOPP-2_BW_ScS": {
+    "LongName": "CTOPP-2 Blending Words Scaled Score",
+    "Description": "Blending words subtest scaled score"
+  },
+    "CTOPP-2_PI_Raw": {
+    "LongName": "CTOPP-2 Phoneme Isolation Raw Score",
+    "Description": "Phoneme isolation subtest raw score"  
+  },
+    "CTOPP-2_PI_ScS": {
+    "LongName": "CTOPP-2 Phoneme Isolation Scaled Score",
+    "Description": "Phoneme isolation subtest scaled score"
+  },
+    "CTOPP-2_Comp": {
+    "LongName": "CTOPP-2 Composite Score",
+    "Description": "Overall CTOPP-2 Composite Score"      
+  }
+} 

@@ -1,0 +1,31 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "BKB-SIN",
+    "TermURL": "https://www.etymotic.com/product/bkb-sin/",
+    "Citation": "Bamford-Kowal-Bench Speech-in-Noise Test (Version 1.03) [Audio CD]. (2005)."
+  },
+   "Otoscopy": {
+    "LongName": "Otoscopy check",
+    "Description": "Whether ear canal was clear or not clear"
+  },
+  "PT_screening_passed": {
+    "LongName": "Pure-tone screening",
+    "Description": "Whether partcipant passed the pure-tone screening at 20dB"
+  },
+  "SIN-List": {
+    "LongName": "BKB-SIN List",
+    "Description": "The list used to assess participants"
+  },
+  "SNR_A": {
+    "LongName": "List A SNR",
+    "Description": "Signal-to-Noise Ratio for List A"
+  },
+  "SNR_B": {
+    "LongName": "List B SNR",
+    "Description": "Signal-to-Noise Ratio for List B"
+  },
+  "AVG_SNR": {
+    "LongName": "Average SNR",
+    "Description": "Signal-to-Noise Ratio average between lists"
+  }
+}

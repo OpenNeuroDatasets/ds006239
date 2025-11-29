@@ -1,0 +1,1247 @@
+{
+    "participant_id": {
+        "LongName": "Participant ID",
+        "Description": "Identification number for participant"
+    },
+    "gaurdian_live_with___1": {
+        "LongName": "Biological Father",
+        "Description": "Participant lives with biological father",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "gaurdian_live_with___2": {
+        "LongName": "Adoptive Father",
+        "Description": "Participant lives with adoptive father",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "gaurdian_live_with___3": {
+        "LongName": "Co-Father",
+        "Description": "Participant lives with co-father",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        },
+        "gaurdian_live_with___4": {
+            "LongName": "Biological Mother",
+            "Description": "Participant lives with biological mother",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___5": {
+            "LongName": "Adoptive Mother",
+            "Description": "Participant lives with adoptive mother",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___6": {
+            "LongName": "Co-Mother",
+            "Description": "Participant lives with co-mother",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___7": {
+            "LongName": "Grandmother",
+            "Description": "Participant lives with grandmother",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___8": {
+            "LongName": "Grandfather",
+            "Description": "Participant lives with grandfather",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___9": {
+            "LongName": "Other Gaurdian 1",
+            "Description": "Another gaurdian participant lives with",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "gaurdian_live_with___10": {
+            "LongName": "Other Gaurdian 2",
+            "Description": "Another gaurdian participant lives with",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "other_gaurdian_1_relation": {
+            "LongName": "Other Gaurdian 1 Relation",
+            "Description": "Other Gaurdian 1 relationship with participant",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "other_gaurdian_2_relation": {
+            "LongName": "Other Gaurdian 2 Relation",
+            "Description": "Other Gaurdian 2 relationship with participant",
+            "Levels": {
+                "0": "Unchecked",
+                "1": "Checked"
+            }
+        },
+        "bio_dad_live_with": {
+            "LongName": "Days participant lives with biological father",
+            "Description": "Estimated average number of days that participant lives with biological father",
+            "Levels": {
+                "1": "1",
+                "2": "2",
+                "3": "3",
+                "4": "4",
+                "5": "5",
+                "6": "6",
+                "7": "7",
+                "8": "8"
+            }
+        },
+        "bio_dad_age": {
+            "LongName": "Age",
+            "Description": "Age of biological father"
+        },
+        "bio_dad_educ": {
+            "LongName": "Education level",
+            "Description": "Highest education of biolgical father",
+            "Levels": {
+                "1": "Less than High School",
+                "2": "High School Graduate",
+                "3": "Some College",
+                "4": "2 Year Degree",
+                "5": "4 Year Degree",
+                "6": "Masters Degree",
+                "7": "Doctorate"
+            }
+        },
+        "bio_dad_status": {
+            "LongName": "Hearing status",
+            "Description": "Gaurdian hearing status",
+            "Levels": {
+                "1": "Deaf",
+                "2": "Hard-of-Hearing",
+                "3": "Hearing",
+                "4": "Unknown"
+            }
+        },
+        "adopt_dad_live_with": {
+            "LongName": "Days participant lives with adoptive father",
+            "Description": "Estimated average number of days that participant lives with adoptive father",
+            "Levels": {
+                "1": "1",
+                "2": "2",
+                "3": "3",
+                "4": "4",
+                "5": "5",
+                "6": "6",
+                "7": "7",
+                "8": "8"
+            }
+        },
+        "adopt_dad_age": {
+            "LongName": "Age",
+            "Description": "Age of adoptive father"
+        },
+        "adopt_dad_educ": {
+            "LongName": "Education level",
+            "Description": "Highest education of adoptive father",
+            "Levels": {
+                "1": "Less than High School",
+                "2": "High School Graduate",
+                "3": "Some College",
+                "4": "2 Year Degree",
+                "5": "4 Year Degree",
+                "6": "Masters Degree",
+                "7": "Doctorate"
+            }
+        },
+        "adopt_dad_status": {
+            "LongName": "Hearing status",
+            "Description": "Gaurdian hearing status",
+            "Levels": {
+                "1": "Deaf",
+                "2": "Hard-of-Hearing",
+                "3": "Hearing",
+                "4": "Unknown"
+            }
+        },
+        "co_dad_live_with": {
+            "LongName": "Days participant lives with co-father",
+            "Description": "Estimated average number of days that participant lives with adoptive father",
+            "Levels": {
+                "1": "1",
+                "2": "2",
+                "3": "3",
+                "4": "4",
+                "5": "5",
+                "6": "6",
+                "7": "7",
+                "8": "8"
+            }
+        },
+        "co_dad_age": {
+            "LongName": "Age",
+            "Description": "Age of co-father"
+        }
+    },
+    "co_dad_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of co-father",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "co_dad_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "bio_mom_with": {
+        "LongName": "Days participant lives with biological mother",
+        "Description": "Estimated average number of days that participant lives with biological mother",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "bio_mom_age": {
+        "LongName": "Age",
+        "Description": "Age of biological mother"
+    },
+    "bio_mom_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of biolgical mother",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "bio_mom_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "adopt_mom_with": {
+        "LongName": "Days participant lives with adoptive mother",
+        "Description": "Estimated average number of days that participant lives with adoptive mother",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "adopt_mom_age": {
+        "LongName": "Age",
+        "Description": "Age of adoptive mother"
+    },
+    "adopt_mom_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of adoptive mother",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "adopt_mom_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "co_mom_with": {
+        "LongName": "Days participant lives with co-mother",
+        "Description": "Estimated average number of days that participant lives with co-mother",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "co_mom_age": {
+        "LongName": "Age",
+        "Description": "Age of co-mother"
+    },
+    "co_mom_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of co-mother",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "co_mom_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "grandmom_with": {
+        "LongName": "Days participant lives with grandmother",
+        "Description": "Estimated average number of days that participant lives with grandmother",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "grandmom_age": {
+        "LongName": "Age",
+        "Description": "Age of grandmother"
+    },
+    "grandmom_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of grandmother",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "grandmom_status": {
+        "LongName": "Hearing status",
+        "Description": "Grandmother hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "granddad_with": {
+        "LongName": "Days participant lives with grandfather",
+        "Description": "Estimated average number of days that participant lives with grandfather",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "granddad_age": {
+        "LongName": "Age",
+        "Description": "Age of grandfather"
+    },
+    "granddad_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of grandfather",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "granddad_status": {
+        "LongName": "Hearing status",
+        "Description": "Grandfather hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "other_gaurdian_1_live_with": {
+        "LongName": "Days participant lives with Other_Gaurdian_1",
+        "Description": "Estimated average number of days that participant lives with Other_Gaurdian_1",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "other_gaurdian_1_age": {
+        "LongName": "Age",
+        "Description": "Age of Other_Gaurdian_1"
+    },
+    "other_gaurdian_1_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of Other_Gaurdian_1",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "other_gaurdian_1_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "other_gaurdian_2_live_with": {
+        "LongName": "Days participant lives with Other_Gaurdian_2",
+        "Description": "Estimated average number of days that participant lives with Other_Gaurdian_2",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "other_gaurdian_2_age": {
+        "LongName": "Age",
+        "Description": "Age of Other_Gaurdian_2"
+    },
+    "other_gaurdian_2_educ": {
+        "LongName": "Education level",
+        "Description": "Highest education of Other_Gaurdian_2",
+        "Levels": {
+            "1": "Less than High School",
+            "2": "High School Graduate",
+            "3": "Some College",
+            "4": "2 Year Degree",
+            "5": "4 Year Degree",
+            "6": "Masters Degree",
+            "7": "Doctorate"
+        }
+    },
+    "other_gaurdian_2_status": {
+        "LongName": "Hearing status",
+        "Description": "Gaurdian hearing status",
+        "Levels": {
+            "1": "Deaf",
+            "2": "Hard-of-Hearing",
+            "3": "Hearing",
+            "4": "Unknown"
+        }
+    },
+    "siblings": {
+        "LongName": "siblings",
+        "Description": "Does participant has siblings",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "number_siblings": {
+        "LongName": "Number of siblings",
+        "Description": "How many siblings participant has"
+    },
+    "number_siblings_at_home": {
+        "LongName": "Number of siblings at home",
+        "Description": "How many siblings participant has in their home"
+    },
+    "number_siblings_outside_home": {
+        "LongName": "Number of siblings outside of home",
+        "Description": "How many of participant's siblings live in another household"
+    },
+    "age_2_read_per_week": {
+        "LongName": "Days per week participant was read to from age 2-5",
+        "Description": "Estimated average number of days that participant was read to between ages 2 and 5",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "age_6_read_per_week": {
+        "LongName": "Days per week participant was read to from age 6-8",
+        "Description": "Estimated average number of days that participant was read to between ages 6 and 8",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "age_9_read_per_week": {
+        "LongName": "Days per week participant was read to from age 9-13",
+        "Description": "Estimated average number of days that participant was read to between ages 9 and 13",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8"
+        }
+    },
+    "current_age_reads_per_week": {
+        "LongName": "Days per week participant reads to themselves",
+        "Description": "How many days per week participant reads to himself/herself now, regardless if it is for school or for leisure",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7"
+        }
+    },
+    "household_income": {
+        "LongName": "Household income",
+        "Description": "Combined income of child's primary household",
+        "Levels": {
+            "1": "Less than $25,000",
+            "2": "$25,000-$50,000",
+            "3": "$50,000-$75,000",
+            "4": "$75,000-$100,000",
+            "5": "More than $100,000",
+            "6": "Choose not to report"
+        }
+    },
+    "left_handed_family": {
+        "LongName": "Left-handed family members",
+        "Description": "If any family members are left-handed",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unsure"
+        }
+    },
+    "write_handedness": {
+        "LongName": "Hand participant writes with",
+        "Description": "Which hand partcipant uses to write with",
+        "Levels": {
+            "1": "Right",
+            "2": "Left",
+            "3": "Both",
+            "4": "Not sure"
+        }
+    },
+    "ball_handedness": {
+        "LongName": "Hand participant throws a ball with",
+        "Description": "Which hand particpant would use to throw a ball",
+        "Levels": {
+            "1": "Right",
+            "2": "Left",
+            "3": "Both",
+            "4": "Not sure"
+        }
+    },
+    "brush_handedness": {
+        "LongName": "Hand participant uses a tootbrush with",
+        "Description": "Which hand particpant would use to brush their teeth with",
+        "Levels": {
+            "1": "Right",
+            "2": "Left",
+            "3": "Both",
+            "4": "Not sure"
+        }
+    },
+    "jar_handedness": {
+        "LongName": "Hand participant opens a jar with",
+        "Description": "Which hand particpant would use to open a jar lid",
+        "Levels": {
+            "1": "Right",
+            "2": "Left",
+            "3": "Both",
+            "4": "Not sure"
+        }
+    },
+    "limited_access": {
+        "LongName": "Limited access to language from 0-36 months",
+        "Description": "Percentage that corresponds with participant's limited access to language from birth to 3 (0-36 months)",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "eng_no_signs": {
+        "LongName": "Access to English from 0-36 months",
+        "Description": "Percentage that corresponds with participant's access to English language (without signs) from birth to 3 (0-36 months)",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_spoken_lang_access": {
+        "LongName": "Access to another spoken language from 0-36 months",
+        "Description": "Percentage that corresponds with participant's access to a language other than English from birth to 3 (0-36 months)",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_unknown": {
+        "LongName": "Access to another/unknown form of language from 0-36 months",
+        "Description": "Percentage that corresponds with participant's access to another/unknown type of language input from birth to 3 (0-36 months)",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "limited_access_2": {
+        "LongName": "Limited access to language within the most recent three years",
+        "Description": "Percentage that corresponds with participant's limited access to language within the most recent three years",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "eng_no_signs_2": {
+        "LongName": "Access to English within the most recent three years",
+        "Description": "Percentage that corresponds with participant's access to English language (without signs) within the most recent three years",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_spoken_lang_access_2": {
+        "LongName": "Access to another spoken language within the most recent three years",
+        "Description": "Percentage that corresponds with participant's access to a language other than English within the most recent three years",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_unknown_2": {
+        "LongName": "Access to another/unknown form of language within the most recent three years",
+        "Description": "Percentage that corresponds with participant's access to another/unknown type of language input within the most recent three years",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "limited_access_3": {
+        "LongName": "Limited access to language across their lifetime",
+        "Description": "Percentage that corresponds with participant's limited access to language across their lifetime",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "eng_no_signs_3": {
+        "LongName": "Access to English across their lifetime",
+        "Description": "Percentage that corresponds with participant's access to English language (without signs) across their lifetime",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_spoken_lang_access_3": {
+        "LongName": "Access to another spoken language across their lifetime",
+        "Description": "Percentage that corresponds with participant's access to a language other than English across their lifetime",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "other_unknown_3": {
+        "LongName": "Access to another/unknown form of language across their lifetime",
+        "Description": "Percentage that corresponds with participant's access to another/unknown type of language input across their lifetime",
+        "Levels": {
+            "1": "0%",
+            "2": "1-10%",
+            "3": "11-20%",
+            "4": "21-30%",
+            "5": "31-40%",
+            "6": "41-50%",
+            "7": "51-60%",
+            "8": "61-70%",
+            "9": "71-80%",
+            "10": "81-90%",
+            "11": "91-100%"
+        }
+    },
+    "number_lang": {
+        "LongName": "Number of languages child knows",
+        "Description": "Number of languages child knows"
+    },
+    "langs___1": {
+        "LongName": "English",
+        "Description": "Language participant would choose when meeting someone who is equally fluent in all of their languages",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "langs___2": {
+        "LongName": "Spanish",
+        "Description": "Language participant would choose when meeting someone who is equally fluent in all of their languages",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "langs___3": {
+        "LongName": "American Sign Language (ASL)",
+        "Description": "Language participant would choose when meeting someone who is equally fluent in all of their languages",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "langs___4": {
+        "LongName": "Another spoken language",
+        "Description": "Language participant would choose when meeting someone who is equally fluent in all of their languages",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "langs___5": {
+        "LongName": "Another manual langauge or sign system",
+        "Description": "Language participant would choose when meeting someone who is equally fluent in all of their languages",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "other_spoken_language": {
+        "LongName": "Other spoken languages",
+        "Description": "Description of other languages participant knows the most"
+    },
+    "other_man_language": {
+        "LongName": "Other manual language or sign system",
+        "Description": "Description of other languages participant knows the most"
+    },
+    "english_dom": {
+        "LongName": "Dominant Language",
+        "Description": "Ranking for language dominance (English)"
+    },
+    "english_dom_2": {
+        "LongName": "Dominant Language",
+        "Description": "Ranking for language dominance (Spanish)"
+    },
+    "other_spoken_dom": {
+        "LongName": "Dominant Language",
+        "Description": "Ranking for language dominance (other language not listed)"
+    },
+    "additional_lang": {
+        "LongName": "Additional languages",
+        "Description": "Other languages the child knows"
+    },
+    "child_pref_lang": {
+        "LongName": "Child's preferred language",
+        "Description": "Language child would use when meeting someone proficient in all their languages"
+    },
+    "age_exposure_english": {
+        "LongName": "Age of first exposure to English",
+        "Description": "Age child was exposed to English"
+    },
+    "age_exposure_spanish": {
+        "LongName": "Age of first exposure to Spanish",
+        "Description": "Age child was exposed to Spanish"
+    },
+    "age_exposure_other_spoken_lang": {
+        "LongName": "Age of first exposure to another spoken language",
+        "Description": "Age child was exposed to another spoken langauge not previosuly mentioned"
+    },
+    "age_read_english": {
+        "LongName": "Age child began to read English",
+        "Description": "Age child first read in English"
+    },
+    "age_read_spanish": {
+        "LongName": "Age child began to read Spanish",
+        "Description": "Age child first read in Spanish"
+    },
+    "age_read_other_spoken_lang": {
+        "LongName": "Age child began to read another spoken language",
+        "Description": "Age child first read in a spoken langauge not previosuly mentioned"
+    },
+    "percent_home_english": {
+        "LongName": "Percentage English use at home",
+        "Description": "Percentage of time that child uses English at home"
+    },
+    "percent_home_spanish": {
+        "LongName": "Percentage English use at home",
+        "Description": "Percentage of time that child uses Spanish at home"
+    },
+    "percent_home_other_lang": {
+        "LongName": "Percentage use at home for another spoken language",
+        "Description": "Percentage of time that child uses another spoken langauge not previosuly mentioned at home"
+    },
+    "home_lang_calc": {
+        "LongName": "total for langauge at home",
+        "Description": "total for language at home"
+    },
+    "percent_school_english": {
+        "LongName": "Percentage English use at school",
+        "Description": "Percentage of time that child uses English at school"
+    },
+    "percent_school_spanish": {
+        "LongName": "Percentage English use at school",
+        "Description": "Percentage of time that child uses Spanish at school"
+    },
+    "percent_school_other_lang": {
+        "LongName": "Percentage use at school for another spoken language",
+        "Description": "Percentage of time that child uses another spoken langauge not previosuly mentioned at school"
+    },
+    "school_lang_calc": {
+        "LongName": "total for langauge at school",
+        "Description": "total for language at school"
+    },
+    "prev_school___1": {
+        "LongName": "Previously in general education public school",
+        "Description": "Participant previously attended a public school",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_school___2": {
+        "LongName": "Previously in general education private school",
+        "Description": "Participant previously attended a private school",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_school___3": {
+        "LongName": "Previously in charter school",
+        "Description": "Participant previously attended a charter school",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_school___4": {
+        "LongName": "Previously in home school",
+        "Description": "Participant previously attended a home school",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "prev_school___5": {
+        "LongName": "Previously in another schooling system",
+        "Description": "Participant previously attended a schooling system not mentioned",
+        "Levels": {
+            "0": "Unchecked",
+            "1": "Checked"
+        }
+    },
+    "other_prev_school": {
+        "LongName": "Other previous schooling",
+        "Description": "Description of schooling previosuly attended"
+    },
+    "current_school": {
+        "LongName": "Current school type",
+        "Description": "School child currently attends",
+        "Levels": {
+            "3": "General Education Public School",
+            "4": "General Education Private School",
+            "5": "Charter school",
+            "6": "Home School",
+            "7": "Other (Please describe)"
+        }
+    },
+    "other_current_school": {
+        "LongName": "Other current schooling",
+        "Description": "Description of schooling"
+    },
+    "current_grade": {
+        "LongName": "Current grade",
+        "Description": "Child's current grade in school"
+    },
+    "skipped_grade": {
+        "LongName": "Skipped grade",
+        "Description": "Did participant skip a grade",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "yes_skipped_grade": {
+        "LongName": "Yes skipped a grade",
+        "Description": "Description of grade skipped"
+    },
+    "repeated_grade": {
+        "LongName": "Repeated grade",
+        "Description": "Did participant repeat a grade",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "yes_repeated_grade": {
+        "LongName": "Yes repeated a grade",
+        "Description": "Description of grade repeated"
+    },
+    "adhd_question_1_v2": {
+        "LongName": "Question 1 ADHD Rating Scale V2",
+        "Description": "Fails to give close attention to details or makes careless mistakes in schoolwork",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_2_v2": {
+        "LongName": "Question 2 ADHD Rating Scale V2",
+        "Description": "Fidgets with hands or feet or squirms in seat",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_3_v2": {
+        "LongName": "Question 3 ADHD Rating Scale V2",
+        "Description": "Has difficulty sustaining attention in tasks or play activities",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_4_v2": {
+        "LongName": "Question 4 ADHD Rating Scale V2",
+        "Description": "Leaves seat in classroom or in other situations in which remaining seated is expected",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_5_v2": {
+        "LongName": "Question 5 ADHD Rating Scale V2",
+        "Description": "Does not seem to listen when spoken to directly",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_6_v2": {
+        "LongName": "Question 6 ADHD Rating Scale V2",
+        "Description": "Runs about or climbs excessively in situations in which it is inappropriate",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_7_v2": {
+        "LongName": "Question 7 ADHD Rating Scale V2",
+        "Description": "Does not follow through on instructions and fails to finish work",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_8_v2": {
+        "LongName": "Question 8 ADHD Rating Scale V2",
+        "Description": "Has difficulty engaging in playing or engaging in leisure activities quietly",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_9_v2": {
+        "LongName": "Question 9 ADHD Rating Scale V2",
+        "Description": "Has difficulty organizing tasks and activities",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_10_v2": {
+        "LongName": "Question 10 ADHD Rating Scale V2",
+        "Description": "Is 'on the go' or acts as if 'driven by a motor' ",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_11_v2": {
+        "LongName": "Question 11 ADHD Rating Scale V2",
+        "Description": "Avoids tasks (e.g., schoolwork, homework) that require sustained mental effort",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_12_v2": {
+        "LongName": "Question 12 ADHD Rating Scale V2",
+        "Description": "Talks excessively",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_13_v2": {
+        "LongName": "Question 13 ADHD Rating Scale V2",
+        "Description": "Loses things necessary for tasks or activities",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_14_v2": {
+        "LongName": "Question 14 ADHD Rating Scale V2",
+        "Description": "Blurts out answers before questions have been completed",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_15_v2": {
+        "LongName": "Question 15 ADHD Rating Scale V2",
+        "Description": "Is easily distracted",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_16_v2": {
+        "LongName": "Question 16 ADHD Rating Scale V2",
+        "Description": "Has difficulty awaiting turn",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_17_v2": {
+        "LongName": "Question 17 ADHD Rating Scale V2",
+        "Description": "Is forgetful in daily activities",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    },
+    "adhd_question_18_v2": {
+        "LongName": "Question 18 ADHD Rating Scale V2",
+        "Description": "Interrupts or intrudes on others",
+        "Levels": {
+            "0": "Never or Rarely",
+            "1": "Sometimes",
+            "2": "Often",
+            "3": "Very Often"
+        }
+    }
+}
