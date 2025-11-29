@@ -1,0 +1,15 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Derivational Morphology Task",
+    "TermURL": "https://doi.org/10.1023/A:1008131926604s",
+    "Citation": "Carlisle, J.F. Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing 12, 169190 (2000). https://doi.org/10.1023/A:1008131926604"
+  },
+  "DMORPH_Acc": {
+    "LongName": "DMORPH Accuracy",
+    "Description": "DMORPH accuracy"
+  },
+  "DMORPH_RT": {
+    "LongName": "DMORPH Response Time",
+    "Description": "DMORPH response time (ms)"
+  }
+}
