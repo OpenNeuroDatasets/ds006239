@@ -1,0 +1,23 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "American Test of Child Speech Reading (AmToCS)",
+    "TermURL": "https://dcalportal.org/tests/tocs",
+    "Citation": "Kyle, F. E., Campbell, R., Mohammed, T., Coleman, M., & Macsweeney, M. (2013). Speechreading development in deaf and hearing children: introducing the test of child speechreading. Journal of speech, language, and hearing research : JSLHR, 56(2)."
+  },
+  "AmToCS_Raw": {
+    "LongName": "AmToCS Raw Score",
+    "Description": "AmToCS raw score"
+  },
+   "AmToCS_Acc": {
+    "LongName": "AmToCS Accuracy",
+    "Description": "AmToCS accuracy"
+  },
+  "AmToCS_RT": {
+    "LongName": "AmToCS Response Time",
+    "Description": "AmToCS response time (ms)"
+  },
+  "AmToCS_StS": {
+    "LongName": "AmToCS Standard Score",
+    "Description": "AmToCS standard score"
+  }
+}
