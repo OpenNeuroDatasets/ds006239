@@ -2,11 +2,14 @@
   "MeasurementToolMetadata": {
     "Description": "Derivational Morphology Task",
     "TermURL": "https://doi.org/10.1023/A:1008131926604s",
-    "Citation": "Carlisle, J.F. Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing 12, 169ñ190 (2000). https://doi.org/10.1023/A:1008131926604"
+    "Citation": "Carlisle, J.F. Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing 12, 169–190 (2000). https://doi.org/10.1023/A:1008131926604",
+    "ScoringScheme": {
+      "0": "Incorrect",
+      "1": "Correct"
   },
   "participant_id": {
-    "LongName": "Subject ID Numbers",
-    "Description": "ID associated with each participant"
+  "LongName": "Subject ID Numbers",
+  "Description": "ID associated with each participant"
   },
    "DMORPH_Acc": {
     "LongName": "DMORPH Accuracy",
@@ -15,5 +18,150 @@
   "DMORPH_RT": {
     "LongName": "DMORPH Response Time",
     "Description": "DMORPH response time (ms)"
+  },
+  "DMORPH_Items": [
+    {
+      "ItemName": "warmth",
+      "SpellingColumn": "warmth_spelling",
+      "ResponseColumn": "warmth",
+      "Description": "Derivational morphology item"
+    },
+    {
+      "ItemName": "adventurous",
+      "SpellingColumn": "adventurous_spelling",
+      "ResponseColumn": "adventurous"
+    },
+    {
+      "ItemName": "explanation",
+      "SpellingColumn": "explanation_spelling",
+      "ResponseColumn": "explanation"
+    },
+    {
+      "ItemName": "humanity",
+      "SpellingColumn": "humanity_spelling",
+      "ResponseColumn": "humanity"
+    },
+    {
+      "ItemName": "permission",
+      "SpellingColumn": "permission_spelling",
+      "ResponseColumn": "permission"
+    },
+    {
+      "ItemName": "finally",
+      "SpellingColumn": "finally_spelling",
+      "ResponseColumn": "finally"
+    },
+    {
+      "ItemName": "expensive",
+      "SpellingColumn": "expensive_spelling",
+      "ResponseColumn": "expensive"
+    },
+    {
+      "ItemName": "teacher",
+      "SpellingColumn": "teacher_spelling",
+      "ResponseColumn": "teacher"
+    },
+    {
+      "ItemName": "glorious",
+      "SpellingColumn": "glorious_spelling",
+      "ResponseColumn": "glorious"
+    },
+    {
+      "ItemName": "majority",
+      "SpellingColumn": "majority_spelling",
+      "ResponseColumn": "majority"
+    },
+    {
+      "ItemName": "assistance",
+      "SpellingColumn": "assistance_spelling",
+      "ResponseColumn": "assistance"
+    },
+    {
+      "ItemName": "noisy",
+      "SpellingColumn": "noisy_spelling",
+      "ResponseColumn": "noisy"
+    },
+    {
+      "ItemName": "absorbency",
+      "SpellingColumn": "absorbency_spelling",
+      "ResponseColumn": "absorbency"
+    },
+    {
+      "ItemName": "depth",
+      "SpellingColumn": "depth_spelling",
+      "ResponseColumn": "depth"
+    },
+    {
+      "ItemName": "remarkable",
+      "SpellingColumn": "remarkable_spelling",
+      "ResponseColumn": "remarkable"
+    },
+    {
+      "ItemName": "equality",
+      "SpellingColumn": "equality_spelling",
+      "ResponseColumn": "equality"
+    },
+    {
+      "ItemName": "happiness",
+      "SpellingColumn": "happiness_spelling",
+      "ResponseColumn": "happiness"
+    },
+    {
+      "ItemName": "dramatic",
+      "SpellingColumn": "dramatic_spelling",
+      "ResponseColumn": "dramatic"
+    },
+    {
+      "ItemName": "expansion",
+      "SpellingColumn": "expansion_spelling",
+      "ResponseColumn": "expansion"
+    },
+    {
+      "ItemName": "musician",
+      "SpellingColumn": "musician_spelling",
+      "ResponseColumn": "musician"
+    },
+    {
+      "ItemName": "health",
+      "SpellingColumn": "health_spelling",
+      "ResponseColumn": "health"
+    },
+    {
+      "ItemName": "reliable",
+      "SpellingColumn": "reliable_spelling",
+      "ResponseColumn": "reliable"
+    },
+    {
+      "ItemName": "production",
+      "SpellingColumn": "production_spelling",
+      "ResponseColumn": "production"
+    },
+    {
+      "ItemName": "fourth",
+      "SpellingColumn": "fourth_spelling",
+      "ResponseColumn": "fourth"
+    },
+    {
+      "ItemName": "security",
+      "SpellingColumn": "security_spelling",
+      "ResponseColumn": "security"
+    },
+    {
+      "ItemName": "reasonable",
+      "SpellingColumn": "reasonable_spelling",
+      "ResponseColumn": "reasonable"
+    },
+    {
+      "ItemName": "length",
+      "SpellingColumn": "length_spelling",
+      "ResponseColumn": "length"
+    },
+    {
+      "ItemName": "engineer",
+      "SpellingColumn": "engineer_spelling",
+      "ResponseColumn": "engineer"
+    }
+  ],
+    }
   }
 }

@@ -2,7 +2,8 @@
   "MeasurementToolMetadata": {
     "Description": "Woodcock-Johnson III (WJ-III)",
     "TermURL": "http://cps.nova.edu/~cpphelp/WJIII-ACH.html",
-    "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing."
+    "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing.",
+    "Changes": "sub-1002 and sub-1184 had standard scores switched for reading fluency and letter-word identification subtests. sub-1082 and sub-1160 have new scores after re-validating the data." 
   },
   "participant_id": {
     "LongName": "Subject ID Numbers",

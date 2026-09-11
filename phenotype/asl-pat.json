@@ -2,19 +2,179 @@
   "MeasurementToolMetadata": {
     "Description": "American Sign Language Phonological Awareness Test (ASL-PAT)",
     "TermURL": "https://signlang-assessment.info/asl-phonological-awareness-test.html",
-    "Citation": "Corina, D. P., Hafer, S., & Welch, K. (2014). Phonological awareness for American Sign Language. Journal of Deaf Studies and Deaf Education, 19(4), 530–545. "
+    "Citation": "Corina, D. P., Hafer, S., & Welch, K. (2014). Phonological awareness for American Sign Language. Journal of Deaf Studies and Deaf Education, 19(4), 530–545."
   },
   "participant_id": {
     "LongName": "Subject ID Numbers",
     "Description": "ID associated with each participant"
   },
-   "ASLPAT_Acc": {
+  "ASLPAT_Acc": {
     "LongName": "ASL PAT Accuracy",
-    "Description": "ASL PAT  accuracy"
+    "Description": "Overall ASL-PAT accuracy (e.g., proportion or percent correct across items)"
   },
   "ASLPAT_Rep": {
-    "LongName": "ASL PAT Average Repitions",
-    "Description": "ASL PAT average repitions"
-
+    "LongName": "ASL PAT Average Repetitions",
+    "Description": "Average number of repetitions",
+    "Units": "count"
+  },
+  "ASLPAT_1": {
+    "LongName": "ASL-PAT Item 1",
+    "Description": "Score/response for ASL-PAT item 1",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_2": {
+    "LongName": "ASL-PAT Item 2",
+    "Description": "Score/response for ASL-PAT item 2",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_3": {
+    "LongName": "ASL-PAT Item 3",
+    "Description": "Score/response for ASL-PAT item 3",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_4": {
+    "LongName": "ASL-PAT Item 4",
+    "Description": "Score/response for ASL-PAT item 4",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_5": {
+    "LongName": "ASL-PAT Item 5",
+    "Description": "Score/response for ASL-PAT item 5",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_6": {
+    "LongName": "ASL-PAT Item 6",
+    "Description": "Score/response for ASL-PAT item 6",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_7": {
+    "LongName": "ASL-PAT Item 7",
+    "Description": "Score/response for ASL-PAT item 7",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_8": {
+    "LongName": "ASL-PAT Item 8",
+    "Description": "Score/response for ASL-PAT item 8",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_9": {
+    "LongName": "ASL-PAT Item 9",
+    "Description": "Score/response for ASL-PAT item 9",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_10": {
+    "LongName": "ASL-PAT Item 10",
+    "Description": "Score/response for ASL-PAT item 10",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_11": {
+    "LongName": "ASL-PAT Item 11",
+    "Description": "Score/response for ASL-PAT item 11",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_12": {
+    "LongName": "ASL-PAT Item 12",
+    "Description": "Score/response for ASL-PAT item 12",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_13": {
+    "LongName": "ASL-PAT Item 13",
+    "Description": "Score/response for ASL-PAT item 13",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_14": {
+    "LongName": "ASL-PAT Item 14",
+    "Description": "Score/response for ASL-PAT item 14",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_15": {
+    "LongName": "ASL-PAT Item 15",
+    "Description": "Score/response for ASL-PAT item 15",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_16": {
+    "LongName": "ASL-PAT Item 16",
+    "Description": "Score/response for ASL-PAT item 16",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_17": {
+    "LongName": "ASL-PAT Item 17",
+    "Description": "Score/response for ASL-PAT item 17",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_18": {
+    "LongName": "ASL-PAT Item 18",
+    "Description": "Score/response for ASL-PAT item 18",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_19": {
+    "LongName": "ASL-PAT Item 19",
+    "Description": "Score/response for ASL-PAT item 19",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "ASLPAT_20": {
+    "LongName": "ASL-PAT Item 20",
+    "Description": "Score/response for ASL-PAT item 20",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
   }
 }

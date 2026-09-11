@@ -2,7 +2,8 @@
   "MeasurementToolMetadata": {
     "Description": "BKB-SIN",
     "TermURL": "https://www.etymotic.com/product/bkb-sin/",
-    "Citation": "Bamford-Kowal-Bench Speech-in-Noise Test (Version 1.03) [Audio CD]. (2005)."
+    "Citation": "Bamford-Kowal-Bench Speech-in-Noise Test (Version 1.03) [Audio CD]. (2005).",
+    "Changes": "1210 BKB-SIN Avg SNR 50 is 0; 1219 BKB-SIN Avg SNR 50 is 2; 1229 BKB-SIN Avg SNR 50 is -1.5; 1252 BKB-SIN Avg SNR 50 is 2.5; 1255 BKB-SIN Avg SNR 50 is 0; 1257 BKB-SIN Avg SNR 50 is 0; 1265 BKB-SIN Avg SNR 50 is -3; 1287 BKB-SIN Avg SNR 50 is -1.5"
   },
   "participant_id": {
     "LongName": "Subject ID Numbers",
@@ -14,7 +15,7 @@
   },
   "PT_screening_passed": {
     "LongName": "Pure-tone screening",
-    "Description": "Whether partcipant passed the pure-tone screening at 20dB"
+    "Description": "Whether participant passed the pure-tone screening at 20dB"
   },
   "SIN-List": {
     "LongName": "BKB-SIN List",
