@@ -50,7 +50,7 @@
 	"EstimatedEffectiveEchoSpacing": 0.000318017,
 	"EstimatedTotalReadoutTime": 0.0302116,
 	"PixelBandwidth": 2120.67,
-	"PhaseEncodingAxis": "j",
+	"PhaseEncodingDirection": "j-",
 	"ImageOrientationPatientDICOM": [
 		0.998076,
 		0.0515963,
