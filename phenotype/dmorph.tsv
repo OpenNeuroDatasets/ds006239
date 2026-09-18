@@ -1,91 +1,92 @@
-participant_id	DMORPH_Acc	DMORPH_RT
-sub-1002	25	6967.88
-sub-1076	27	4861.78
-sub-1077	26	10136.7
-sub-1078	12	15194.8
-sub-1079	25	22252.7
-sub-1080	26	10586.88462
-sub-1081	12	26743.83333
-sub-1082	16	14726.5
-sub-1083	24	9194.416667
-sub-1084	24	9803.083333
-sub-1086	24	13591.16667
-sub-1089	26	4651.961538
-sub-1090	3	14251.66667
-sub-1091	16	12929.25
-sub-1101	27	4367.407407
-sub-1102	26	10113.69231
-sub-1103	27	6876.259259
-sub-1105	25	10185.76
-sub-1107	22	11264.40909
-sub-1110	25	7791.96
-sub-1111	23	15078
-sub-1116	21	8652.714286
-sub-1117	22	17693.63636
-sub-1118	22	4872.909091
-sub-1119	25	9354.68
-sub-1122	26	11203.30769
-sub-1129	16	15870.5625
-sub-1130	21	10711
-sub-1131	25	14883.64
-sub-1148	19	9110.894737
-sub-1156	23	8097.086957
-sub-1160	26	8266.153846
-sub-1161	26	8076.384615
-sub-1169	23	9126.73913
-sub-1178	25	10830.56
-sub-1180	23	6455.869565
-sub-1181	15	11302.66667
-sub-1184	17	22036.88235
-sub-1185	25	7483.12
-sub-1187	26	8923.615385
-sub-1190	26	7733.038462
-sub-1191	19	7159.421053
-sub-1192	26	7457.807692
-sub-1193	22	13983.81818
-sub-1194	23	5992
-sub-1195	25	9063.2
-sub-1196	26	5885.807692
-sub-1197	11	28436
-sub-1198	24	9832.791667
-sub-1199	20	12088.65
-sub-1203	26	7611.076923
-sub-1204	14	27838.71429
-sub-1205	22	17065.95455
-sub-1206	23	9791.173913
-sub-1208	25	4688.24
-sub-1209	21	11637.61905
-sub-1210	24	8217.833333
-sub-1211	24	9956.375
-sub-1213	19	21599.47368
-sub-1219	1	15313
-sub-1220	22	9286.090909
-sub-1223	17	12710
-sub-1225	18	16165.94444
-sub-1228	5	17667.8
-sub-1229	17	11327.52941
-sub-1231	7	26252.71429
-sub-1240	26	8558.923077
-sub-1246	11	106552.0909
-sub-1247	21	53972.47619
-sub-1248	22	15933
-sub-1250	22	16442.27273
-sub-1251	18	12801.8
-sub-1252	21	9425.24
-sub-1255	4	26993.25
-sub-1257	11	35777.54545
-sub-1265	19	22736.52632
-sub-1268	6	23805.83333
-sub-1269	25	5299.24
-sub-1276	4	27869
-sub-1277	19	10856.57895
-sub-1278	24	13545.25
-sub-1283	24	6961.958333
-sub-1284	19	10477
-sub-1285	25	12668
-sub-1286	15	13433.26667
-sub-1287	23	9781.043478
-sub-1288	23	23052.34783
-sub-1289	26	9216.192308
-sub-1290	6	45111.83333
-sub-1291	16	14141.375
+participant_id	dmorph_acc	dmorph_rt	warmth	warmth_spelling	adventurous	adventurous_spelling	explanation	explanation_spelling	humanity	humanity_spelling	permission	permission_spelling	finally	finally_spelling	expensive	expensive_spelling	teacher	teacher_spelling	glorious	glorious_spelling	majority	majority_spelling	assistance	assistance_spelling	noisy	noisy_spelling	absorbency	absorbency_spelling	depth	depth_spelling	remarkable	remarkable_spelling	equality	equality_spelling	happiness	happiness_spelling	dramatic	dramatic_spelling	expansion	expansion_spelling	musician	musician_spelling	health	health_spelling	reliable	reliable_spelling	production	production_spelling	fourth	fourth_spelling	security	security_spelling	reasonable	reasonable_spelling	length	length_spelling	engineer	engineer_spelling	dmorph_item_level_complete
+sub-1002	25	6967.88	0	warmer	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	0	equally	1	happiness	1	dramatic	1	epansion	1	musiian	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1076	27	4861.78	1	warmth	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorption	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1077	26	10136.7	1	warmth	0	adventure	1	explanation	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistence	1	noisy	0	absorbentness	1	depth	1	remarkable	1	eqality	1	happness	1	dramatic	1	expansion	1	musiction	1	health	1	relyable	1	prduction	1	fourth	1	security	1	reasonable	1	length	1	engenire	1
+sub-1078	12	15194.8	1	warmth	0	adventures	0	explain	0	human	0	permit	0	finals	1	expenseve	1	teacher	0	glorys	0	major	1	assistents	1	noisey	0	absorbshun	0	deepnes	1	remarkabel	0	equalnes	1	happynes	1	dramatik	1	expandtion	1	musicshun	0	healing	0	relying	0	produce	0	fours	0	secure	1	reasonebel	0	longs	1	engineneer	1
+sub-1079	25	22252.7	0	warmer	1	adventurous	1	explaination	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expantion	1	musician	1	health	1	relyable	1	production	1	forth	1	security	1	reasonable	1	lenght	1	enginer	1
+sub-1080	26	10586.88462	1	warmth	1	adventurous	1	explanation	1	humamity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musisian	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1081	12	26743.83333	1	warmth	1	adventureios	0	explainion	0	humanut	1	permishen	1	finaly	1	expensive	1	teacher	1	gloreis	0	majoer	0	assist	1	noisy	0	absorbins	0	deepness	1	remarkabol	0	equaly	1	happyness	1	dramatic	0	Expanded	0	mustion	0	healer	0	relyion	0	prodtion	0	four	0	secureut	1	reasonabol	0	longness	0	enger	1
+sub-1082	16	14726.5	1	warmth	0	adventurs	0	explaining	0	human	1	permtion	1	finaly	1	expenseve	1	teacher	1	gloryus	0	major	0	assistment	0	noisable	0	absorbtion	0	deepness	1	remarkable	1	equalaty	1	happyness	1	dramatic	1	expandtion	1	musitoin	0	heals	0	rely	0	producer	1	fourth	1	securaty	1	reasonable	0	longer	1	enginear	1
+sub-1083	24	9194.416667	1	warmth	1	adventurous	0	plaination	1	humanity	1	pemission	1	finally	1	expensive	1	teacher	0	glorifl	1	majority	1	assistance	1	noisey	0	absorbance	1	depth	0	rmarkale	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1084	24	9803.083333	0	warmer	1	adventurous	1	explanation	0	human	0	permits	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbant	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1086	24	13591.16667	1	warmth	1	adverturous	0	expanation	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	eqality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	0	reasoning	1	length	1	engineer	1
+sub-1089	26	4651.961538	1	warmth	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expesive	1	teacher	1	glorious	1	majority	1	assistance	0	nosy	0	absorbtion	1	depth	1	remarkable	1	equality	1	happines	1	dramatic	1	expanstion	1	musicstion	1	health	1	realiable	1	production	1	fourth	1	security	1	reasonable	1	legnth	1	engineer	1
+sub-1090	15	14251.66667	0	WARMNES	0	ADVENTURES	0	EXPLAINS	0	HUMAN	1	PERMISHON	1	FINALY	1	EXPENSEVE	1	TEACHER	0	GLORYFUL	0	MAJER	1	ASSISTENS	1	NOISEY	0	ASORBENT	1	DEEPNES	1	REMARKABL	1	EQUALITY	1	HAPPYNES	0	DRAMATIK	1	EXPANDSHON	0	MUSICAL	0	HEALER	0	RELYAB	0	PRODUCEING	1	FOURTH	1	SECUREADY	1	REASONUBEL	0	LONGNES	1	ENGINER	1
+sub-1091	16	12929.25	1	warmth	1	adventureous	1	explaination	1	humanity	0	0	1	finally	1	expensive	1	teacher	1	glorious	0	0	1	assistance	1	noisy	0	0	0	deepness	0	remarkale	0	equalness	1	happiness	1	dramatic	1	expansion	0	musicsian	0	0	1	reliable	0	0	0	0	0	secureness	1	reasonable	0	longness	1	engineer	1
+sub-1101	27	4367.407407	1	warmth	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1102	26	10113.69231	1	warmpth	1	adventurous	0	expination	1	humanity	1	permission	1	finaly	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1103	27	6876.259259	1	warmth	1	adventurous	1	explanation	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1105	25	10185.76	0	warmer	1	adventurous	0	explainer	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisey	0	absorbation	1	depth	1	remarkable	1	equality	1	happyness	1	dramatic	1	expantion	1	musicion	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1107	22	11264.40909	1	warmth	1	adventirous	1	explination	1	humanity	0	apermit	0	finals	1	expensive	1	teacher	1	glorious	0	ton	1	assistance	1	noisey	0	absorbtion	1	depth	1	remarkable	1	equality	0	happieness	1	dramatic	1	expantion	1	musition	0	healing	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1110	25	7791.96	1	warmth	1	adventurous	1	explaination	1	humanity	1	permittion	0	finals	1	expensive	1	teacher	0	gloriful	1	majority	1	assistance	1	noisey	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1111	23	15078	1	warmth	0	adventuis	1	explaination	1	humanity	1	permision	1	finally	1	expensive	1	teacher	1	gloryious	1	majority	1	assistance	1	noisey	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	0	exspanion	1	musision	1	health	1	relyable	0	product	0	fours	1	security	1	reasonable	1	length	1	enginner	1
+sub-1116	21	8652.714286	1	warmth	1	adventurous	1	explanation	0	kindness	0	permits	1	finale	1	expensive	1	teacher	1	glorious	0	landslide	1	assitance	1	noisy	0	absorption	0	deepness	0	remarkful	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	0	mechanic	1
+sub-1117	22	17693.63636	1	warmth	1	adventurous	1	explanation	1	humanity	1	permisson	0	finals	1	expensive	1	teacher	1	glorious	0	major	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	0	exspanse	1	musican	0	healing	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1118	22	4872.909091	1	warmth	1	adventerous	1	explanation	0	idk	1	permition	0	finale	1	expensive	1	teacher	1	glorious	0	idk	0	assistion	1	noisy	0	absorbability	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1119	25	9354.68	1	warmth	1	adventourus	1	explaination	1	humanity	1	permition	1	finalley	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisey	0	absorbtion	0	deepness	1	remarkable	1	equality	1	happiness	1	drmatic	1	expansion	1	musicin	1	health	1	reliable	1	production	0	fours	1	security	1	reasonable	1	length	1	engineer	1
+sub-1122	26	11203.30769	1	warmth	1	adventurous	1	explanaition	1	humanity	1	permision	1	finaly	1	expensive	1	teacher	1	glorous	1	majority	1	assistance	1	noisy	0	abosorbaration	1	depth	1	remarkable	1	equality	1	happienees	1	dramatic	1	expansion	1	musicain	1	health	1	rellaible	0	product	1	fourth	1	security	1	reasonable	1	length	1	enginer	1
+sub-1129	16	15870.5625	0	warmness	0	adventures	0	explainer	0	humaning	1	permition	1	finaly	1	expensev	1	teacher	0	glory	0	majors	1	assistens	0	noises	0	absordshin	1	deepth	1	remarkable	0	equalad	1	happyness	1	dramtic	1	exapandshin	1	musishin	1	health	0	relyer	0	producer	0	ouring	1	securety	1	reasonable	1	leangth	1	enginear	1
+sub-1130	21	10711	1	warmth	1	adventurous	1	explaination	1	humanity	1	permission	0	finale	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	0	equally	1	happiness	1	dramatic	0	expance	1	muicion	1	health	1	relyable	1	production	0	forths	1	security	1	reasonable	1	length	0	engine	1
+sub-1131	25	14883.64	1	wamth	1	adventureus	1	explanashon	0	humaneness	1	permishon	1	finuly	1	expensive	1	techer	1	gloryus	1	majority	1	assistins	1	noisey	0	absordshon	1	depth	1	remarkibul	1	eqality	1	happyness	1	dramatic	1	expanshon	1	mushishon	1	helth	1	relyabul	1	productshon	1	forth	1	security	1	resonabul	0	lethe	1	enginer	1
+sub-1148	19	9110.894737	1	warmth	1	adventours	1	explanation	0	kindness	0	permit	0	final	1	expensive	1	teacher	1	Glorious	1	magority	1	assistintes	1	Noiesy	0	absorbness	0	deepess	1	remarkable	1	equality	1	happiness	1	dramatic	1	expantion	1	musision	0	healer	1	relyable	0	produce	0	four	1	securety	0	reasoning	1	length	1	enginer	1
+sub-1156	23	8097.086957	1	warmth	1	adventurous	1	explination	0	humane	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	equality	1	happines	1	dramatic	0	expandation	1	musician	1	health	1	reliable	1	production	0	fours	1	security	1	reasonable	1	length	1	engineer	1
+sub-1160	26	8266.153846	1	warmpth	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1161	26	8076.384615	1	wamth	1	adventurous	1	explanation	1	humanity	1	permission	0	finale	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorption	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	epansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1169	23	9126.73913	0	warmness	0	adventures	1	explainnation	0	humannes	1	permision	1	finaly	1	expensive	1	teacher	1	glorius	1	majority	1	assitance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happyness	1	dramatic	1	expantion	1	musitian	0	heling	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	enginier	1
+sub-1178	25	10830.56	1	warmth	1	adventurous	1	explaination	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	0	major	1	assistance	1	noisy	0	absorbatation	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musicion	1	health	1	reliable	1	production	1	forth	1	security	1	reasonable	1	length	1	enginer	1
+sub-1180	23	6455.869565	1	warmth	1	adventurous	1	explanation	0	humility	1	permition	0	finale	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	0	equlity	1	happiness	1	dramatic	1	expantion	1	musician	1	health	1	reliable	0	product	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1181	15	11302.66667	1	wampth	0	adventus	1	explanation	1	humanity	1	permitune	1	finale	1	expensive	1	teacher	0	gris	0	majorit	1	assistenc	1	noisy	0	absorbtion	0	deepne	0	remarkl	0	equali	0	happine	0	dramati	0	expanshio	1	musitin	0	helt	1	reliable	0	productio	1	fourth	0	securit	1	reasonabl	1	length	1	enginere	1
+sub-1184	17	22036.88235	1	warmth	0	adventures	0	explion	0	human	0	driverspermit	1	finaly	1	expensevie	1	teacher	1	gloryuos	0	major	1	assistenst	1	noisey	0	absorbingnes	0	deepth	0	remarked	1	equality	1	happyness	1	dramadec	1	expandson	1	musisun	1	health	1	relyabal	0	produce	0	for	1	secureity	1	reasonabul	0	longest	1	enginer	1
+sub-1185	25	7483.12	1	warmth	1	adventurous	1	explanination	0	humility	1	permition	1	finaly	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equallity	1	happyness	1	dramatic	1	expantion	1	musician	1	health	1	reliable	0	product	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1187	26	8923.615385	0	warmness	1	adventurous	1	explanation	1	humanaity	1	permition	1	finaly	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbness	1	depth	1	rmarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musision	1	health	1	relyable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1190	26	7733.038462	1	warmth	1	adventurous	1	explaination	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbity	1	depth	1	remarkable	1	equility	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	0	product	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1191	19	7159.421053	0	warmer	1	adventurous	1	explanation	0	humaness	0	permit	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	0	deepness	1	remarkable	1	equlity	1	happiness	1	dramatic	1	expansion	1	musician	1	health	0	relyale	1	production	0	fourally	0	secureness	1	reasonable	0	longness	1	engineer	1
+sub-1192	26	7457.807692	1	warmth	1	adventurious	1	explination	1	humanity	1	permission	1	finaly	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	0	reasoned	1	length	1	engineer	1
+sub-1193	22	13983.81818	1	warmth	1	adventureus	0	example	0	manlyness	1	pemition	1	finnaly	1	expensive	1	teacher	0	pretty	0	maxamum	1	assitance	1	noisey	1	absorbshon	1	depth	1	remarkable	1	equlity	1	happyness	1	dramatic	1	expanstion	1	musicton	1	helth	0	Reconsittirirng	1	prodoction	1	forth	1	secuirty	1	reasonable	1	leangth	0	engenee	1
+sub-1194	23	5992	0	warm	1	adventurous	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	1	absorption	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	0		0		0		0		1
+sub-1195	25	9063.2	1	warmth	1	adventurous	1	explanation	1	humanity	0	permitance	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbity	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expandation	1	musician	1	health	1	reliable	0	producer	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1196	26	5885.807692	1	warmth	1	adventourous	1	exxplanation	1	hmanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1197	11	28436	1	warmth	0	advents	0	explainion	1	humanatie	1	permtion	0	finas	1	Expenseve	1	teacher	0	Glores	0	Majer	0	Assist	0	Noise	0	absorberiton	0	deepnes	1	remarkebl	0	Equa	1	happyns	1	drmatic	0	expand	1	musiton	0	Hel	0	retty	0	produc	0	four	0	secure	1	reasoneble	0	lanth	1	enginer	1
+sub-1198	24	9832.791667	1	warmth	1	adventurous	1	explanation	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbility	0	deepness	1	remarkable	1	equality	1	happiness	0	dramaful	1	expandation	1	musician	1	health	1	reliable	0	producer	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1199	20	12088.65	1	warmth	1	adventurious	1	explanation	0	humanistics	1	permtion	1	finally	1	expensive	1	teacher	1	glorious	0	lot	1	assistiance	1	noisy	0	absorbance	0	diving	1	remarkable	0	equalrights	1	happiness	1	dramatic	0	experation	1	musician	0	healing	1	reliable	1	production	1	fourth	1	security	0	unreasonable	1	length	1	engineer	1
+sub-1203	26	7611.076923	1	warmth	1	adventurous	0	explaint	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absobtion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1204	14	27838.71429	1	warmth	0	adventures	0	explaneing	0	humaning	0	permited	1	finaly	1	expenseve	1	teacher	1	gloryis	0	majoring	1	assistins	1	noisey	0	absorbing	0	deepnes	1	remarkebel	0	equaled	1	happynes	1	dramatic	0	expanding	1	musishin	0	healing	0	realying	0	produceing	1	forth	1	secureity	1	reasonebel	0	linth	0	engineing	1
+sub-1205	22	17065.95455	1	warmpth	0	adventures	1	explaintion	0	humanistik	0	apermit	1	finally	1	expenceve	1	teacher	1	gloryies	1	majority	1	assistince	1	noisey	1	absorbencey	0	deepth	1	remarkabile	1	equality	1	happyness	1	dramatick	1	expantion	1	musiction	0	healing	0	relying	1	production	1	forth	1	secureity	1	reasonabile	1	lengh	1	engineer	1
+sub-1206	23	9791.173913	1	warmth	1	adventurous	1	explaination	1	humanity	1	permittion	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	0	noey	0	absorbtion	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musition	1	health	0	rely	1	production	1	forth	1	security	1	reasonable	0	longivity	1	engineer	1
+sub-1208	25	4688.24	1	wamth	0	adventureful	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbant	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	exansion	1	musician	0	healing	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1209	21	11637.61905	1	warmth	0	adventureist	1	explination	0	human	0	permits	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	0	deepness	1	remarkable	1	eqaulity	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	relible	1	production	0	fours	1	security	1	reasonable	0	longness	1	engineer	1
+sub-1210	24	8217.833333	1	warmth	1	adventurus	1	explanation	0	human	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisey	0	absorbtion	0	deep	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	0	four	1	security	1	reasonable	1	length	1	engineer	1
+sub-1211	24	9956.375	1	warmth	0	adventurful	1	explanation	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	0	major	1	assistance	1	noisy	0	absorbity	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1213	19	21599.47368	0	warmer	1	adventuruse	0	example	1	humanity	1	permition	1	finally	1	expenseive	1	teacher	1	glorious	0	magoret	1	assistanse	1	noisy	0	absorbstanes	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	0	expandment	1	musition	1	health	1	relyible	0	producement	1	fourth	1	security	0	reasonos	0	longness	1	enginer	1
+sub-1219	1	15313	0	skip	0	Adventure	0	explain	0	skip	0	permit	0	skip	0	expense	1	teacher	0	glory	0	major	0	skip	0	noise	0	skip	0	skip	0	skip	0	skip	0	happyen	0	drama	0	expand	0	music	0	healing	0	relygood	0	produce	0	four	0	secure	0	rreason	0	long	0	engine	1
+sub-1220	22	9286.090909	1	warmth	1	adventurerous	1	explaination	1	humanatiy	0	permit	0	Finalboss	1	expensive	1	Teacher	1	Glorious	1	Majority	1	Assistance	1	Noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	0	singer	1	health	1	reliable	0	producer	0	atfour	1	Security	1	Reasoniable	1	lenth	1	engineer	1
+sub-1223	17	12710	1	warmth	0	adventuring	0	exscuse	0	kindness	0	permits	1	finaly	1	exspensive	1	teacher	1	glorious	0	majoris	1	assistince	1	noisey	0	absorbness	1	deepth	1	remarkable	0	equalness	1	happyness	0	drama	0	expandness	1	musishen	1	health	1	relyable	0	product	1	fourth	0	safty	1	reasonable	1	length	1	enginer	1
+sub-1225	18	16165.94444	0	warm	0	adventure	1	explantion	1	humantiy	0	permit	1	finaly	1	expensive	1	teacher	1	glorios	0	major	0	assistiece	1	noisy	1	absordency	0	deep	1	remarkabal	0	equal	0	joy	1	dramatic	1	expantion	1	musichion	1	health	0	rely	1	production	1	fourth	0	secure	1	reasonbal	1	leanth	1	engineer	1
+sub-1228	5	17667.8	1	Warmth	0	Adventureing	0	EXPLAIN	0	Humaning	0	Permitthing	0	Finalround	0	Expenseing	1	Teacher	0	Gloring	0	Major1vote	0	Assiment	0	Noise	0	Absorbing	1	Deepneees	0	Remarabulveryfast	0	equalthings	1	Happnees	0	FilledwithDrama	1	Expantion	0	atmusic	0	Healingfoot	0	relysad	0	Produce	0	four	0	secure	0		0		0		1
+sub-1229	17	11327.52941	0	warmness	0	adventureful	1	explanation	0	humaness	1	permition	0	finalily	1	expensive	1	teacher	0	gloryful	1	majority	1	assitence	1	noisy	0	absorbence	0	deepness	0	remarkful	1	equality	1	happiness	1	drmatic	1	expansion	1	musiction	0	healing	0	reliful	1	production	1	fourth	1	security	0	reaspnible	1	length	1	engineer	1
+sub-1231	7	26252.71429	1	warmth	1	adventurice	0	example	0	humanist	0	permit	0	final	1	expensive	1	teacher	0	beautiful	0	major	0	assistion	0	loud	0	absorb	0	deeperness	1	remarkable	0	equaly	0	happies	1	dramadict	0	expandes	0	musical	0	healing	0	relyed	0	produces	0	fours	0	secures	0	reasonly	0	longer	1	enginer	1
+sub-1240	26	8558.923077	1	warmth	1	adventurous	1	explanation	1	humnanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistence	1	noisy	0	absorbability	1	deepth	1	remarkable	1	equalit	1	happiness	1	dramatic	1	expansion	0	musicio	1	health	1	reiable	1	production	1	fourth	1	security	1	reasonable	1	length	1	enginnier	1
+sub-1246	11	106552.0909	1	warmth	0	advenues	0	explainment	0	skip	0	apermit	1	finallee	1	expensiv	1	teacher	1	gloryis	0	ski	0	assistment	1	noisee	0	skip	0	deepness	0	remarkabie	0	equalness	1	happyness	1	dramtik	0	skip	1	muzishin	0	heal	0	skip	0	skip	0	skip	1	secureatea	1	reasonable	0	langth	0	engine	1
+sub-1247	21	53972.47619	1	warmth	1	adventurous	1	explaination	0	humanness	1	permesion	1	finale	1	expensive	1	teacher	0	a	0	a	1	assistance	1	noisy	0	absobance	1	depth	1	remarkable	1	equality	1	happyness	1	dramatick	1	exapantion	1	musicion	0	healing	0	skip	1	production	0	skip	1	securuty	1	reasonable	1	lenkth	1	enginner	1
+sub-1248	22	15933	1	warmth	1	adventurous	0	example	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisey	0	absorbance	0	deepness	1	remarkable	1	equallity	1	happiness	1	dramatic	0	expandment	1	musician	0	healing	1	reliable	1	production	1	fourth	1	security	0	reasoned	1	length	1	enginere	1
+sub-1250	22	16442.27273	1	warmth	1	adventurous	1	explaination	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	0	major	1	assitance	1	noisy	0	absorbtion	0	deep	1	remarkable	1	equality	1	happiness	1	dramatic	0	expanded	1	musician	0	healing	1	reliable	0	producing	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1251	18	12801.8	0	warming	1	adventurous	1	explaination	0	humanizing	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	mojority	0	assistant	1	noisy	0	absorbtion	0	deepness	1	remarkable	0	equalness	1	happiness	1	dramatic	0	expandation	1	musician	0	healing	0	relying	1	production	0	four	1	security	1	reasonable	1	length	1	engineer	1
+sub-1252	21	9425.24	0	warmer	1	adenturous	1	explaination	1	humanity	1	permiton	1	finally	1	expensive	1	teacher	1	gloryous	0	majorous	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expandtion	0	musiction	0	healing	1	relyable	1	production	0	fours	1	security	1	reasonable	1	length	0	enginman	1
+sub-1255	4	26993.25	0	skip	0	skip	0	skip	0	skip	0	permsen	0	skip	0	skip	1	teacher	0	gloryes	0	skip	0	assist	1	noisey	0	skip	0	dep	1	remarkabl	0	skip	0	happyis	0	damadike	0	skip	0	skip	0	skip	0	skip	0	skip	0	skip	0	safed	1	reasonobl	0	skip	0	enginener	1
+sub-1257	11	35777.54545	1	warmth	0	adventurers	1	explainashin	0	humantalit	0	the	0	finalil	1	expenseve	0	teach	1	gloryes	0	majorerifik	0	assist	1	noisey	0	absorbshion	0	deepniss	1	rearkabule	0	equalnis	0	happynis	1	dramatick	0	expanion	0	musion	1	healf	1	relyabel	0	produce	0	fourparts	0	home	1	reasonabl	1	langth	0	hisengine	1
+sub-1265	19	22736.52632	1	warmth	1	adventureous	0	explaint	1	humanity	0	pemittince	0	final	1	expencive	1	teacher	1	gloryous	0	major	1	assistance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happieness	1	dramatic	1	expantion	1	musicion	1	health	0	relyent	1	production	1	fourth	1	security	0		0		0		1
+sub-1268	6	23805.83333	1	warmth	0	adventures	0	exlpaining	0	scip	1	permishon	0	finales	1	espensiv	1	teacher	0	scip	0	major	0	assistents	1	noisee	0	adsorshon	0	deph	0	remarkedol	0	equaliom	1	happenes	0	scip	0	expand	0	moosishon	0	helf	0	rely	0	prodoosol	0	scip	0	securude	0	reasonnol	0	lennf	0	engines	1
+sub-1269	25	5299.24	1	warmth	1	adventurous	1	explination	0	humility	1	permission	1	finally	1	expensive	1	teacher	1	gloryious	1	majority	0	assists	1	noisy	0	absorbness	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expantion	1	musician	1	health	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1276	4	27869	0	cand	0	sip	0	explainy	0	sip	0	permittogo	1	finale	0	sip	1	teachr	0	gioryd	0	majordifit	0	assistwich	1	noisece	0	absorbvit	0	deepwatrs	0	sip	0	equalnasn	1	happynis	0	sip	0	expandind	0	sp	0	sip	0	relyrb	0	sip	0	fourache	0	sip	0	reasondr	0	sip	0	enginegnir	1
+sub-1277	19	10856.57895	0	warmer	0	adventures	1	explanaition	0	humaology	0	permit	1	finaly	1	expensive	1	teacher	1	glorious	0	major	1	assistance	1	noisy	0	absorbtion	0	deep	1	remarkable	1	equality	1	happiness	1	dramatic	0	expandatiom	1	musician	1	health	0	Relived	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1278	24	13545.25	1	warmth	1	adventureous	1	expainlation	0	hmanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	0	skip	1	assistance	1	noisey	0	absorbsion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musicion	0	healing	1	relieable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1283	24	6961.958333	1	warmth	1	adventourous	1	explaination	0	human	1	permition	1	finally	1	expensive	1	teacher	1	glorious	0	major	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expantion	1	musician	0	healing	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1284	19	10477	0	warmer	0	adventuriest	1	explaination	0	humanist	1	permission	1	fially	1	expensive	1	teacher	0	gloris	0	majotory	1	assistance	1	noiey	0	absorpitan	1	dept	1	remarkable	1	equalty	1	happiness	1	dramatic	1	expanision	1	musican	0	injury	1	relyabulle	1	production	0	fours	0	secuety	1	reasoable	1	ngth	1	enginer	1
+sub-1285	25	12668	1	warmth	1	adventureous	1	explanation	1	humanity	1	permision	1	finale	1	expensive	1	teacher	1	glorious	1	majoraty	1	assistence	1	noisy	0	absorbtion	1	depth	0	remakable	1	equality	1	happiness	1	dramatic	1	expansion	1	musicstion	1	health	1	reliable	1	production	0	before	1	security	1	reasonable	1	length	1	engineer	1
+sub-1287	23	9781.043478	0	warmness	0	adveturious	1	explaination	1	humanity	1	permition	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbtion	1	depth	1	remarkable	1	equaltiy	1	happyness	1	dramatic	1	expantion	0	msion	0	heath	1	relyable	1	production	1	fourth	1	security	1	reasonable	1	length	1	enginer	1
+sub-1288	23	23052.34783	1	warmth	1	adventurous	1	explanation	1	humanity	1	permition	0	finals	1	expensive	1	teacher	1	gloryous	0	majorous	1	assistance	1	noisy	0	absorbsion	0	deepness	1	remarkable	1	equality	1	happyness	1	dramatic	1	expantion	1	musicion	1	health	1	relyable	1	production	1	fourth	1	security	1	reasonable	0	leanth	1	engineer	1
+sub-1289	26	9216.192308	1	warmth	1	adventurous	1	explaination	1	humanity	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	0	skip	1	reliable	1	production	1	fourth	1	security	1	reasonable	1	length	1	engineer	1
+sub-1290	6	45111.83333	0	harms	0	adventures	0	sicp	0	secp	0	secp	0	finals	1	expensef	1	teachr	1	gloryis	0	majorad	0	assistis	0	noise	0	siep	0	deepis	1	remarkabol	0	equal	1	happynes	0	drama	0	secp	0	musiccl	0	haelbone	0	raely	0	produce	0	four	0	scp	1	reasonubol	0	longr	0	secp	1
+sub-1291	16	14141.375	1	warmth	0	adventurest	1	explaintion	0	personality	0	permit	0	final	1	expensive	1	teacher	1	glories	1	majority	0	assist	1	noisy	0	absorbtion	1	deepth	0	remarkble	0	equaledy	1	happyness	1	dramatic	1	expandtion	1	musicion	1	health	0	rely	1	production	0	for	1	securety	0	reasonbly	1	langth	0	engine	1
+sub-2029	24	7237.458333	1	warmth	1	adventurous	1	explanation	0	humanitarian	1	permission	1	finally	1	expensive	1	teacher	1	glorious	1	majority	1	assistance	1	noisy	0	absorbance	1	depth	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musician	1	health	1	reliable	0	producer	0	quadruple	1	security	1	reasonable	1	length	1	engineer	1
+sub-2061	19	7379.105263	0	warming	0	adventureful	1	explaination	1	humanity	0	permits	1	finaly	1	expensive	1	teacher	1	glorious	0	majorous	1	assistance	1	noisy	0	asorbability	0	deepness	1	remarkable	1	equality	1	happiness	1	dramatic	1	expansion	1	musiction	1	health	0	relying	0	producing	0	fours	1	sucurity	1	reasonable	1	lenght	1	engineer	1

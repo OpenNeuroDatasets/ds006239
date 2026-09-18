@@ -2,7 +2,8 @@
   "MeasurementToolMetadata": {
     "Description": "Derivational Morphology Task",
     "TermURL": "https://doi.org/10.1023/A:1008131926604s",
-    "Citation": "Carlisle, J.F. Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing 12, 169–190 (2000). https://doi.org/10.1023/A:1008131926604",
+    "Citation1": "Carlisle, J.F. Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing 12, 169–190 (2000). https://doi.org/10.1023/A:1008131926604",
+    "Citation2": "Tighe EL and Schatschneider C (2016) Modeling the Relations Among Morphological Awareness Dimensions, Vocabulary Knowledge, and Reading Comprehension in Adult Basic Education Students. Front. Psychol. 7:86. doi: 10.3389/fpsyg.2016.00086",
     "ScoringScheme": {
       "0": "Incorrect",
       "1": "Correct"
