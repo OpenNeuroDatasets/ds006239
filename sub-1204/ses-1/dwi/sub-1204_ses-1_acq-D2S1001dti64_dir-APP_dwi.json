@@ -52,7 +52,7 @@
 	"EstimatedTotalReadoutTime": 0.0377039,
 	"AcquisitionDuration": 224.497,
 	"PixelBandwidth": 2323.6,
-	"PhaseEncodingAxis": "j",
+	"PhaseEncodingDirection": "j-",
 	"ImageOrientationPatientDICOM": [
 		0.999761,
 		-0.0109822,
