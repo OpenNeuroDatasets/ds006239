@@ -1,3 +1,5 @@
+1.0.6 2026-09-29
+  - update anat files in correct format; update json metadata "PhaseEncodingDirection"; update phenotype and item-level data; add two typical hearing subjects 2029 and 2061 (should belong to 1000s TH category)
 1.0.5 2026-05-05
   - fix phenotype data
 1.0.4 2026-01-12
