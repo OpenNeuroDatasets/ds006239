@@ -1,3 +1,5 @@
+1.0.7 2026-10-06
+  - Update the shifted acquisition dates in each json file, modify dmorph.tsv and participants.tsv
 1.0.6 2026-09-29
   - update anat files in correct format; update json metadata "PhaseEncodingDirection"; update phenotype and item-level data; add two typical hearing subjects 2029 and 2061 (should belong to 1000s TH category)
 1.0.5 2026-05-05
